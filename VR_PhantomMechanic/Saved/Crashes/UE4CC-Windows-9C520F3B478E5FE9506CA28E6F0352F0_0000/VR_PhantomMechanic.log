@@ -1,0 +1,710 @@
+﻿Log file open, 02/01/18 13:25:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VR_PhantomMechanic
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(499268334) SRandInit(499268334).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.438552
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.01-18.25.20:973][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.01-18.25.20:973][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.01-18.25.20:998][  0]LogInit: Computer: EDS-SUPER-POTAT
+[2018.02.01-18.25.20:998][  0]LogInit: User: Edward
+[2018.02.01-18.25.20:998][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.01-18.25.20:998][  0]LogInit: High frequency timer resolution =2.433512 MHz
+[2018.02.01-18.25.20:999][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.01-18.25.20:999][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.01-18.25.20:999][  0]LogMemory: Process Physical Memory: 271.38 MB used, 271.38 MB peak
+[2018.02.01-18.25.20:999][  0]LogMemory: Process Virtual Memory: 269.12 MB used, 269.12 MB peak
+[2018.02.01-18.25.20:999][  0]LogMemory: Physical Memory: 2259.24 MB used,  5815.99 MB free, 8075.23 MB total
+[2018.02.01-18.25.20:999][  0]LogMemory: Virtual Memory: 673.54 MB used,  5815.99 MB free, 134217728.00 MB total
+[2018.02.01-18.25.21:460][  0]LogInit: Using OS detected language (en-US).
+[2018.02.01-18.25.21:460][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.01-18.25.21:479][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.01-18.25.22:219][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.01-18.25.23:150][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.01-18.25.23:154][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2018.02.01-18.25.23:154][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.01-18.25.23:160][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.01-18.25.23:160][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.01-18.25.23:160][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.01-18.25.23:167][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.01-18.25.23:168][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.01-18.25.23:168][  0]LogWindows: EnumDisplayDevices:
+[2018.02.01-18.25.23:168][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2018.02.01-18.25.23:168][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2018.02.01-18.25.23:168][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.01-18.25.23:168][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2018.02.01-18.25.23:169][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.01-18.25.23:169][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.01-18.25.23:169][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2018.02.01-18.25.23:172][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.01-18.25.23:240][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2018.02.01-18.25.23:258][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Intermediate/Shaders/WorkingDirectory/1672/).
+[2018.02.01-18.25.23:258][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Edward/AppData/Local/Temp/UnrealShaderWorkingDir/311BE7CD4D1188619B72DB8CE5F0F5D0/'.
+[2018.02.01-18.25.23:260][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.01-18.25.25:383][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.01-18.25.25:518][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.01-18.25.25:666][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.01-18.25.25:793][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.01-18.25.25:912][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.01-18.25.26:029][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.01-18.25.26:169][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.01-18.25.26:306][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.01-18.25.26:415][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.01-18.25.26:540][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.01-18.25.26:690][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.01-18.25.26:821][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.01-18.25.26:948][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.01-18.25.27:061][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.01-18.25.27:280][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.01-18.25.27:280][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.01-18.25.27:389][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.01-18.25.27:478][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.01-18.25.27:691][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.01-18.25.27:760][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.01-18.25.27:885][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.01-18.25.28:018][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.01-18.25.28:159][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.01-18.25.28:286][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.01-18.25.28:287][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.01-18.25.29:369][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.01-18.25.30:106][  0]LogDerivedDataCache: Loaded boot cache 0.73s 75MB C:/Users/Edward/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.01-18.25.30:107][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Edward/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.01-18.25.30:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.01-18.25.30:107][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.01-18.25.30:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.01-18.25.30:107][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.01-18.25.30:146][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.01-18.25.30:159][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Edward/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.01-18.25.30:174][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2018.02.01-18.25.30:186][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.01-18.25.30:193][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.01-18.25.30:194][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.01-18.25.31:631][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.01-18.25.32:537][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.01-18.25.32:615][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.01-18.25.32:616][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.01-18.25.32:616][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.01-18.25.32:616][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.01-18.25.32:616][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.01-18.25.32:709][  0]LogNetVersion: VR_PhantomMechanic , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1971551418)
+[2018.02.01-18.25.33:134][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2018.02.01-18.25.34:305][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.068495 seconds
+[2018.02.01-18.25.34:314][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.01-18.25.34:314][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.01-18.25.34:314][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.01-18.25.34:406][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.01-18.25.40:807][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.01-18.25.40:894][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.01-18.25.42:415][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.01-18.25.43:371][  0]SourceControl: Source control is disabled
+[2018.02.01-18.25.43:372][  0]SourceControl: Source control is disabled
+[2018.02.01-18.25.43:500][  0]SourceControl: Source control is disabled
+[2018.02.01-18.25.43:608][  0]SourceControl: Source control is disabled
+[2018.02.01-18.25.45:359][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.01-18.25.45:866][  0]LogOcInput: OculusInput pre-init called
+[2018.02.01-18.25.46:447][  0]LogEngine: Initializing Engine...
+[2018.02.01-18.25.46:457][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.01-18.25.46:825][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.01-18.25.46:826][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.01-18.25.47:110][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.01-18.25.47:141][  0]LogInit: XAudio2 using 'Speakers (Conexant 20672 SmartAudio HD)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.01-18.25.47:165][  0]LogInit: FAudioDevice initialized.
+[2018.02.01-18.25.47:325][  0]LogDerivedDataCache: Saved boot cache 0.16s 75MB C:/Users/Edward/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.01-18.25.47:340][  0]LogInit: Texture streaming: Enabled
+[2018.02.01-18.25.47:548][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.01-18.25.47:548][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={B6DF9D6F-4468-DBC2-69C0-66A9BBBE4F20}
+[2018.02.01-18.25.47:932][  0]LogInit: Transaction tracking system initialized
+[2018.02.01-18.25.48:846][  0]BlueprintLog: New page: Editor Load
+[2018.02.01-18.25.51:583][  0]LocalizationService: Localization service is disabled
+[2018.02.01-18.25.54:084][  0]LogConsoleResponse: Display: 
+[2018.02.01-18.25.54:550][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.01-18.25.54:550][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.01-18.25.54:551][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.01-18.25.55:435][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/' took 0.02s
+[2018.02.01-18.25.57:068][  0]SourceControl: Source control is disabled
+[2018.02.01-18.25.57:074][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Maps/PhantomTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2018.02.01-18.25.57:078][  0]LightingResults: New page: Lighting Build
+[2018.02.01-18.25.57:171][  0]MapCheck: New page: Map Check
+[2018.02.01-18.25.57:171][  0]LightingResults: New page: Lighting Build
+[2018.02.01-18.25.57:844][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords'
+[2018.02.01-18.25.57:844][  0]LoadErrors: Failed to load /Game/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3.SM_Forge_Sword3 Referenced by SM_Forge_Forgemaster_Ironbar_GEN_VARIABLE
+[2018.02.01-18.25.57:844][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords' while loading ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3.uasset.
+[2018.02.01-18.25.57:844][  0]LoadErrors: Failed to load /Game/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3.SM_Forge_Sword3 Referenced by SM_Forge_Forgemaster_Ironbar_GEN_VARIABLE
+[2018.02.01-18.25.57:844][  0]LoadErrors: Error: /Game/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3 : Can't find file for asset. /Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords
+[2018.02.01-18.25.57:845][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords'
+[2018.02.01-18.25.57:845][  0]LoadErrors: Failed to load /Game/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3.SM_Forge_Sword3 Referenced by SM_Forge_Forgemaster_Ironbar_GEN_VARIABLE
+[2018.02.01-18.25.57:845][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords' while loading ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3.uasset.
+[2018.02.01-18.25.57:845][  0]LoadErrors: Failed to load /Game/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3.SM_Forge_Sword3 Referenced by SM_Forge_Forgemaster_Ironbar_GEN_VARIABLE
+[2018.02.01-18.25.57:845][  0]LoadErrors: Error: /Game/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Sword3 : Can't find file for asset. /Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords
+[2018.02.01-18.25.58:007][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1'
+[2018.02.01-18.25.58:007][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1' while loading ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Forgemaster_Ironbar.uasset.
+[2018.02.01-18.25.58:007][  0]LoadErrors: Error: /Game/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Forgemaster_Ironbar : Can't find file for asset. /Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1
+[2018.02.01-18.25.58:007][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1'
+[2018.02.01-18.25.58:007][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1' while loading ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Forgemaster_Ironbar.uasset.
+[2018.02.01-18.25.58:007][  0]LoadErrors: Error: /Game/Imported/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Forgemaster_Ironbar : Can't find file for asset. /Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1
+[2018.02.01-18.25.58:293][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1'
+[2018.02.01-18.25.58:293][  0]LoadErrors: Failed to load /Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1.M_Forging_Level1 Referenced by SM_Forge_Forgemaster_Ironbar
+[2018.02.01-18.25.58:293][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1' while loading NULL.
+[2018.02.01-18.25.58:293][  0]LoadErrors: Failed to load /Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forging_Level1.M_Forging_Level1 Referenced by SM_Forge_Forgemaster_Ironbar
+[2018.02.01-18.25.58:309][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords'
+[2018.02.01-18.25.58:310][  0]LoadErrors: Failed to load /Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords.M_Forge_Swords Referenced by SM_Forge_Sword3
+[2018.02.01-18.25.58:310][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords' while loading NULL.
+[2018.02.01-18.25.58:310][  0]LoadErrors: Failed to load /Game/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/M_Forge_Swords.M_Forge_Swords Referenced by SM_Forge_Sword3
+[2018.02.01-18.25.58:924][  0]LogAIModule: Creating AISystem for world PhantomTestMap
+[2018.02.01-18.25.59:000][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-18.25.59:095][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-18.25.59:184][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.999ms to complete.
+[2018.02.01-18.25.59:184][  0]LogFileHelpers: Loading map 'PhantomTestMap' took 2.113
+[2018.02.01-18.25.59:474][  0]LogCollectionManager: Loaded 0 collections in 0.003051 seconds
+[2018.02.01-18.25.59:629][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/Collections/' took 0.01s
+[2018.02.01-18.25.59:629][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Developers/Edward/Collections/' took 0.01s
+[2018.02.01-18.25.59:629][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Collections/' took 0.01s
+[2018.02.01-18.25.59:629][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.01-18.25.59:648][  0]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2363 classes and 519 folders.
+[2018.02.01-18.25.59:779][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.01-18.26.00:016][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.01-18.26.00:229][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.01-18.26.00:460][  0]LogSlate: Took 0.001838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.01-18.26.00:468][  0]LogSlate: Took 0.001785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.01-18.26.00:475][  0]LogSlate: Took 0.001746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.01-18.26.00:646][  0]LogRenderer: Reallocating scene render targets to support 988x380 Format 9 NumSamples 1 (Frame:1).
+[2018.02.01-18.26.02:079][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.01-18.26.02:080][  0]LogLoad: (Engine Initialization) Total time: 47.16 seconds
+[2018.02.01-18.26.02:080][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.01-18.26.02:080][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.01-18.26.02:080][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.01-18.26.02:448][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.02.01-18.26.02:533][  0]LogSlate: Took 0.001898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-18.26.05:498][  3]LogAssetRegistry: Asset discovery search completed in 32.3870 seconds
+[2018.02.01-18.26.05:502][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.01-18.26.05:503][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000114 seconds (updated 0 objects)
+[2018.02.01-18.30.06:681][903]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-18.30.07:171][903]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.01-18.30.07:301][903]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.02.01-18.30.08:648][903]LogSlate: Took 0.001974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.01-18.30.08:764][904]LogRenderer: Reallocating scene render targets to support 1360x428 Format 9 NumSamples 1 (Frame:1).
+[2018.02.01-18.30.08:775][904]LogSlate: Took 0.002691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.01-18.31.20:431][484]LogSavePackage: Save=574.00ms
+[2018.02.01-18.31.20:431][484]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character684ECCBD491DA21D910B54A03E32836F.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.31.20:433][484]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.32.21:274][927]LogSavePackage: Save=632.74ms
+[2018.02.01-18.32.21:274][927]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character330910EB43AD01703E07B4B6AD5BD355.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.32.21:280][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.32.44:027][807]LogSavePackage: Save=618.16ms
+[2018.02.01-18.32.44:027][807]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character4064B3C042FD4EE72FF623B92D3D60E4.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.32.44:029][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.32.53:897][192]LogSavePackage: Save=614.79ms
+[2018.02.01-18.32.53:897][192]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character9E39196B4239F1FCB52CD3AF60042242.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.32.53:899][192]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.32.58:894][374]LogSavePackage: Save=610.80ms
+[2018.02.01-18.32.58:894][374]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character89E06E774C1BDD38C22B6DAC8D3C2C6D.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.32.58:896][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.33.05:944][631]LogSavePackage: Save=612.03ms
+[2018.02.01-18.33.05:944][631]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterB2EF4C1048481D3CBB6AAB9994654EE1.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.33.05:945][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.33.12:132][854]LogSavePackage: Save=623.33ms
+[2018.02.01-18.33.12:132][854]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character08AF3B294B00D2B110D4208E71C6C608.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.33.12:133][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.33.35:067][804]LogSavePackage: Save=602.21ms
+[2018.02.01-18.33.35:067][804]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character38F9062A45E556F1CFA4579EF15FB326.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.33.35:069][804]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.33.55:502][922]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-18.34.00:980][107]LogRenderer: Reallocating scene render targets to support 1360x488 Format 9 NumSamples 1 (Frame:140).
+[2018.02.01-18.34.02:868][183]LogRenderer: Reallocating scene render targets to support 1360x492 Format 9 NumSamples 1 (Frame:176).
+[2018.02.01-18.34.10:303][564]LogSavePackage: Save=25.38ms
+[2018.02.01-18.34.10:303][564]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/LeftSword48F9E0C04E43D79A8D95CDA62BDB405A.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Equipment/LeftSword.uasset'
+[2018.02.01-18.34.10:305][564]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Equipment/LeftSword.uasset
+[2018.02.01-18.34.29:319][358]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.01-18.34.29:854][358]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.02.01-18.34.30:319][358]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.02.01-18.34.31:032][358]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.02.01-18.34.31:095][358]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.01-18.34.37:245][624]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.02.01-18.34.37:696][624]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.02.01-18.34.38:333][624]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.01-18.34.45:614][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imported/Enemies/ParryAnim_BP" FILE="../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset" SILENT=true
+[2018.02.01-18.34.45:731][ 11]LogSavePackage: Save=92.84ms
+[2018.02.01-18.34.45:731][ 11]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/ParryAnim_BPBF65D9274C0A1CFF4588EABFC645230E.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset'
+[2018.02.01-18.34.45:732][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset
+[2018.02.01-18.35.09:446][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imported/Enemies/ParryAnim_BP" FILE="../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset" SILENT=true
+[2018.02.01-18.35.09:538][262]LogSavePackage: Save=74.62ms
+[2018.02.01-18.35.09:538][262]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/ParryAnim_BP30ED1B2741664C278D8FAF9ECF571F45.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset'
+[2018.02.01-18.35.09:541][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset
+[2018.02.01-18.35.18:043][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imported/Enemies/ParryAnim_BP" FILE="../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset" SILENT=true
+[2018.02.01-18.35.18:179][695]LogSavePackage: Save=111.75ms
+[2018.02.01-18.35.18:180][695]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/ParryAnim_BP82B77DA1480E297E3349BCBBC820E5B4.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset'
+[2018.02.01-18.35.18:184][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset
+[2018.02.01-18.35.19:426][751]BlueprintLog: New page: Compile ParryAnim_BP
+[2018.02.01-18.35.20:356][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imported/Enemies/ParryAnim_BP" FILE="../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset" SILENT=true
+[2018.02.01-18.35.20:460][770]LogSavePackage: Save=86.69ms
+[2018.02.01-18.35.20:460][770]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/ParryAnim_BP3359659A498FCE14F4703398E774F351.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset'
+[2018.02.01-18.35.20:461][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset
+[2018.02.01-18.35.56:249][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imported/Enemies/ParryAnim_BP" FILE="../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset" SILENT=true
+[2018.02.01-18.35.56:362][578]LogSavePackage: Save=88.48ms
+[2018.02.01-18.35.56:362][578]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/ParryAnim_BP82D97F814D1A203868963C837CDA693B.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset'
+[2018.02.01-18.35.56:365][578]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset
+[2018.02.01-18.36.04:534][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imported/Enemies/ParryAnim_BP" FILE="../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset" SILENT=true
+[2018.02.01-18.36.04:636][996]LogSavePackage: Save=81.79ms
+[2018.02.01-18.36.04:636][996]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/ParryAnim_BP029427C94C240BD7E6FCA08757828EFC.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset'
+[2018.02.01-18.36.04:640][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/ParryAnim_BP.uasset
+[2018.02.01-18.36.12:897][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.02.01-18.36.13:351][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.02.01-18.36.13:972][384]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.01-18.36.22:439][822]LogSavePackage: Save=45.06ms
+[2018.02.01-18.36.22:439][822]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/PaladinAnim_BpP35C277984692288AEB3B4C8F1DA180B9.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/PaladinAnim_BpP.uasset'
+[2018.02.01-18.36.22:442][822]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/Imported/Enemies/PaladinAnim_BpP.uasset
+[2018.02.01-18.36.58:956][340]LogSavePackage: Save=64.62ms
+[2018.02.01-18.36.58:957][340]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/SwordActorC6952DE64301DDCD79F14289DB2A3383.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Equipment/SwordActor.uasset'
+[2018.02.01-18.36.58:958][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Equipment/SwordActor.uasset
+[2018.02.01-18.37.01:521][489]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-18.38.15:208][ 22]LogSavePackage: Save=584.28ms
+[2018.02.01-18.38.15:208][ 22]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character7B6F791741DF9AD0FC58FAB3C71EFB03.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.38.15:211][ 22]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.38.20:096][280]LogSavePackage: Save=545.15ms
+[2018.02.01-18.38.20:096][280]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character60A7FA7E44D77B8095FBC993BF2A80E7.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.38.20:099][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.38.23:796][466]LogSavePackage: Save=572.80ms
+[2018.02.01-18.38.23:796][466]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character6DE112EE476C3E716B25DD8804A11BB8.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.38.23:799][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.40.02:798][352]LogSavePackage: Save=581.83ms
+[2018.02.01-18.40.02:798][352]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterF6222E664BD7FDBF45CBBDBE2D4E7A26.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.40.02:801][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.42.28:996][109]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-18.42.38:061][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PhantomMechanic/Maps/PhantomTestMap' took 0.053
+[2018.02.01-18.42.38:068][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PhantomMechanic/Player/VR_Character] ([1] browsable assets)...
+[2018.02.01-18.42.38:068][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/PhantomMechanic/Player/VR_Character]
+[2018.02.01-18.42.38:603][644]LogSavePackage: Save=516.11ms
+[2018.02.01-18.42.38:603][644]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character_Auto1E88174DE42868226F755BDBF2FA230B1.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/Autosaves/Game/PhantomMechanic/Player/VR_Character_Auto1.uasset'
+[2018.02.01-18.42.38:609][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/Autosaves/Game/PhantomMechanic/Player/VR_Character_Auto1.uasset
+[2018.02.01-18.42.38:609][644]LogFileHelpers: Auto-saving content packages took 0.547
+[2018.02.01-18.44.05:929][842]LogSavePackage: Save=571.35ms
+[2018.02.01-18.44.05:929][842]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character62E74DD448BDCC1632A8C6AF24320735.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.44.05:932][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.45.12:047][758]LogSavePackage: Save=549.18ms
+[2018.02.01-18.45.12:047][758]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character88FB53C34DE9B2DA41E7F3B64BC07E38.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.45.12:050][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.46.21:058][799]LogSavePackage: Save=541.21ms
+[2018.02.01-18.46.21:058][799]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterB67E343F4DF87B28133EF7BB88B362F7.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.46.21:060][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.46.53:012][686]LogEditorTransaction: Undo Promote To Variable
+[2018.02.01-18.46.56:255][832]LogSavePackage: Save=574.93ms
+[2018.02.01-18.46.56:255][832]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character4F7165904C2966765A8098A33F80092A.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.46.56:257][832]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.47.07:250][452]LogSavePackage: Save=567.00ms
+[2018.02.01-18.47.07:250][452]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character4ADA6A0A492AD1C55CF65B8A4B881E1A.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.47.07:252][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.48.38:181][851]LogSavePackage: Save=528.25ms
+[2018.02.01-18.48.38:181][851]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterFE8A92064C99CFB836B5A884CFFA51C9.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.48.38:182][851]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.49.37:762][336]LogSavePackage: Save=570.09ms
+[2018.02.01-18.49.37:762][336]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character93937C134A715F5591CD4CA13CF99B0C.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.49.37:763][336]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.53.24:582][691]LogSavePackage: Save=561.42ms
+[2018.02.01-18.53.24:582][691]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterE25167BE4B2ACE488D993494324C33D6.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.53.24:585][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.54.59:999][328]LogSavePackage: Save=580.40ms
+[2018.02.01-18.55.00:000][328]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterDCC22D6844A0EEEC80EA92B0FD8661CF.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.55.00:002][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.55.08:266][785]LogSavePackage: Save=566.26ms
+[2018.02.01-18.55.08:266][785]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterCE870DF04E1371C9B7AF348FEFC54894.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.55.08:268][785]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.55.20:978][510]LogSavePackage: Save=570.89ms
+[2018.02.01-18.55.20:978][510]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character6D413CD0426883E6B53E7F84C2A6583B.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.55.20:981][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.56.52:487][918]LogSavePackage: Save=604.33ms
+[2018.02.01-18.56.52:487][918]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character4F7DA51745F37ED07731C0B2C140F301.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.56.52:489][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.57.49:408][255]LogSavePackage: Save=598.60ms
+[2018.02.01-18.57.49:408][255]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character95A80AB742A8EA681CF0928221EFBBB1.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.57.49:411][255]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.58.02:042][972]LogSavePackage: Save=592.89ms
+[2018.02.01-18.58.02:042][972]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character74EF2BD945E9B025E0AC708A2ADCA8E0.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.58.02:045][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.58.19:003][952]LogSavePackage: Save=580.41ms
+[2018.02.01-18.58.19:003][952]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character90AFFE0643B410775B9C018456B86600.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.58.19:004][952]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.58.38:969][101]LogSavePackage: Save=590.38ms
+[2018.02.01-18.58.38:969][101]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character937129F54AC1F883F1766A9A8CF984C3.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.58.38:972][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.58.50:874][778]LogSavePackage: Save=587.61ms
+[2018.02.01-18.58.50:875][778]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterF6E8C7ED4BE80768E01120BCF20125A6.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.58.50:877][778]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.59.02:560][441]LogSavePackage: Save=603.45ms
+[2018.02.01-18.59.02:560][441]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterA03B337342E15589736155986CCDA594.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-18.59.02:562][441]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-18.59.51:658][383]LogEditorTransaction: Undo Move Nodes
+[2018.02.01-19.00.22:275][164]LogSavePackage: Save=591.65ms
+[2018.02.01-19.00.22:275][164]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character1CC212484BADD2F4A7452CA9ECE6B794.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.00.22:277][164]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.00.31:017][651]LogSavePackage: Save=580.67ms
+[2018.02.01-19.00.31:017][651]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character2978E44B4586F8D7D5D364B25E37F59F.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.00.31:019][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.00.51:294][828]LogSavePackage: Save=576.62ms
+[2018.02.01-19.00.51:294][828]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character12E20F3D446C46EB62CE1E8391EC07AC.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.00.51:296][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.03.03:019][651]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PhantomMechanic/Maps/PhantomTestMap' took 0.076
+[2018.02.01-19.03.03:022][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PhantomMechanic/Player/VR_Character] ([1] browsable assets)...
+[2018.02.01-19.03.03:057][651]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PhantomMechanic/Player/VR_Character.VR_Character]
+[2018.02.01-19.03.03:057][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/PhantomMechanic/Player/VR_Character]
+[2018.02.01-19.03.03:624][651]LogSavePackage: Save=552.28ms
+[2018.02.01-19.03.03:624][651]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character_Auto249A3C3344359900E503642BF300EF20B.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/Autosaves/Game/PhantomMechanic/Player/VR_Character_Auto2.uasset'
+[2018.02.01-19.03.03:626][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/Autosaves/Game/PhantomMechanic/Player/VR_Character_Auto2.uasset
+[2018.02.01-19.03.03:626][651]LogFileHelpers: Auto-saving content packages took 0.606
+[2018.02.01-19.06.08:475][741]LogEditorTransaction: Undo Rename Node
+[2018.02.01-19.06.10:033][820]LogEditorTransaction: Redo Rename Node
+[2018.02.01-19.07.06:659][136]LogSavePackage: Save=561.09ms
+[2018.02.01-19.07.06:659][136]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character1889F6254DE26F12063AB99904E33BE7.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.07.06:661][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.07.27:083][358]BlueprintLog: New page: Compile VR_Character
+[2018.02.01-19.07.28:414][358]BlueprintLog: New page: Compile VR_Character
+[2018.02.01-19.09.28:732][478]LogSavePackage: Save=585.62ms
+[2018.02.01-19.09.28:732][478]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character42693F3D46321916968FB595FE283A72.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.09.28:734][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.10.10:174][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.02.01-19.10.10:586][807]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.02.01-19.10.19:302][220]LogSavePackage: Save=116.63ms
+[2018.02.01-19.10.19:302][220]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP75DADDE24C3B3A3B8A9D7A9105AE4E85.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.10.19:305][220]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.10.54:333][ 34]LogSavePackage: Save=106.76ms
+[2018.02.01-19.10.54:333][ 34]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP254640994D62C698EAD27F97AB6BEB94.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.10.54:336][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.11.03:881][543]BlueprintLog: New page: Compile L_PhysicalAnimBP
+[2018.02.01-19.11.04:889][570]LogSavePackage: Save=111.76ms
+[2018.02.01-19.11.04:889][570]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP01DC115845FE3B44EC8459A69DE72F25.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.11.04:891][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.12.04:717][474]LogSavePackage: Save=128.91ms
+[2018.02.01-19.12.04:717][474]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP1912FF2A42BFCC4CF8AF6591C2A41BA2.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.12.04:720][474]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.12.13:803][907]LogSavePackage: Save=142.08ms
+[2018.02.01-19.12.13:803][907]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBPDBFAC88E4EEEE5ADAEC1F4B7A4C10800.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.12.13:806][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x207916e3fe8 [can pipeline])
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.207.7.116) port 443 (#20))
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 3 (upload completely sent off: 1238 out of 1238 bytes)
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 6 (Closing connection 20)
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA92B9C28-46C2-4D09-8B6C-BF856C7D6814%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=b7d42aa9425a2b96a995b2b52feb8fde%7C0d29643155df447f8ecd4affefbed7c2%7C03053c4e-1121-4012-9736-12cc463060cf&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.01-19.12.20:639][244]LogHttp: Warning: 00000208364E7880: libcurl info message cache 9 (Closing connection 21)
+[2018.02.01-19.12.52:885][789]LogSavePackage: Save=153.58ms
+[2018.02.01-19.12.52:885][789]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBPC690517B4617BD64930370A8D98FA158.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.12.52:890][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.12.54:076][836]LogSavePackage: Save=143.17ms
+[2018.02.01-19.12.54:076][836]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP9665E34E495AE0BEF558E2AB18ABD035.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.12.54:079][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.13.49:766][543]LogSavePackage: Save=153.02ms
+[2018.02.01-19.13.49:766][543]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP50746A454C933978C225FFAFF1DFD8E9.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.13.49:769][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.13.56:599][878]LogSavePackage: Save=134.43ms
+[2018.02.01-19.13.56:599][878]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP0D65AF284A86FD8A72703DA0FD215947.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.13.56:602][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.14.07:850][462]LogSavePackage: Save=147.17ms
+[2018.02.01-19.14.07:850][462]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBPE9D19CD147A9B8E7057E7FA1AF6AAB61.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.14.07:853][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.14.50:364][624]LogSavePackage: Save=141.67ms
+[2018.02.01-19.14.50:364][624]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP3A20542B4058B1D2A819A583CAC0F79F.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.14.50:367][624]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.16.06:526][607]LogSavePackage: Save=142.05ms
+[2018.02.01-19.16.06:526][607]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP0FF1E5F648A214E24215D98D3CFAD494.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.16.06:529][607]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.16.12:491][938]BlueprintLog: New page: Compile L_PhysicalAnimBP
+[2018.02.01-19.16.13:430][958]LogSavePackage: Save=155.46ms
+[2018.02.01-19.16.13:430][958]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP273D7330453335C5CDDBBEBA8503EC18.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.16.13:431][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.17.06:375][760]LogSavePackage: Save=157.54ms
+[2018.02.01-19.17.06:375][760]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP60ADE708462BAC524A10AAAE71C764A1.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.17.06:378][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.17.10:082][951]LogSavePackage: Save=143.98ms
+[2018.02.01-19.17.10:082][951]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBPE822FF744388364298123EA2178AF0B1.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.17.10:085][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.17.15:217][219]LogSavePackage: Save=144.51ms
+[2018.02.01-19.17.15:217][219]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP6DC63D00465AE710BF7082B93A7CC212.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.17.15:218][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.17.51:856][108]LogSavePackage: Save=164.17ms
+[2018.02.01-19.17.51:856][108]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP6FDE1F0A4E8A0A0E8E27C98E2614F540.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.17.51:859][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.17.59:630][530]BlueprintLog: New page: Compile L_PhysicalAnimBP
+[2018.02.01-19.18.00:791][561]LogSavePackage: Save=154.56ms
+[2018.02.01-19.18.00:791][561]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP82FE995A4BEF239EC3FC1195C3335ED3.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.18.00:793][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.19.49:634][209]LogSavePackage: Save=152.32ms
+[2018.02.01-19.19.49:634][209]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP3177DB614F0540AB5326FB8F61A65D1F.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.19.49:636][209]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.20.18:877][677]LogSavePackage: Save=158.21ms
+[2018.02.01-19.20.18:877][677]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBPD7EE2E91443AE02C4A44708B85A25BC3.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.20.18:879][677]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.21.16:618][418]LogRenderer: Reallocating scene render targets to support 1360x660 Format 9 NumSamples 1 (Frame:33655).
+[2018.02.01-19.21.56:272][257]LogSavePackage: Save=135.64ms
+[2018.02.01-19.21.56:272][257]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP19C5972C4CA8B3C349163A8879308834.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.21.56:273][257]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.22.07:463][928]BlueprintLog: New page: Compile L_PhysicalAnimBP
+[2018.02.01-19.22.09:219][  2]LogSavePackage: Save=140.20ms
+[2018.02.01-19.22.09:219][  2]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP93A6773E4A655D63BC665A8DD8125800.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.22.09:220][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.22.23:021][799]BlueprintLog: New page: Compile VR_Character
+[2018.02.01-19.22.24:028][799]BlueprintLog: New page: Compile VR_Character
+[2018.02.01-19.23.44:205][ 46]LogSavePackage: Save=673.92ms
+[2018.02.01-19.23.44:205][ 46]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character1BB261524E5E0093D6B5E58D6B28AD33.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.23.44:206][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.26.40:231][ 90]LogSavePackage: Save=573.94ms
+[2018.02.01-19.26.40:231][ 90]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterD3BE388E449B8ECA4F72E4A794AE3510.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.26.40:233][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.27.58:335][679]LogSavePackage: Save=626.22ms
+[2018.02.01-19.27.58:335][679]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character26473A95423EFE343DD062A780ECE42C.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.27.58:338][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.28.14:296][593]LogSavePackage: Save=608.02ms
+[2018.02.01-19.28.14:296][593]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterC49FD8794F3ADFA2426FF098D55760A5.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.28.14:298][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.28.18:017][779]LogSavePackage: Save=598.39ms
+[2018.02.01-19.28.18:017][779]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character47229A6C433257175A9726AB34F33340.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.28.18:019][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.28.21:975][  2]LogSavePackage: Save=137.16ms
+[2018.02.01-19.28.21:975][  2]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/L_PhysicalAnimBP6E2F77D2454C84D8DEF3E686798B6AF1.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset'
+[2018.02.01-19.28.21:977][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/Physical/Animation/L_PhysicalAnimBP.uasset
+[2018.02.01-19.29.18:543][321]LogSavePackage: Save=618.46ms
+[2018.02.01-19.29.18:543][321]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character75C6427640A490B04D39B096EC6D5416.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.29.18:545][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.29.42:178][729]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PhantomMechanic/Maps/PhantomTestMap' took 0.063
+[2018.02.01-19.29.42:182][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PhantomMechanic/Player/Physical/Animation/R_PhysicalAnimBP] ([1] browsable assets)...
+[2018.02.01-19.29.42:218][729]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/PhantomMechanic/Player/Physical/Animation/R_PhysicalAnimBP.R_PhysicalAnimBP]
+[2018.02.01-19.29.42:218][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/PhantomMechanic/Player/Physical/Animation/R_PhysicalAnimBP]
+[2018.02.01-19.29.42:332][729]LogSavePackage: Save=96.48ms
+[2018.02.01-19.29.42:332][729]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/R_PhysicalAnimBP_Auto338D8F3904864A3090359C08A852ADD23.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/Autosaves/Game/PhantomMechanic/Player/Physical/Animation/R_PhysicalAnimBP_Auto3.uasset'
+[2018.02.01-19.29.42:334][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/Autosaves/Game/PhantomMechanic/Player/Physical/Animation/R_PhysicalAnimBP_Auto3.uasset
+[2018.02.01-19.29.42:334][729]LogFileHelpers: Auto-saving content packages took 0.155
+[2018.02.01-19.33.11:713][255]LogSavePackage: Save=562.24ms
+[2018.02.01-19.33.11:713][255]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character0C8C0CD94CDBD860DC91549088E8FEC7.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.33.11:716][255]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.33.44:473][184]LogSavePackage: Save=572.58ms
+[2018.02.01-19.33.44:474][184]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character5A0C1DAE4621A491083D5FAB36136F57.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.33.44:476][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.34.25:979][637]LogSavePackage: Save=559.41ms
+[2018.02.01-19.34.25:979][637]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_Character93276E9048E13470B0FE9C974819B3CB.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.34.25:981][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.34.40:838][489]LogSavePackage: Save=561.04ms
+[2018.02.01-19.34.40:838][489]LogSavePackage: Moving '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Saved/VR_CharacterE4F134744A61485133D9F2BD960EA9CC.tmp' to '../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset'
+[2018.02.01-19.34.40:841][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/Unreal/VR_SwordMechanic/VR_PhantomMechanic/Content/PhantomMechanic/Player/VR_Character.uasset
+[2018.02.01-19.34.45:034][735]LogUObjectArray: Warning: Other object in slot
+[2018.02.01-19.34.45:516][735]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.483 s
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: 
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: Stack: 
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000EBF32786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000EBCD123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000EBCEB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E6E533F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E3B603AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E29F3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E28874AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E288ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E29B8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E8117397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E811CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.01-19.34.45:516][735]LogOutputDevice: Error: [Callstack] 0x00000000E8359913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x00000000E8173484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x00000000E816D1F1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x00000000E816C953 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x00000000BADA69CA UE4Editor.exe!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x00000000BADB5430 UE4Editor.exe!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x00000000BADB54AA UE4Editor.exe!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x00000000BADC2379 UE4Editor.exe!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x00000000BADC3D57 UE4Editor.exe!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x000000001F4B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: [Callstack] 0x000000002031EF91 ntdll.dll!UnknownFunction []
+[2018.02.01-19.34.45:517][735]LogOutputDevice: Error: 
+[2018.02.01-19.34.45:523][735]LogStats:                SubmitErrorReport -  0.000 s
