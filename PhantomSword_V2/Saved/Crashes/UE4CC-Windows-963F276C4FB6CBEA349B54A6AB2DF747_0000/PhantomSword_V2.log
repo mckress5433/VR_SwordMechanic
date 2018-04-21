@@ -1,0 +1,1302 @@
+﻿Log file open, 04/21/18 16:13:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PhantomSword_V2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(645561735) SRandInit(645561735).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.884289
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.816s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-TVE1Q8K (10.108.204.107:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.21-20.13.08:135][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-20.13.08:135][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.21-20.13.08:183][  0]LogInit: Computer: DESKTOP-TVE1Q8K
+[2018.04.21-20.13.08:183][  0]LogInit: User: Cosmotron
+[2018.04.21-20.13.08:183][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.21-20.13.08:183][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2018.04.21-20.13.08:184][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.04.21-20.13.08:184][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.21-20.13.08:184][  0]LogMemory: Process Physical Memory: 275.11 MB used, 275.11 MB peak
+[2018.04.21-20.13.08:184][  0]LogMemory: Process Virtual Memory: 264.60 MB used, 264.60 MB peak
+[2018.04.21-20.13.08:184][  0]LogMemory: Physical Memory: 4226.85 MB used,  28495.86 MB free, 32722.71 MB total
+[2018.04.21-20.13.08:184][  0]LogMemory: Virtual Memory: 697.63 MB used,  28495.86 MB free, 134217728.00 MB total
+[2018.04.21-20.13.08:545][  0]LogInit: Using OS detected language (en-US).
+[2018.04.21-20.13.08:545][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.21-20.13.08:626][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.21-20.13.09:589][  0]LogStreaming: Display: Took  1.044s to EndInitTextLocalization.
+[2018.04.21-20.13.09:590][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.21-20.13.09:736][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.21-20.13.09:736][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.21-20.13.14:692][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.21-20.13.14:793][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.21-20.13.14:793][  0]LogD3D11RHI:       8081/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.21-20.13.14:796][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.21-20.13.14:796][  0]LogD3D11RHI:       0/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.21-20.13.14:796][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.21-20.13.14:808][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.21-20.13.14:809][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.21-20.13.14:809][  0]LogWindows: EnumDisplayDevices:
+[2018.04.21-20.13.14:809][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.21-20.13.14:810][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.21-20.13.14:810][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.21-20.13.14:810][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.21-20.13.14:810][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.21-20.13.14:811][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.21-20.13.14:811][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.21-20.13.14:811][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.21-20.13.14:811][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.04.21-20.13.14:860][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.21-20.13.14:860][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.21-20.13.14:860][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.21-20.13.15:045][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.21-20.13.15:092][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Intermediate/Shaders/WorkingDirectory/3864/).
+[2018.04.21-20.13.15:093][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cosmotron/AppData/Local/Temp/UnrealShaderWorkingDir/FBCE03F347B434DC5AF362880D430991/'.
+[2018.04.21-20.13.16:972][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.21-20.13.17:005][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.21-20.13.17:038][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.21-20.13.17:073][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.21-20.13.17:109][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.21-20.13.17:140][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.21-20.13.17:172][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.21-20.13.17:204][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.21-20.13.17:216][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.21-20.13.17:241][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.21-20.13.17:267][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.21-20.13.17:292][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.21-20.13.17:322][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.21-20.13.17:352][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.21-20.13.17:387][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.21-20.13.17:437][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.21-20.13.17:437][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.21-20.13.17:472][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.21-20.13.17:475][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.21-20.13.17:568][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.21-20.13.17:593][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.21-20.13.17:621][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.21-20.13.17:646][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.21-20.13.17:675][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.21-20.13.17:708][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.21-20.13.17:708][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.21-20.13.18:395][  0]LogXGEController: Cleaning working directory: C:/Users/Cosmotron/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.21-20.13.18:395][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.21-20.13.18:396][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.21-20.13.18:396][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.21-20.13.22:086][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.21-20.13.22:547][  0]LogDerivedDataCache: Loaded boot cache 0.46s 89MB C:/Users/Cosmotron/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.21-20.13.22:547][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cosmotron/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.21-20.13.22:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.21-20.13.22:548][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.21-20.13.22:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.21-20.13.22:548][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.21-20.13.22:607][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.21-20.13.22:621][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cosmotron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.21-20.13.22:653][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.21-20.13.22:660][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.21-20.13.22:686][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-20.13.22:686][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-20.13.28:296][  0]LogAssetRegistry: FAssetRegistry took 0.0399 seconds to start up
+[2018.04.21-20.13.29:234][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-20.13.29:960][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.21-20.13.29:971][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.21-20.13.29:972][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.21-20.13.29:973][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.21-20.13.29:973][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.21-20.13.29:973][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.21-20.13.30:125][  0]LogNetVersion: PhantomSword_V2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2480946267)
+[2018.04.21-20.13.32:891][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.252264 seconds
+[2018.04.21-20.13.32:905][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.21-20.13.32:905][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.21-20.13.32:905][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.21-20.13.44:376][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.21-20.13.44:429][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.21-20.13.45:291][  0]SourceControl: Source control is disabled
+[2018.04.21-20.13.45:291][  0]SourceControl: Source control is disabled
+[2018.04.21-20.13.45:336][  0]SourceControl: Source control is disabled
+[2018.04.21-20.13.45:374][  0]SourceControl: Source control is disabled
+[2018.04.21-20.13.46:306][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.21-20.13.46:631][  0]LogOcInput: OculusInput pre-init called
+[2018.04.21-20.13.46:927][  0]LogEngine: Initializing Engine...
+[2018.04.21-20.13.47:013][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.04.21-20.13.47:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.21-20.13.47:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.21-20.13.47:982][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.21-20.13.48:013][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.21-20.13.48:108][  0]LogInit: FAudioDevice initialized.
+[2018.04.21-20.13.48:235][  0]LogDerivedDataCache: Saved boot cache 0.13s 89MB C:/Users/Cosmotron/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.21-20.13.48:252][  0]LogInit: Texture streaming: Enabled
+[2018.04.21-20.13.48:285][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.21-20.13.48:321][  0]LogInit: Transaction tracking system initialized
+[2018.04.21-20.13.48:392][  0]BlueprintLog: New page: Editor Load
+[2018.04.21-20.13.48:610][  0]LocalizationService: Localization service is disabled
+[2018.04.21-20.13.48:756][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.04.21-20.13.48:757][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.04.21-20.13.48:757][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.04.21-20.13.48:879][  0]LogConsoleResponse: Display: 
+[2018.04.21-20.13.49:673][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.21-20.13.49:673][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.21-20.13.49:673][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.21-20.13.49:673][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.21-20.13.49:673][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.21-20.13.50:427][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/' took 0.02s
+[2018.04.21-20.13.51:177][  0]SourceControl: Source control is disabled
+[2018.04.21-20.13.51:179][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.21-20.13.51:189][  0]LightingResults: New page: Lighting Build
+[2018.04.21-20.13.51:216][  0]MapCheck: New page: Map Check
+[2018.04.21-20.13.51:216][  0]LightingResults: New page: Lighting Build
+[2018.04.21-20.13.52:665][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.915726ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.04.21-20.13.52:691][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [11.646106ms] /Game/Z_Folder/Arms/Physical_Arms/HandlessArms_Physical.HandlessArms_Physical
+[2018.04.21-20.13.52:727][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [11.105410ms] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.21-20.13.52:751][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [12.871733ms] /Game/Z_Folder/Arms/Phantom_Arms/HandlessArms_Phantom.HandlessArms_Phantom
+[2018.04.21-20.13.52:977][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.04.21-20.13.53:000][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.13.53:000][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.13.53:000][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.13.53:000][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.13.53:009][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.13.53:009][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.13.53:009][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.13.53:009][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.13.53:015][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.13.53:015][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.13.53:015][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.13.53:015][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.13.53:016][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.13.53:016][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.13.53:016][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.13.53:016][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.13.53:018][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.13.53:018][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.13.53:018][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.13.53:018][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.13.53:019][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.13.53:019][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.13.53:019][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.13.53:019][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.13.53:023][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.21-20.13.53:057][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.21-20.13.55:359][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,301.301ms to complete.
+[2018.04.21-20.13.55:359][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 4.181
+[2018.04.21-20.13.55:732][  0]LogCollectionManager: Loaded 0 collections in 0.002831 seconds
+[2018.04.21-20.13.55:814][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/Collections/' took 0.01s
+[2018.04.21-20.13.55:814][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Developers/Cosmotron/Collections/' took 0.01s
+[2018.04.21-20.13.55:814][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Collections/' took 0.01s
+[2018.04.21-20.13.55:814][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.21-20.13.55:833][  0]LogContentBrowser: Native class hierarchy populated in 0.0170 seconds. Added 2453 classes and 560 folders.
+[2018.04.21-20.13.55:886][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.21-20.13.56:573][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.21-20.13.56:795][  0]LogSlate: Took 0.011884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.21-20.13.56:809][  0]LogSlate: Took 0.007027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.21-20.13.56:821][  0]LogSlate: Took 0.007483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.21-20.13.57:050][  0]LogRenderer: Reallocating scene render targets to support 848x500 Format 26 NumSamples 1 (Frame:1).
+[2018.04.21-20.13.57:316][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.21-20.13.57:316][  0]LogLoad: (Engine Initialization) Total time: 59.18 seconds
+[2018.04.21-20.13.57:317][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.21-20.13.57:361][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.21-20.13.57:462][  0]LogSlate: Took 0.009799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.21-20.13.57:595][  2]LogAssetRegistry: Asset discovery search completed in 29.3223 seconds
+[2018.04.21-20.13.57:600][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.21-20.13.57:600][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000115 seconds (updated 0 objects)
+[2018.04.21-20.14.13:579][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.14.13:779][916]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.21-20.14.14:424][916]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.04.21-20.14.15:905][916]LogSlate: Took 0.007092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.21-20.14.16:288][917]LogSlate: Took 0.006832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.21-20.14.18:495][ 18]LogRenderer: Reallocating scene render targets to support 876x616 Format 26 NumSamples 1 (Frame:1).
+[2018.04.21-20.15.46:136][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.15.50:510][337]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.15.50:510][337]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.15.50:510][337]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.15.50:510][337]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.15.50:511][337]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.15.50:511][337]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.15.50:511][337]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.15.50:511][337]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.15.50:953][338]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.15.50:953][338]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.15.50:953][338]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.15.50:953][338]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.15.50:953][338]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.15.50:953][338]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.15.50:953][338]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.15.50:953][338]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.15.51:035][339]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.15.51:035][339]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.15.52:560][407]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.15.52:560][407]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.15.52:560][407]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.15.52:560][407]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.15.52:560][407]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.15.52:560][407]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.15.52:560][407]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.15.52:560][407]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.15.52:590][408]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.15.52:590][408]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.15.52:590][408]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.15.52:590][408]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.15.52:590][408]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.15.52:590][408]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.15.52:591][408]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.15.52:591][408]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.15.52:621][409]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.15.52:621][409]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.15.52:622][409]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.15.52:622][409]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.15.52:622][409]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.15.52:622][409]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.15.52:622][409]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.15.52:622][409]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.15.52:652][410]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.15.52:652][410]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.15.52:652][410]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.15.52:652][410]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.15.52:652][410]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.15.52:652][410]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.15.52:652][410]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.15.52:652][410]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.15.52:682][411]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhysicalArms.PhysicalArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.15.52:682][411]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Engine/Transient.World_4:PersistentLevel.PhantomControllerPawn_C_1.PhantomArms.PhantomArms_AnimBP_C_2
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.21.22:455][297]LogInit: XAudio2 using 'DELL U2913WM (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.21-20.21.31:851][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.27.13:206][ 92]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.21-20.27.13:496][ 92]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.21-20.27.13:510][ 92]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.21-20.27.13:583][ 92]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.21-20.27.13:935][ 92]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.21-20.27.13:996][ 92]LogRenderer: Reallocating scene render targets to support 1016x768 Format 26 NumSamples 1 (Frame:1).
+[2018.04.21-20.27.24:897][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.27.25:876][958]LogSlate: Window 'PhysicalHand' being destroyed
+[2018.04.21-20.27.31:694][211]LogRenderer: Reallocating scene render targets to support 1316x768 Format 26 NumSamples 1 (Frame:5908).
+[2018.04.21-20.27.37:628][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.27.37:792][483]LogSavePackage: Save=18.83ms
+[2018.04.21-20.27.37:792][483]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHandC592DE08428519BE8FA2F6A3381ACC42.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset'
+[2018.04.21-20.27.37:795][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset
+[2018.04.21-20.27.51:339][ 94]LogEditorTransaction: Undo Rotate Bone
+[2018.04.21-20.27.51:447][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.21-20.27.52:598][128]Cmd: TRANSACTION UNDO
+[2018.04.21-20.27.52:598][128]LogEditorTransaction: Undo Rotate Bone
+[2018.04.21-20.27.52:695][128]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.21-20.27.56:227][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.27.56:371][260]LogSavePackage: Save=8.22ms
+[2018.04.21-20.27.56:371][260]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHandA0DD55FB4349405137D6A7AE356976D6.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset'
+[2018.04.21-20.27.56:373][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset
+[2018.04.21-20.28.00:087][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.28.18:083][993]BlueprintLog: New page: Compile BP_PhysicalHand
+[2018.04.21-20.28.18:457][993]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.28.18:457][993]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.28.18:457][993]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.28.18:457][993]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.28.18:457][993]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.28.18:457][993]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.28.18:458][993]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.28.18:458][993]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.28.18:458][993]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.28.18:458][993]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.28.18:458][993]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.28.18:458][993]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.28.18:459][993]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.28.18:459][993]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.28.18:459][993]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.28.18:459][993]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.28.18:459][993]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-20.28.18:459][993]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-20.28.18:459][993]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-20.28.18:459][993]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-20.28.18:460][993]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-20.28.18:460][993]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-20.28.18:460][993]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-20.28.18:460][993]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_3
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-20.28.27:320][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.28.27:444][320]LogSavePackage: Save=8.84ms
+[2018.04.21-20.28.27:444][320]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHandAB397D66487325BD5030159103AF0B99.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset'
+[2018.04.21-20.28.27:445][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset
+[2018.04.21-20.28.35:067][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.28.46:608][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.28.46:731][971]LogSavePackage: Save=7.95ms
+[2018.04.21-20.28.46:731][971]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHand7CB9AF544B0AA04CB549BE8AD7385130.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset'
+[2018.04.21-20.28.46:733][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset
+[2018.04.21-20.29.01:091][501]Cmd: TRANSACTION UNDO
+[2018.04.21-20.29.01:091][501]LogEditorTransaction: Undo Rotate Bone
+[2018.04.21-20.29.01:204][501]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.21-20.29.01:705][514]Cmd: TRANSACTION UNDO
+[2018.04.21-20.29.01:705][514]LogEditorTransaction: Undo Rotate Bone
+[2018.04.21-20.29.01:812][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.21-20.29.02:309][529]Cmd: TRANSACTION UNDO
+[2018.04.21-20.29.02:309][529]LogEditorTransaction: Undo Rotate Bone
+[2018.04.21-20.29.02:408][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.21-20.29.10:186][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-20.29.47:053][681]LogSlate: Window 'BP_PhysicalHand*' being destroyed
+[2018.04.21-20.29.47:078][681]LogSlate: Window 'BP_PhysicalHand*' being destroyed
+[2018.04.21-20.29.50:756][937]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.21-20.30.20:283][855]LogSavePackage: Save=116.18ms
+[2018.04.21-20.30.20:283][855]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/MotionControllerMap_Auto1740EF4CA4D5AD5CFEAB203AA7E691430.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2018.04.21-20.30.20:286][855]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap
+[2018.04.21-20.30.20:291][855]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.166
+[2018.04.21-20.30.20:291][855]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.166
+[2018.04.21-20.30.20:308][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Z_Folder/BP_PhysicalHand] ([1] browsable assets)...
+[2018.04.21-20.30.20:334][855]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Z_Folder/BP_PhysicalHand.BP_PhysicalHand]
+[2018.04.21-20.30.20:334][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Z_Folder/BP_PhysicalHand]
+[2018.04.21-20.30.20:392][855]LogSavePackage: Save=48.54ms
+[2018.04.21-20.30.20:392][855]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/BP_PhysicalHand_Auto1F3EC64254001308720641EB4CE4854B2.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/Autosaves/Game/Z_Folder/BP_PhysicalHand_Auto1.uasset'
+[2018.04.21-20.30.20:395][855]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/Autosaves/Game/Z_Folder/BP_PhysicalHand_Auto1.uasset
+[2018.04.21-20.30.20:395][855]LogFileHelpers: Auto-saving content packages took 0.088
+[2018.04.21-20.52.51:596][303]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{576b5888-7c39-46e2-a272-c0ae13f31e15} was removed. Shutting down audio device.
+[2018.04.21-20.52.51:596][303]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.21-21.17.02:991][656]LogInit: XAudio2 using 'DELL U2913WM (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.21-21.18.44:714][ 96]BlueprintLog: New page: Compile BP_PhysicalHand
+[2018.04.21-21.18.45:643][109]LogSlate: Window 'BP_PhysicalHand*' being destroyed
+[2018.04.21-21.18.52:585][272]LogSlate: Window 'Save Content' being destroyed
+[2018.04.21-21.18.52:856][272]LogSavePackage: Save=111.45ms
+[2018.04.21-21.18.52:859][272]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/MotionControllerMap6868A2AD4243D034D6CE94861704B556.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.04.21-21.18.52:866][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.04.21-21.18.52:895][272]LogFileHelpers: Saving map 'MotionControllerMap' took 0.239
+[2018.04.21-21.18.52:898][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Z_Folder/BP_PhysicalHand" FILE="../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/BP_PhysicalHand.uasset" SILENT=true
+[2018.04.21-21.18.52:949][272]LogSavePackage: Save=41.07ms
+[2018.04.21-21.18.52:949][272]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/BP_PhysicalHand90D8392042DC2C404CF23EAF7A2E2E5E.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/BP_PhysicalHand.uasset'
+[2018.04.21-21.18.52:953][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/BP_PhysicalHand.uasset
+[2018.04.21-21.18.58:979][462]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.21-21.18.59:514][462]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.21-21.18.59:519][462]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.21-21.18.59:522][462]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.21-21.18.59:527][462]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.21-21.20.30:933][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\r_hand_neworiginphantom01.fbx)
+[2018.04.21-21.20.30:956][322]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.21-21.20.30:956][322]LogFbx: ItemName: NodeAttribute, ItemCount : 23
+[2018.04.21-21.20.30:956][322]LogFbx: ItemName: Geometry, ItemCount : 16
+[2018.04.21-21.20.30:956][322]LogFbx: ItemName: Model, ItemCount : 39
+[2018.04.21-21.20.30:956][322]LogFbx: ItemName: Pose, ItemCount : 16
+[2018.04.21-21.20.30:956][322]LogFbx: ItemName: Deformer, ItemCount : 337
+[2018.04.21-21.20.30:956][322]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.21-21.20.30:963][322]LogFbx: Loading FBX Scene from E:\r_hand_neworiginphantom01.fbx
+[2018.04.21-21.20.30:998][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.21-21.20.33:509][322]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.21-21.20.33:597][322]LogFbx: Loading FBX Scene from E:\r_hand_neworiginphantom01.fbx
+[2018.04.21-21.20.33:626][322]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.21-21.20.33:635][322]LogFbx: =================================================
+[2018.04.21-21.20.33:635][322]LogFbx: Dumping Node START [R_Hand.047] 
+[2018.04.21-21.20.33:635][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:635][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:635][322]LogFbx: =================================================
+[2018.04.21-21.20.33:635][322]LogFbx: 	Attribute (SK_Mannequin.046) Type (4).
+[2018.04.21-21.20.33:635][322]LogFbx: 		[Node Attribute Child 1] R_Hand.047 (Type Mesh).
+[2018.04.21-21.20.33:635][322]LogFbx: Dumping Node END [R_Hand.047]
+[2018.04.21-21.20.33:635][322]LogFbx: =================================================
+[2018.04.21-21.20.33:635][322]LogFbx: Dumping Node START [R_Hand.046] 
+[2018.04.21-21.20.33:635][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:635][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:635][322]LogFbx: =================================================
+[2018.04.21-21.20.33:635][322]LogFbx: 	Attribute (SK_Mannequin.045) Type (4).
+[2018.04.21-21.20.33:635][322]LogFbx: 		[Node Attribute Child 1] R_Hand.046 (Type Mesh).
+[2018.04.21-21.20.33:635][322]LogFbx: Dumping Node END [R_Hand.046]
+[2018.04.21-21.20.33:635][322]LogFbx: =================================================
+[2018.04.21-21.20.33:635][322]LogFbx: Dumping Node START [R_Hand.045] 
+[2018.04.21-21.20.33:635][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:635][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:635][322]LogFbx: =================================================
+[2018.04.21-21.20.33:635][322]LogFbx: 	Attribute (SK_Mannequin.044) Type (4).
+[2018.04.21-21.20.33:635][322]LogFbx: 		[Node Attribute Child 1] R_Hand.045 (Type Mesh).
+[2018.04.21-21.20.33:635][322]LogFbx: Dumping Node END [R_Hand.045]
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node START [R_Hand.044] 
+[2018.04.21-21.20.33:636][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: 	Attribute (SK_Mannequin.043) Type (4).
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node Attribute Child 1] R_Hand.044 (Type Mesh).
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node END [R_Hand.044]
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node START [R_Hand.043] 
+[2018.04.21-21.20.33:636][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: 	Attribute (SK_Mannequin.042) Type (4).
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node Attribute Child 1] R_Hand.043 (Type Mesh).
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node END [R_Hand.043]
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node START [R_Hand.042] 
+[2018.04.21-21.20.33:636][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: 	Attribute (SK_Mannequin.041) Type (4).
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node Attribute Child 1] R_Hand.042 (Type Mesh).
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node END [R_Hand.042]
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node START [R_Hand.041] 
+[2018.04.21-21.20.33:636][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: 	Attribute (SK_Mannequin.040) Type (4).
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node Attribute Child 1] R_Hand.041 (Type Mesh).
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node END [R_Hand.041]
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node START [R_Hand.040] 
+[2018.04.21-21.20.33:636][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: 	Attribute (SK_Mannequin.039) Type (4).
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node Attribute Child 1] R_Hand.040 (Type Mesh).
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node END [R_Hand.040]
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node START [R_Hand.039] 
+[2018.04.21-21.20.33:636][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: 	Attribute (SK_Mannequin.038) Type (4).
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node Attribute Child 1] R_Hand.039 (Type Mesh).
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node END [R_Hand.039]
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node START [R_Hand.038] 
+[2018.04.21-21.20.33:636][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: 	Attribute (SK_Mannequin.037) Type (4).
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node Attribute Child 1] R_Hand.038 (Type Mesh).
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node END [R_Hand.038]
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:636][322]LogFbx: Dumping Node START [R_Hand.037] 
+[2018.04.21-21.20.33:636][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:636][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:636][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: 	Attribute (SK_Mannequin.036) Type (4).
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node Attribute Child 1] R_Hand.037 (Type Mesh).
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node END [R_Hand.037]
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.21-21.20.33:637][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: 	Attribute (SK_Mannequin.035) Type (4).
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node START [R_Hand.035] 
+[2018.04.21-21.20.33:637][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: 	Attribute (SK_Mannequin.034) Type (4).
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node Attribute Child 1] R_Hand.035 (Type Mesh).
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node END [R_Hand.035]
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node START [R_Hand.034] 
+[2018.04.21-21.20.33:637][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: 	Attribute (SK_Mannequin.033) Type (4).
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node Attribute Child 1] R_Hand.034 (Type Mesh).
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node END [R_Hand.034]
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node START [R_Hand.033] 
+[2018.04.21-21.20.33:637][322]LogFbx: 	Total Deformer Count -1464138880.
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: 	Attribute (SK_Mannequin.032) Type (4).
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node Attribute Child 1] R_Hand.033 (Type Mesh).
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node END [R_Hand.033]
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node START [R_Hand] 
+[2018.04.21-21.20.33:637][322]LogFbx: 	Total Deformer Count 563854688.
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:637][322]LogFbx: =================================================
+[2018.04.21-21.20.33:637][322]LogFbx: 	Attribute (SK_Mannequin.120) Type (4).
+[2018.04.21-21.20.33:637][322]LogFbx: 		[Node Attribute Child 1] R_Hand (Type Mesh).
+[2018.04.21-21.20.33:637][322]LogFbx: Dumping Node END [R_Hand]
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node START [R_Hand.047] 
+[2018.04.21-21.20.33:638][322]LogFbx: 	Total Deformer Count -1464131328.
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: 	Attribute (SK_Mannequin.046) Type (4).
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node Attribute Child 1] R_Hand.047 (Type Mesh).
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node END [R_Hand.047]
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node START [R_Hand.046] 
+[2018.04.21-21.20.33:638][322]LogFbx: 	Total Deformer Count -1464131328.
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: 	Attribute (SK_Mannequin.045) Type (4).
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node Attribute Child 1] R_Hand.046 (Type Mesh).
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node END [R_Hand.046]
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node START [R_Hand.045] 
+[2018.04.21-21.20.33:638][322]LogFbx: 	Total Deformer Count -1464131328.
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: 	Attribute (SK_Mannequin.044) Type (4).
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node Attribute Child 1] R_Hand.045 (Type Mesh).
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node END [R_Hand.045]
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node START [R_Hand.044] 
+[2018.04.21-21.20.33:638][322]LogFbx: 	Total Deformer Count -1464131328.
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: 	Attribute (SK_Mannequin.043) Type (4).
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node Attribute Child 1] R_Hand.044 (Type Mesh).
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node END [R_Hand.044]
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node START [R_Hand.043] 
+[2018.04.21-21.20.33:638][322]LogFbx: 	Total Deformer Count -1464131328.
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: 	Attribute (SK_Mannequin.042) Type (4).
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node Attribute Child 1] R_Hand.043 (Type Mesh).
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node END [R_Hand.043]
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node START [R_Hand.042] 
+[2018.04.21-21.20.33:638][322]LogFbx: 	Total Deformer Count -1464131328.
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: 	Attribute (SK_Mannequin.041) Type (4).
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node Attribute Child 1] R_Hand.042 (Type Mesh).
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node END [R_Hand.042]
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: Dumping Node START [R_Hand.041] 
+[2018.04.21-21.20.33:638][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:638][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:638][322]LogFbx: =================================================
+[2018.04.21-21.20.33:638][322]LogFbx: 	Attribute (SK_Mannequin.040) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.041 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.041]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node START [R_Hand.040] 
+[2018.04.21-21.20.33:639][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: 	Attribute (SK_Mannequin.039) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.040 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.040]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node START [R_Hand.039] 
+[2018.04.21-21.20.33:639][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: 	Attribute (SK_Mannequin.038) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.039 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.039]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node START [R_Hand.038] 
+[2018.04.21-21.20.33:639][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: 	Attribute (SK_Mannequin.037) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.038 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.038]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node START [R_Hand.037] 
+[2018.04.21-21.20.33:639][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: 	Attribute (SK_Mannequin.036) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.037 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.037]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.21-21.20.33:639][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: 	Attribute (SK_Mannequin.035) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node START [R_Hand.035] 
+[2018.04.21-21.20.33:639][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: 	Attribute (SK_Mannequin.034) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.035 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.035]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node START [R_Hand.034] 
+[2018.04.21-21.20.33:639][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: 	Attribute (SK_Mannequin.033) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.034 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.034]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node START [R_Hand.033] 
+[2018.04.21-21.20.33:639][322]LogFbx: 	Total Deformer Count -1410988928.
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:639][322]LogFbx: 	Attribute (SK_Mannequin.032) Type (4).
+[2018.04.21-21.20.33:639][322]LogFbx: 		[Node Attribute Child 1] R_Hand.033 (Type Mesh).
+[2018.04.21-21.20.33:639][322]LogFbx: Dumping Node END [R_Hand.033]
+[2018.04.21-21.20.33:639][322]LogFbx: =================================================
+[2018.04.21-21.20.33:640][322]LogFbx: Dumping Node START [R_Hand] 
+[2018.04.21-21.20.33:640][322]LogFbx: 	Total Deformer Count 563854520.
+[2018.04.21-21.20.33:640][322]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.20.33:640][322]LogFbx: =================================================
+[2018.04.21-21.20.33:640][322]LogFbx: 	Attribute (SK_Mannequin.120) Type (4).
+[2018.04.21-21.20.33:640][322]LogFbx: 		[Node Attribute Child 1] R_Hand (Type Mesh).
+[2018.04.21-21.20.33:640][322]LogFbx: Dumping Node END [R_Hand]
+[2018.04.21-21.20.33:642][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.046) - R_Hand.047
+[2018.04.21-21.20.33:642][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.045) - R_Hand.047
+[2018.04.21-21.20.33:642][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.044) - R_Hand.047
+[2018.04.21-21.20.33:642][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.043) - R_Hand.047
+[2018.04.21-21.20.33:642][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.042) - R_Hand.047
+[2018.04.21-21.20.33:642][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.041) - R_Hand.047
+[2018.04.21-21.20.33:642][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.040) - R_Hand.047
+[2018.04.21-21.20.33:642][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.039) - R_Hand.047
+[2018.04.21-21.20.33:643][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.038) - R_Hand.047
+[2018.04.21-21.20.33:643][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.037) - R_Hand.047
+[2018.04.21-21.20.33:643][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.036) - R_Hand.047
+[2018.04.21-21.20.33:643][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.035) - R_Hand.047
+[2018.04.21-21.20.33:643][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.034) - R_Hand.047
+[2018.04.21-21.20.33:643][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.033) - R_Hand.047
+[2018.04.21-21.20.33:644][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.032) - R_Hand.047
+[2018.04.21-21.20.33:644][322]LogFbx: Valid bind pose for Pose (SK_Mannequin.120) - R_Hand.047
+[2018.04.21-21.20.33:651][322]LogMaterial: Warning: Material /Game/Z_Folder/Hands/PhysicalHand/M_UE4Man_Body.M_UE4Man_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.21-21.20.33:654][322]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.04.21-21.20.33:702][322]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.04.21-21.20.33:728][322]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.21-21.20.33:728][322]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.21-21.20.33:728][322]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.21-21.20.33:728][322]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.21-21.20.33:728][322]LogFbx: Warning: Bones digested - 27  Depth of hierarchy - 7
+[2018.04.21-21.20.33:802][322]LogSkeletalMesh: Section 0: 2101 vertices, 16 active bones
+[2018.04.21-21.20.33:809][322]LogSkeletalMesh: Section 0: Material=0, 3404 triangles
+[2018.04.21-21.20.33:810][322]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworiginphantom01...
+[2018.04.21-21.20.33:816][322]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01.r_hand_neworiginphantom01
+[2018.04.21-21.20.33:818][322]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01_Skeleton'
+[2018.04.21-21.20.33:818][322]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01_Skeleton'
+[2018.04.21-21.20.33:821][322]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01_PhysicsAsset'
+[2018.04.21-21.20.33:821][322]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01_PhysicsAsset'
+[2018.04.21-21.20.33:840][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.21-21.20.33:840][322]FBXImport: Warning: The following bones are missing from the bind pose:
+index_03_r_end_end  
+middle_03_r_end_end  
+pinky_03_r_end_end  
+ring_03_r_end_end  
+thumb_03_r_end_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.21-21.20.33:842][322]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworiginphantom01...
+[2018.04.21-21.20.33:847][322]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01.r_hand_neworiginphantom01
+[2018.04.21-21.20.36:236][521]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.21-21.20.36:766][565]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.21-21.20.39:448][633]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.21-21.20.39:587][633]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworiginphantom01...
+[2018.04.21-21.20.39:592][633]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01.r_hand_neworiginphantom01
+[2018.04.21-21.20.41:070][660]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2018.04.21-21.20.41:080][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.21-21.20.43:840][784]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.21-21.20.43:855][784]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.04.21-21.20.44:500][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.21-21.20.44:516][791]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_3.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.04.21-21.20.50:374][981]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworiginphantom01...
+[2018.04.21-21.20.50:378][981]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01.r_hand_neworiginphantom01
+[2018.04.21-21.20.59:288][437]LogSlate: Window 'r_hand_neworiginphantom01_PhysicsAsset*' being destroyed
+[2018.04.21-21.21.08:478][354]LogSavePackage: Save=13.54ms
+[2018.04.21-21.21.08:478][354]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/P2BEC47CC4C4A1B10E0ECA1AEDEBBA2A5.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/P.uasset'
+[2018.04.21-21.21.08:482][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/P.uasset
+[2018.04.21-21.21.10:632][523]Cmd: TRANSACTION UNDO
+[2018.04.21-21.21.10:632][523]LogEditorTransaction: Undo Persona editor: material changed
+[2018.04.21-21.21.10:636][523]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworiginphantom01...
+[2018.04.21-21.21.10:639][523]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01.r_hand_neworiginphantom01
+[2018.04.21-21.21.13:639][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.21-21.21.13:673][628]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_4.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.04.21-21.21.18:611][822]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworiginphantom01...
+[2018.04.21-21.21.18:615][822]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworiginphantom01.r_hand_neworiginphantom01
+[2018.04.21-21.21.20:150][892]LogSlate: Window 'r_hand_neworiginphantom01*' being destroyed
+[2018.04.21-21.21.26:094][333]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_5.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.04.21-21.21.28:995][471]LogSlate: Window 'P' being destroyed
+[2018.04.21-21.21.44:815][930]LogSavePackage: Save=13.95ms
+[2018.04.21-21.21.44:816][930]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHand_PhysicsB1B94C924F6CE8A7A91E98807F7B9551.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand_Physics.uasset'
+[2018.04.21-21.21.44:818][930]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand_Physics.uasset
+[2018.04.21-21.21.53:452][861]LogSavePackage: Save=17.54ms
+[2018.04.21-21.21.53:452][861]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHand_MeshE00A30F941997167A50859A388CA5F68.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand_Mesh.uasset'
+[2018.04.21-21.21.53:455][861]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand_Mesh.uasset
+[2018.04.21-21.21.53:679][861]LogSavePackage: Save=5.20ms
+[2018.04.21-21.21.53:679][861]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHand_Physics17A0D93449951CEE5F324FAD2156202B.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand_Physics.uasset'
+[2018.04.21-21.21.53:682][861]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand_Physics.uasset
+[2018.04.21-21.22.01:719][712]LogSavePackage: Save=5.46ms
+[2018.04.21-21.22.01:719][712]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhyscialHand_SkeletonD8A45CC24821848443305FBED973B6CE.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhyscialHand_Skeleton.uasset'
+[2018.04.21-21.22.01:722][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhyscialHand_Skeleton.uasset
+[2018.04.21-21.22.01:913][712]LogSavePackage: Save=9.30ms
+[2018.04.21-21.22.01:913][712]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHand_Mesh2A788E4B49D33C072E48A4AB57C306B9.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand_Mesh.uasset'
+[2018.04.21-21.22.01:915][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand_Mesh.uasset
+[2018.04.21-21.22.11:458][312]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\r_hand_neworigin01.fbx)
+[2018.04.21-21.22.11:464][312]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.21-21.22.11:464][312]LogFbx: ItemName: NodeAttribute, ItemCount : 23
+[2018.04.21-21.22.11:464][312]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.21-21.22.11:464][312]LogFbx: ItemName: Model, ItemCount : 24
+[2018.04.21-21.22.11:464][312]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.21-21.22.11:464][312]LogFbx: ItemName: Deformer, ItemCount : 22
+[2018.04.21-21.22.11:464][312]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.21-21.22.11:470][312]LogFbx: Loading FBX Scene from E:\r_hand_neworigin01.fbx
+[2018.04.21-21.22.11:488][312]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.21-21.22.13:292][312]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.21-21.22.13:352][312]LogFbx: Loading FBX Scene from E:\r_hand_neworigin01.fbx
+[2018.04.21-21.22.13:368][312]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.21-21.22.13:369][312]LogFbx: =================================================
+[2018.04.21-21.22.13:369][312]LogFbx: Dumping Node START [R_Hand] 
+[2018.04.21-21.22.13:369][312]LogFbx: 	Total Deformer Count 560170672.
+[2018.04.21-21.22.13:369][312]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.22.13:369][312]LogFbx: =================================================
+[2018.04.21-21.22.13:369][312]LogFbx: 	Attribute (SK_Mannequin.120) Type (4).
+[2018.04.21-21.22.13:369][312]LogFbx: 		[Node Attribute Child 1] R_Hand (Type Mesh).
+[2018.04.21-21.22.13:369][312]LogFbx: Dumping Node END [R_Hand]
+[2018.04.21-21.22.13:369][312]LogFbx: =================================================
+[2018.04.21-21.22.13:369][312]LogFbx: Dumping Node START [R_Hand] 
+[2018.04.21-21.22.13:369][312]LogFbx: 	Total Deformer Count 560182712.
+[2018.04.21-21.22.13:369][312]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.21-21.22.13:369][312]LogFbx: =================================================
+[2018.04.21-21.22.13:369][312]LogFbx: 	Attribute (SK_Mannequin.120) Type (4).
+[2018.04.21-21.22.13:370][312]LogFbx: 		[Node Attribute Child 1] R_Hand (Type Mesh).
+[2018.04.21-21.22.13:370][312]LogFbx: Dumping Node END [R_Hand]
+[2018.04.21-21.22.13:370][312]LogFbx: Valid bind pose for Pose (SK_Mannequin.120) - R_Hand
+[2018.04.21-21.22.13:372][312]LogMaterial: Warning: Material /Game/Z_Folder/Hands/PhantomHand/M_UE4Man_Body.M_UE4Man_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.21-21.22.13:374][312]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.04.21-21.22.13:397][312]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.04.21-21.22.13:425][312]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.21-21.22.13:425][312]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.21-21.22.13:426][312]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.21-21.22.13:426][312]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.21-21.22.13:426][312]LogFbx: Warning: Bones digested - 27  Depth of hierarchy - 7
+[2018.04.21-21.22.13:563][312]LogSkeletalMesh: Section 0: 3517 vertices, 16 active bones
+[2018.04.21-21.22.13:574][312]LogSkeletalMesh: Section 0: Material=0, 5913 triangles
+[2018.04.21-21.22.13:575][312]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin01...
+[2018.04.21-21.22.13:583][312]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhantomHand/r_hand_neworigin01.r_hand_neworigin01
+[2018.04.21-21.22.13:585][312]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhantomHand/r_hand_neworigin01_Skeleton'
+[2018.04.21-21.22.13:585][312]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhantomHand/r_hand_neworigin01_Skeleton'
+[2018.04.21-21.22.13:589][312]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhantomHand/r_hand_neworigin01_PhysicsAsset'
+[2018.04.21-21.22.13:589][312]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhantomHand/r_hand_neworigin01_PhysicsAsset'
+[2018.04.21-21.22.13:600][312]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.21-21.22.13:600][312]FBXImport: Warning: The following bones are missing from the bind pose:
+index_03_r_end_end  
+middle_03_r_end_end  
+pinky_03_r_end_end  
+ring_03_r_end_end  
+thumb_03_r_end_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.21-21.22.13:602][312]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin01...
+[2018.04.21-21.22.13:611][312]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhantomHand/r_hand_neworigin01.r_hand_neworigin01
+[2018.04.21-21.22.15:440][450]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.21-21.22.15:859][474]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.21-21.22.19:596][557]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.21-21.22.19:721][557]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin01...
+[2018.04.21-21.22.19:729][557]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhantomHand/r_hand_neworigin01.r_hand_neworigin01
+[2018.04.21-21.22.22:520][666]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_6.PhysicsAssetEditorSkeletalMeshComponent_2) Already registered. Aborting.
+[2018.04.21-21.22.24:348][740]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_7.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.21-21.22.24:363][740]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_7.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.04.21-21.22.30:202][952]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin01...
+[2018.04.21-21.22.30:211][952]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhantomHand/r_hand_neworigin01.r_hand_neworigin01
+[2018.04.21-21.22.33:259][ 95]LogSlate: Window 'r_hand_neworigin01_PhysicsAsset*' being destroyed
+[2018.04.21-21.22.41:913][581]LogSavePackage: Save=18.16ms
+[2018.04.21-21.22.41:913][581]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_PhysicsCADEBAF04BF519FBBE5716BB2F6090D5.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.uasset'
+[2018.04.21-21.22.41:917][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.uasset
+[2018.04.21-21.22.50:778][ 89]LogSavePackage: Save=14.64ms
+[2018.04.21-21.22.50:778][ 89]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_MeshD0AF265E416AEDC6C23216BD921F746E.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Mesh.uasset'
+[2018.04.21-21.22.50:783][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Mesh.uasset
+[2018.04.21-21.22.50:972][ 89]LogSavePackage: Save=10.44ms
+[2018.04.21-21.22.50:972][ 89]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_Physics717E3F3C47A904815F3D7EA8FC42BCFF.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.uasset'
+[2018.04.21-21.22.50:974][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.uasset
+[2018.04.21-21.23.02:567][772]LogSavePackage: Save=4.66ms
+[2018.04.21-21.23.02:567][772]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_Skeleton8C8F31E741A71D26A1534787AC9B65E6.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Skeleton.uasset'
+[2018.04.21-21.23.02:570][772]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Skeleton.uasset
+[2018.04.21-21.23.02:754][772]LogSavePackage: Save=9.35ms
+[2018.04.21-21.23.02:754][772]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_Physics6EEA0C7C479214FC0561E3884FFA308F.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.uasset'
+[2018.04.21-21.23.02:756][772]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.uasset
+[2018.04.21-21.23.29:778][218]BlueprintLog: New page: Compile BP_PhysicalHand
+[2018.04.21-21.23.31:353][285]LogSlate: Window 'BP_PhysicalHand*' being destroyed
+[2018.04.21-21.23.46:219][864]LogAnimation: Warning: AnimBP RightHand_AnimBP_C is incompatible with skeleton PhantomHand_Skeleton, removing AnimBP from actor.
+[2018.04.21-21.23.46:221][864]LogAnimation: Warning: AnimBP RightHand_AnimBP_C is incompatible with skeleton PhantomHand_Skeleton, removing AnimBP from actor.
+[2018.04.21-21.23.46:221][864]LogAnimation: Warning: AnimBP RightHand_AnimBP_C is incompatible with skeleton PhantomHand_Skeleton, removing AnimBP from actor.
+[2018.04.21-21.23.52:297][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_8.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.21-21.23.52:343][133]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_8.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.04.21-21.23.54:803][227]LogSlate: Window 'PhantomHand_Physics' being destroyed
+[2018.04.21-21.24.01:313][587]LogSavePackage: Save=13.57ms
+[2018.04.21-21.24.01:313][587]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_MF6555DC64C2D78F496F9CD885339166A.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_M.uasset'
+[2018.04.21-21.24.01:317][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_M.uasset
+[2018.04.21-21.24.01:509][587]LogSavePackage: Save=9.54ms
+[2018.04.21-21.24.01:509][587]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_PhysicsF161280742A011D64FE7E6A805DC37D9.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.uasset'
+[2018.04.21-21.24.01:511][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.uasset
+[2018.04.21-21.24.02:980][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_9.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.04.21-21.24.03:025][671]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_9.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.04.21-21.24.05:388][783]LogSlate: Window 'PhantomHand_Physics' being destroyed
+[2018.04.21-21.24.12:020][163]LogSavePackage: Save=18.74ms
+[2018.04.21-21.24.12:020][163]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_Mesh3BC000A0489BA0DA97500EB536EE7A24.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Mesh.uasset'
+[2018.04.21-21.24.12:023][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_Mesh.uasset
+[2018.04.21-21.24.12:212][163]LogSavePackage: Save=6.15ms
+[2018.04.21-21.24.12:212][163]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_MF93B1D4E4C24CA196EAFB296552F7CD1.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_M.uasset'
+[2018.04.21-21.24.12:215][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomHand_M.uasset
+[2018.04.21-21.24.19:509][546]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.339 s
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: 
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: Ensure condition failed: Save != INDEX_NONE [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerSave.cpp] [Line: 274]
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: Name "/Game/Z_Folder/Hands/PhantomHand/PhantomHand_Mesh.PhantomHand_Mesh" is not mapped when saving ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomHand_Physics3EABBBD34F3E9ABE9D373FB7510C17C2.tmp (object: PhysicsAsset /Game/Z_Folder/Hands/PhantomHand/PhantomHand_Physics.PhantomHand_Physics, property: SoftObjectProperty /Script/Engine.PhysicsAsset:PreviewSkeletalMesh)
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: Stack: 
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x00000000003DB6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x000000000013AE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x000000000014ECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x0000000000F538D7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x00000000010DAE9E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x0000000000E21F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x0000000000E220B1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x00000000010780EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x0000000001078459 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x0000000000F3C767 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x000000000101A58A UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x0000000001017457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x00000000EBDC63AB UE4Editor-Engine.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x000000000107172B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.21-21.24.19:509][546]LogOutputDevice: Error: [Callstack] 0x00000000F8B35264 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000F8B35C85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000F8B766DC UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000F8B73148 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000F93F0379 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000F8E6E107 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000F8E6CA27 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000F8E95462 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DF6D276B UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DF69EE12 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DF6DFA74 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DDC690D6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DDCE8305 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DDD2607D UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DDD2E86D UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DDC41F51 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DDC1D977 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000DDC24EB7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFCBF7BE UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFC9B4D7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFC9C017 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFCA50C9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFCA6319 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFC2CB6B UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFA54D61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFA26D2D UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFA288F6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFAA63CA UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x00000000FFA999C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000002DE4E3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000002DE41B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000002DE5052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000002DE3D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000003E0EB85D USER32.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000003E0EB1EF USER32.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000002DE51666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000005AFD5475 UE4Editor.exe!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000005AFE6BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000005AFE6C4A UE4Editor.exe!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000005AFF4149 UE4Editor.exe!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000005AFF5B57 UE4Editor.exe!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000003E041FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: [Callstack] 0x000000003FD5F061 ntdll.dll!UnknownFunction []
+[2018.04.21-21.24.19:510][546]LogOutputDevice: Error: 
+[2018.04.21-21.24.19:520][546]LogStats:                SubmitErrorReport -  0.000 s
