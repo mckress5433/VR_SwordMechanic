@@ -1,0 +1,1217 @@
+﻿Log file open, 04/21/18 19:51:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PhantomSword_V2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(454851423) SRandInit(454851423).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.591593
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.965s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-TVE1Q8K (10.108.204.107:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.21-23.51.32:837][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-23.51.32:837][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.21-23.51.32:865][  0]LogInit: Computer: DESKTOP-TVE1Q8K
+[2018.04.21-23.51.32:865][  0]LogInit: User: Cosmotron
+[2018.04.21-23.51.32:865][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.21-23.51.32:865][  0]LogInit: High frequency timer resolution =2.648436 MHz
+[2018.04.21-23.51.32:866][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.04.21-23.51.32:866][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.21-23.51.32:866][  0]LogMemory: Process Physical Memory: 275.08 MB used, 275.08 MB peak
+[2018.04.21-23.51.32:866][  0]LogMemory: Process Virtual Memory: 264.60 MB used, 264.60 MB peak
+[2018.04.21-23.51.32:866][  0]LogMemory: Physical Memory: 4036.12 MB used,  28686.59 MB free, 32722.71 MB total
+[2018.04.21-23.51.32:866][  0]LogMemory: Virtual Memory: 697.63 MB used,  28686.59 MB free, 134217728.00 MB total
+[2018.04.21-23.51.33:087][  0]LogInit: Using OS detected language (en-US).
+[2018.04.21-23.51.33:087][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.21-23.51.33:137][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.21-23.51.33:635][  0]LogStreaming: Display: Took  0.547s to EndInitTextLocalization.
+[2018.04.21-23.51.33:637][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.21-23.51.33:732][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.21-23.51.33:733][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.21-23.51.35:827][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.21-23.51.35:884][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.21-23.51.35:884][  0]LogD3D11RHI:       8081/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.21-23.51.35:886][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.21-23.51.35:886][  0]LogD3D11RHI:       0/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.21-23.51.35:886][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.21-23.51.35:894][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.21-23.51.35:894][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.21-23.51.35:894][  0]LogWindows: EnumDisplayDevices:
+[2018.04.21-23.51.35:895][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.21-23.51.35:895][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.04.21-23.51.35:895][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.21-23.51.35:895][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.21-23.51.35:895][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.21-23.51.35:895][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.21-23.51.35:895][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.21-23.51.35:895][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.21-23.51.35:895][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.04.21-23.51.35:926][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.21-23.51.35:926][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.21-23.51.35:926][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.21-23.51.36:017][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.21-23.51.36:108][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Intermediate/Shaders/WorkingDirectory/1528/).
+[2018.04.21-23.51.36:108][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cosmotron/AppData/Local/Temp/UnrealShaderWorkingDir/90B001904DA94B4D434B7886297EF12C/'.
+[2018.04.21-23.51.37:301][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.21-23.51.37:314][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.21-23.51.37:329][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.21-23.51.37:348][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.21-23.51.37:365][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.21-23.51.37:379][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.21-23.51.37:394][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.21-23.51.37:409][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.21-23.51.37:548][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.21-23.51.37:560][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.21-23.51.37:572][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.21-23.51.37:584][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.21-23.51.37:596][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.21-23.51.37:609][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.21-23.51.37:621][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.21-23.51.37:646][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.21-23.51.37:646][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.21-23.51.37:662][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.21-23.51.37:663][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.21-23.51.37:728][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.21-23.51.37:740][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.21-23.51.37:752][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.21-23.51.37:765][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.21-23.51.37:778][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.21-23.51.37:795][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.21-23.51.37:796][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.21-23.51.38:141][  0]LogXGEController: Cleaning working directory: C:/Users/Cosmotron/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.21-23.51.38:141][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.21-23.51.38:142][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.21-23.51.38:142][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.21-23.51.39:869][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.21-23.51.40:047][  0]LogDerivedDataCache: Loaded boot cache 0.18s 75MB C:/Users/Cosmotron/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.21-23.51.40:047][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cosmotron/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.21-23.51.40:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.21-23.51.40:047][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.21-23.51.40:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.21-23.51.40:047][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.21-23.51.40:072][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.21-23.51.40:086][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cosmotron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.21-23.51.40:101][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.21-23.51.40:106][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.21-23.51.40:122][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-23.51.40:122][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.21-23.51.42:437][  0]LogAssetRegistry: FAssetRegistry took 0.0287 seconds to start up
+[2018.04.21-23.51.42:854][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.21-23.51.43:177][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.21-23.51.43:181][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.21-23.51.43:182][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.21-23.51.43:182][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.21-23.51.43:182][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.21-23.51.43:182][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.21-23.51.43:252][  0]LogNetVersion: PhantomSword_V2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2480946267)
+[2018.04.21-23.51.44:410][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.098457 seconds
+[2018.04.21-23.51.44:416][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.21-23.51.44:416][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.21-23.51.44:416][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.21-23.51.48:830][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.21-23.51.48:858][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.21-23.51.49:217][  0]SourceControl: Source control is disabled
+[2018.04.21-23.51.49:217][  0]SourceControl: Source control is disabled
+[2018.04.21-23.51.49:231][  0]SourceControl: Source control is disabled
+[2018.04.21-23.51.49:244][  0]SourceControl: Source control is disabled
+[2018.04.21-23.51.49:687][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.21-23.51.49:827][  0]LogOcInput: OculusInput pre-init called
+[2018.04.21-23.51.49:965][  0]LogEngine: Initializing Engine...
+[2018.04.21-23.51.50:004][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.04.21-23.51.50:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.21-23.51.50:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.21-23.51.50:466][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.21-23.51.50:485][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.21-23.51.50:539][  0]LogInit: FAudioDevice initialized.
+[2018.04.21-23.51.50:607][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/Cosmotron/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.21-23.51.50:614][  0]LogInit: Texture streaming: Enabled
+[2018.04.21-23.51.50:632][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.21-23.51.50:658][  0]LogInit: Transaction tracking system initialized
+[2018.04.21-23.51.50:702][  0]BlueprintLog: New page: Editor Load
+[2018.04.21-23.51.50:842][  0]LocalizationService: Localization service is disabled
+[2018.04.21-23.51.50:934][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.04.21-23.51.50:936][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.04.21-23.51.50:936][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.04.21-23.51.51:014][  0]LogConsoleResponse: Display: 
+[2018.04.21-23.51.51:521][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.21-23.51.51:521][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.21-23.51.51:521][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.21-23.51.51:521][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.21-23.51.51:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.21-23.51.51:530][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/' took 0.02s
+[2018.04.21-23.51.51:966][  0]SourceControl: Source control is disabled
+[2018.04.21-23.51.51:967][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.21-23.51.51:973][  0]LightingResults: New page: Lighting Build
+[2018.04.21-23.51.51:979][  0]MapCheck: New page: Map Check
+[2018.04.21-23.51.51:980][  0]LightingResults: New page: Lighting Build
+[2018.04.21-23.51.52:823][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.184453ms] /Game/Z_Folder/Hands/PhantomHand/r_hand_neworiginphantom02.r_hand_neworiginphantom02
+[2018.04.21-23.51.52:864][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.344925ms] /Game/Z_Folder/Arms/Phantom_Arms/HandlessArms_Phantom.HandlessArms_Phantom
+[2018.04.21-23.51.52:871][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.203497ms] /Game/Z_Folder/Arms/Physical_Arms/HandlessArms_Physical.HandlessArms_Physical
+[2018.04.21-23.51.52:892][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.835568ms] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin02.r_hand_neworigin02
+[2018.04.21-23.51.53:007][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.04.21-23.51.53:026][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-23.51.53:026][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-23.51.53:026][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-23.51.53:026][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-23.51.53:031][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-23.51.53:031][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-23.51.53:031][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-23.51.53:032][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_0
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-23.51.53:035][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-23.51.53:035][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-23.51.53:035][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-23.51.53:035][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-23.51.53:036][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-23.51.53:036][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-23.51.53:036][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-23.51.53:037][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-23.51.53:037][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Left
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00D4
+[2018.04.21-23.51.53:037][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:00E9
+[2018.04.21-23.51.53:037][  0]LogScript: Warning: Accessed None trying to read property PhysicalHand_Right
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:014F
+[2018.04.21-23.51.53:037][  0]LogScript: Warning: Accessed None
+	PhysicalArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhysicalArms.PhysicalArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Physical_Arms/PhysicalArms_AnimBP.PhysicalArms_AnimBP_C:ExecuteUbergraph_PhysicalArms_AnimBP:0164
+[2018.04.21-23.51.53:038][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Left
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00D4
+[2018.04.21-23.51.53:038][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:00E9
+[2018.04.21-23.51.53:038][  0]LogScript: Warning: Accessed None trying to read property PhantomController_Right
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:014F
+[2018.04.21-23.51.53:038][  0]LogScript: Warning: Accessed None
+	PhantomArms_AnimBP_C /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.PhantomControllerPawn_338.PhantomArms.PhantomArms_AnimBP_C_1
+	Function /Game/Z_Folder/Arms/Phantom_Arms/PhantomArms_AnimBP.PhantomArms_AnimBP_C:ExecuteUbergraph_PhantomArms_AnimBP:0164
+[2018.04.21-23.51.53:041][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.21-23.51.53:060][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.21-23.51.53:108][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.69ms to complete.
+[2018.04.21-23.51.53:108][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 1.141
+[2018.04.21-23.51.53:336][  0]LogCollectionManager: Loaded 0 collections in 0.001393 seconds
+[2018.04.21-23.51.53:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/Collections/' took 0.01s
+[2018.04.21-23.51.53:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Developers/Cosmotron/Collections/' took 0.01s
+[2018.04.21-23.51.53:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Collections/' took 0.01s
+[2018.04.21-23.51.53:394][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.21-23.51.53:406][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2453 classes and 560 folders.
+[2018.04.21-23.51.53:417][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.21-23.51.53:838][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.21-23.51.53:981][  0]LogSlate: Took 0.005367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.21-23.51.53:993][  0]LogSlate: Took 0.005623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.21-23.51.54:006][  0]LogSlate: Took 0.007179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.21-23.51.54:158][  0]LogRenderer: Reallocating scene render targets to support 848x500 Format 26 NumSamples 1 (Frame:1).
+[2018.04.21-23.51.54:320][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.21-23.51.54:320][  0]LogLoad: (Engine Initialization) Total time: 26.91 seconds
+[2018.04.21-23.51.54:320][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.21-23.51.54:362][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.21-23.51.54:426][  0]LogSlate: Took 0.007260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.21-23.51.54:480][  1]LogSkeletalMesh: Skeletal Mesh found in DDC [3.189052ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.04.21-23.51.54:493][  1]LogAssetRegistry: Asset discovery search completed in 12.0787 seconds
+[2018.04.21-23.51.54:495][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.21-23.51.54:495][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.04.21-23.54.06:178][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-23.54.17:504][568]LogSlate: Took 0.003701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.21-23.54.17:556][568]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.21-23.54.17:860][568]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.21-23.54.17:873][568]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.04.21-23.54.17:934][568]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.21-23.54.18:331][568]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.04.21-23.54.18:350][568]LogRenderer: Reallocating scene render targets to support 1000x500 Format 26 NumSamples 1 (Frame:1).
+[2018.04.21-23.54.18:350][568]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.21-23.55.13:464][  2]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.21-23.55.18:621][184]LogSlate: Window 'Save Content' being destroyed
+[2018.04.21-23.55.18:703][184]LogSavePackage: Save=14.72ms
+[2018.04.21-23.55.18:703][184]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhantomGrip_BS37D5637348DAF3C323CAA3AE1121D63D.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomGrip_BS.uasset'
+[2018.04.21-23.55.18:706][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhantomHand/PhantomGrip_BS.uasset
+[2018.04.21-23.55.20:753][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.21-23.55.20:781][285]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.04.21-23.55.21:049][286]LogRenderer: Reallocating scene render targets to support 1016x768 Format 26 NumSamples 1 (Frame:1).
+[2018.04.21-23.55.52:485][955]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.21-23.55.52:529][955]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.04.21-23.55.52:789][955]LogSlate: Took 0.004062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.21-23.55.54:627][ 39]LogSlate: Window 'r_hand_neworiginphantom02' being destroyed
+[2018.04.21-23.55.56:301][109]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.21-23.55.56:326][109]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.04.21-23.55.56:621][109]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace
+[2018.04.21-23.56.20:044][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-23.57.19:016][ 17]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2018.04.21-23.57.19:030][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Z_Folder/Hands/PhantomHand/PhantomOpenHand.PhantomOpenHand
+[2018.04.21-23.57.19:031][ 17]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.PhantomOpenHand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.21-23.57.30:327][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_4.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.04.21-23.57.30:370][638]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_4.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.04.21-23.57.30:704][638]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.21-23.58.09:466][120]Cmd: TRANSACTION UNDO
+[2018.04.21-23.58.09:466][120]LogEditorTransaction: Undo Edit Rotation
+[2018.04.21-23.58.09:820][120]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.21-23.58.09:820][120]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.21-23.58.09:826][120]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_4.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.04.22-00.00.17:062][357]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2018.04.22-00.00.17:079][357]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Z_Folder/Hands/PhantomHand/PhantomBirdPose.PhantomBirdPose
+[2018.04.22-00.00.17:080][357]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.PhantomBirdPose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.22-00.00.34:292][929]Cmd: TRANSACTION UNDO
+[2018.04.22-00.00.34:292][929]LogEditorTransaction: Undo Edit Rotation
+[2018.04.22-00.00.34:663][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.22-00.00.34:663][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.22-00.00.34:670][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_4.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.04.22-00.03.24:391][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.03.45:025][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.04.02:069][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.04.05:543][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.04.18:453][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.04.20:841][873]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.04.30:403][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.04.52:188][315]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-00.04.52:196][315]LogSlate: Window 'MannequinHand_Right_Grab' being destroyed
+[2018.04.22-00.04.55:769][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.22-00.04.55:798][485]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2018.04.22-00.04.56:105][485]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace
+[2018.04.22-00.05.14:138][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.05.34:259][744]Cmd: TRANSACTION UNDO
+[2018.04.22-00.05.34:259][744]LogEditorTransaction: Undo Rotate Bone
+[2018.04.22-00.05.34:368][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.22-00.05.36:599][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.06.07:663][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.06.10:236][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.06.30:213][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.06.51:375][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.07.07:002][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.07.22:371][103]Cmd: TRANSACTION UNDO
+[2018.04.22-00.07.22:371][103]LogEditorTransaction: Undo Rotate Bone
+[2018.04.22-00.07.22:477][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.22-00.07.22:486][103]Cmd: TRANSACTION UNDO
+[2018.04.22-00.07.22:486][103]LogEditorTransaction: Undo Rotate Bone
+[2018.04.22-00.07.22:598][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.22-00.07.23:331][140]Cmd: TRANSACTION UNDO
+[2018.04.22-00.07.23:331][140]LogEditorTransaction: Undo Rotate Bone
+[2018.04.22-00.07.23:436][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.22-00.07.33:658][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.07.37:321][953]Cmd: TRANSACTION UNDO
+[2018.04.22-00.07.37:321][953]LogEditorTransaction: Undo Rotate Bone
+[2018.04.22-00.07.37:428][953]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.22-00.07.48:000][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.07.54:226][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.07.57:837][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.08.06:827][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.08.14:502][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.08.21:509][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.08.38:131][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.08.41:798][696]Cmd: TRANSACTION UNDO
+[2018.04.22-00.08.41:798][696]LogEditorTransaction: Undo Rotate Bone
+[2018.04.22-00.08.41:909][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.22-00.08.46:275][921]Cmd: TRANSACTION UNDO
+[2018.04.22-00.08.46:275][921]LogEditorTransaction: Undo Rotate Bone
+[2018.04.22-00.08.46:384][921]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.22-00.09.01:803][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.09.11:382][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.09.32:245][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.09.54:662][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.09.58:362][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_6.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.04.22-00.09.58:402][168]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.Actor_6.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2018.04.22-00.09.58:737][168]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.22-00.10.04:820][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.10.18:552][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.10.38:822][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.10.46:933][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.11.22:030][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.11.26:381][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.11.39:640][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.11.48:042][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.12.08:511][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.12.35:847][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.13.39:119][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.13.43:333][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.22-00.14.12:751][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.15.56:882][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.16.10:615][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.16.19:651][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.22-00.19.05:674][491]LogSlate: Window 'MannequinHand_Right_Grab' being destroyed
+[2018.04.22-00.19.05:702][491]LogSlate: Window 'MannequinHand_Right_Grab' being destroyed
+[2018.04.22-00.19.16:721][ 25]LogBlueprint: Warning: [Compiler PhysicalHand_AnimBP] Entry node  New State Machine  is not connected to state
+[2018.04.22-00.19.16:721][ 25]LogBlueprint: Warning: [Compiler PhysicalHand_AnimBP] There was no entry state connection in  New State Machine
+[2018.04.22-00.19.16:722][ 25]LogBlueprint: Warning: [Compiler PhysicalHand_AnimBP] [1669.31] Compile of PhysicalHand_AnimBP successful, but with 2 Warning(s) [in 2 ms] (/Game/Z_Folder/Hands/PhysicalHand/PhysicalHand_AnimBP.PhysicalHand_AnimBP)
+[2018.04.22-00.19.18:782][ 25]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-00.19.18:930][ 25]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin02...
+[2018.04.22-00.19.18:934][ 25]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin02.r_hand_neworigin02
+[2018.04.22-00.19.18:936][ 25]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin02...
+[2018.04.22-00.19.18:941][ 25]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin02.r_hand_neworigin02
+[2018.04.22-00.19.41:216][196]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\r_hand_neworigin03.fbx)
+[2018.04.22-00.19.41:238][196]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.22-00.19.41:238][196]LogFbx: ItemName: NodeAttribute, ItemCount : 29
+[2018.04.22-00.19.41:238][196]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.22-00.19.41:238][196]LogFbx: ItemName: Model, ItemCount : 30
+[2018.04.22-00.19.41:238][196]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.22-00.19.41:238][196]LogFbx: ItemName: Deformer, ItemCount : 27
+[2018.04.22-00.19.41:238][196]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.22-00.19.41:245][196]LogFbx: Loading FBX Scene from E:\r_hand_neworigin03.fbx
+[2018.04.22-00.19.41:266][196]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.22-00.20.00:217][196]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.22-00.20.00:287][196]LogFbx: Loading FBX Scene from E:\r_hand_neworigin03.fbx
+[2018.04.22-00.20.00:304][196]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.22-00.20.00:306][196]LogFbx: =================================================
+[2018.04.22-00.20.00:306][196]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.20.00:306][196]LogFbx: 	Total Deformer Count -1073725120.
+[2018.04.22-00.20.00:306][196]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.20.00:306][196]LogFbx: =================================================
+[2018.04.22-00.20.00:306][196]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.20.00:306][196]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.20.00:306][196]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.20.00:307][196]LogFbx: =================================================
+[2018.04.22-00.20.00:307][196]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.20.00:307][196]LogFbx: 	Total Deformer Count -1073725120.
+[2018.04.22-00.20.00:307][196]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.20.00:307][196]LogFbx: =================================================
+[2018.04.22-00.20.00:307][196]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.20.00:307][196]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.20.00:307][196]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.20.00:309][196]LogFbx: Valid bind pose for Pose (SK_Mannequin.060) - R_Hand.036
+[2018.04.22-00.20.00:311][196]LogMaterial: Warning: Material /Game/Z_Folder/Hands/PhysicalHand/M_UE4Man_Body_002.M_UE4Man_Body_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.22-00.20.00:313][196]LogMaterial: Missing cached shader map for material M_UE4Man_Body_002, compiling. 
+[2018.04.22-00.20.00:366][196]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.22-00.20.00:366][196]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.22-00.20.00:366][196]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.22-00.20.00:366][196]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.22-00.20.00:369][196]LogMaterial: Missing cached shader map for material M_UE4Man_Body_002, compiling. 
+[2018.04.22-00.20.00:397][196]LogFbx: Warning: Bones digested - 32  Depth of hierarchy - 8
+[2018.04.22-00.20.00:472][196]LogSkeletalMesh: Section 0: 2101 vertices, 16 active bones
+[2018.04.22-00.20.00:475][196]LogSkeletalMesh: Section 0: Material=0, 3404 triangles
+[2018.04.22-00.20.00:477][196]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin03...
+[2018.04.22-00.20.00:481][196]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03.r_hand_neworigin03
+[2018.04.22-00.20.02:887][196]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.22-00.20.03:251][196]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.22-00.20.04:130][196]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.22-00.20.04:179][196]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.22-00.20.04:362][196]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.22-00.20.04:976][196]LogSlate: Window 'Message' being destroyed
+[2018.04.22-00.20.06:057][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.22-00.20.06:623][196]LogSlate: Window 'Message' being destroyed
+[2018.04.22-00.20.06:640][196]LogSkeletalMesh: Skeletal Mesh found in DDC [0.441770ms] /Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.DefaultSkeletalMesh
+[2018.04.22-00.20.08:150][196]LogSlate: Window 'Message' being destroyed
+[2018.04.22-00.20.08:171][196]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03_PhysicsAsset'
+[2018.04.22-00.20.08:171][196]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03_PhysicsAsset'
+[2018.04.22-00.20.08:192][196]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.22-00.20.08:193][196]FBXImport: Warning: The following bones are missing from the bind pose:
+index_03_r_end_end_end  
+middle_03_r_end_end_end  
+pinky_03_r_end_end_end  
+ring_03_r_end_end_end  
+thumb_03_r_end_end_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.22-00.20.08:195][196]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin03...
+[2018.04.22-00.20.08:200][196]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03.r_hand_neworigin03
+[2018.04.22-00.20.16:464][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_7.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.04.22-00.20.16:495][492]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_7.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2018.04.22-00.20.16:822][492]LogRenderer: Reallocating scene render targets to support 1016x856 Format 26 NumSamples 1 (Frame:1).
+[2018.04.22-00.20.24:675][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_8.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2018.04.22-00.20.24:698][788]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_8.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2018.04.22-00.21.03:482][649]LogSlate: Window 'r_hand_neworigin03*' being destroyed
+[2018.04.22-00.21.09:493][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_9.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.04.22-00.21.09:517][863]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_9.DebugSkelMeshComponent_14) - call TermArticulated first.
+[2018.04.22-00.21.21:175][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_10.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.04.22-00.21.21:198][170]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.Actor_10.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2018.04.22-00.21.58:420][696]Cmd: TRANSACTION UNDO
+[2018.04.22-00.21.58:420][696]LogEditorTransaction: Undo Edit Skeleton
+[2018.04.22-00.21.58:514][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_7.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.04.22-00.22.00:732][811]Cmd: TRANSACTION UNDO
+[2018.04.22-00.22.00:732][811]LogEditorTransaction: Undo Reset Rotation
+[2018.04.22-00.22.00:832][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_7.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.04.22-00.22.04:967][960]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-00.22.05:228][960]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin03...
+[2018.04.22-00.22.05:232][960]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03.r_hand_neworigin03
+[2018.04.22-00.22.05:238][960]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin03...
+[2018.04.22-00.22.05:242][960]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03.r_hand_neworigin03
+[2018.04.22-00.22.10:359][ 25]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\r_hand_neworigin03.fbx)
+[2018.04.22-00.22.10:364][ 25]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.22-00.22.10:364][ 25]LogFbx: ItemName: NodeAttribute, ItemCount : 29
+[2018.04.22-00.22.10:364][ 25]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.22-00.22.10:364][ 25]LogFbx: ItemName: Model, ItemCount : 30
+[2018.04.22-00.22.10:364][ 25]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.22-00.22.10:364][ 25]LogFbx: ItemName: Deformer, ItemCount : 27
+[2018.04.22-00.22.10:364][ 25]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.22-00.22.10:369][ 25]LogFbx: Loading FBX Scene from E:\r_hand_neworigin03.fbx
+[2018.04.22-00.22.10:385][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.22-00.22.24:321][ 25]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.22-00.22.24:370][ 25]LogFbx: Loading FBX Scene from E:\r_hand_neworigin03.fbx
+[2018.04.22-00.22.24:390][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.22-00.22.24:391][ 25]LogFbx: =================================================
+[2018.04.22-00.22.24:391][ 25]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.22.24:391][ 25]LogFbx: 	Total Deformer Count -949888512.
+[2018.04.22-00.22.24:391][ 25]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.22.24:391][ 25]LogFbx: =================================================
+[2018.04.22-00.22.24:391][ 25]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.22.24:391][ 25]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.22.24:391][ 25]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.22.24:392][ 25]LogFbx: =================================================
+[2018.04.22-00.22.24:392][ 25]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.22.24:392][ 25]LogFbx: 	Total Deformer Count -949888512.
+[2018.04.22-00.22.24:392][ 25]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.22.24:392][ 25]LogFbx: =================================================
+[2018.04.22-00.22.24:392][ 25]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.22.24:392][ 25]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.22.24:392][ 25]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.22.24:392][ 25]LogFbx: Valid bind pose for Pose (SK_Mannequin.060) - R_Hand.036
+[2018.04.22-00.22.24:393][ 25]LogMaterial: Warning: Material /Game/Z_Folder/Hands/PhysicalHand/M_UE4Man_Body_002.M_UE4Man_Body_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.22-00.22.24:399][ 25]LogMaterial: Missing cached shader map for material M_UE4Man_Body_002, compiling. 
+[2018.04.22-00.22.24:420][ 25]LogMaterial: Missing cached shader map for material M_UE4Man_Body_002, compiling. 
+[2018.04.22-00.22.24:446][ 25]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.22-00.22.24:446][ 25]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.22-00.22.24:446][ 25]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.22-00.22.24:446][ 25]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.22-00.22.24:446][ 25]LogFbx: Warning: Bones digested - 32  Depth of hierarchy - 8
+[2018.04.22-00.22.24:527][ 25]LogSkeletalMesh: Section 0: 2101 vertices, 16 active bones
+[2018.04.22-00.22.24:531][ 25]LogSkeletalMesh: Section 0: Material=0, 3404 triangles
+[2018.04.22-00.22.24:532][ 25]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin03...
+[2018.04.22-00.22.24:536][ 25]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03.r_hand_neworigin03
+[2018.04.22-00.22.26:452][ 25]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.22-00.22.26:862][ 25]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.22-00.22.40:998][ 25]LogSlate: Window 'Message' being destroyed
+[2018.04.22-00.22.41:005][ 25]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.22-00.22.41:005][ 25]FBXImport: Warning: The following bones are missing from the bind pose:
+index_03_r_end_end_end  
+middle_03_r_end_end_end  
+pinky_03_r_end_end_end  
+ring_03_r_end_end_end  
+thumb_03_r_end_end_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.22-00.22.42:182][ 25]LogSlate: Window 'Message' being destroyed
+[2018.04.22-00.22.42:188][ 25]LogAssetTools: Warning: Failed to import 'E:\r_hand_neworigin03.fbx'. Failed to create asset '/Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03'.
+Please see Output Log for details.
+[2018.04.22-00.22.42:202][ 25]LogAnimation: Warning: SkeletalMesh r_hand_neworigin03 has no skeleton. This needs to fixed before an animation can be set
+[2018.04.22-00.26.15:742][160]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-00.26.15:835][160]LogSkeletalMesh: Building Skeletal Mesh r_hand_neworigin03...
+[2018.04.22-00.26.15:839][160]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03.r_hand_neworigin03
+[2018.04.22-00.26.20:237][209]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Cosmotron\Desktop\ThirdPerson_FBX_v48\FBX\PhysicalHand.fbx)
+[2018.04.22-00.26.20:246][209]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.22-00.26.20:246][209]LogFbx: ItemName: NodeAttribute, ItemCount : 21
+[2018.04.22-00.26.20:246][209]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.22-00.26.20:246][209]LogFbx: ItemName: Model, ItemCount : 22
+[2018.04.22-00.26.20:246][209]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.22-00.26.20:246][209]LogFbx: ItemName: Deformer, ItemCount : 17
+[2018.04.22-00.26.20:246][209]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.22-00.26.20:251][209]LogFbx: Loading FBX Scene from C:\Users\Cosmotron\Desktop\ThirdPerson_FBX_v48\FBX\PhysicalHand.fbx
+[2018.04.22-00.26.20:265][209]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.22-00.27.18:972][209]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.22-00.27.19:023][209]LogFbx: Loading FBX Scene from C:\Users\Cosmotron\Desktop\ThirdPerson_FBX_v48\FBX\PhysicalHand.fbx
+[2018.04.22-00.27.19:042][209]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.22-00.27.19:043][209]LogFbx: =================================================
+[2018.04.22-00.27.19:043][209]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.27.19:043][209]LogFbx: 	Total Deformer Count -573987904.
+[2018.04.22-00.27.19:043][209]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.27.19:043][209]LogFbx: =================================================
+[2018.04.22-00.27.19:043][209]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.27.19:043][209]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.27.19:043][209]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.27.19:044][209]LogFbx: =================================================
+[2018.04.22-00.27.19:044][209]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.27.19:044][209]LogFbx: 	Total Deformer Count -573987904.
+[2018.04.22-00.27.19:044][209]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.27.19:044][209]LogFbx: =================================================
+[2018.04.22-00.27.19:044][209]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.27.19:044][209]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.27.19:044][209]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.27.19:044][209]LogFbx: Valid bind pose for Pose (SK_Mannequin.060) - R_Hand.036
+[2018.04.22-00.27.19:045][209]LogMaterial: Warning: Material /Game/Z_Folder/Hands/PhysicalHand/M_UE4Man_Body_002.M_UE4Man_Body_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.22-00.27.19:047][209]LogMaterial: Missing cached shader map for material M_UE4Man_Body_002, compiling. 
+[2018.04.22-00.27.19:073][209]LogMaterial: Missing cached shader map for material M_UE4Man_Body_002, compiling. 
+[2018.04.22-00.27.19:098][209]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.22-00.27.19:098][209]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.22-00.27.19:098][209]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.22-00.27.19:098][209]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.22-00.27.19:098][209]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 6
+[2018.04.22-00.27.19:178][209]LogSkeletalMesh: Section 0: 2101 vertices, 16 active bones
+[2018.04.22-00.27.19:182][209]LogSkeletalMesh: Section 0: Material=0, 3404 triangles
+[2018.04.22-00.27.19:183][209]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.22-00.27.19:189][209]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.22-00.27.21:082][209]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.22-00.27.21:441][209]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.22-00.27.24:483][209]LogSlate: Window 'Message' being destroyed
+[2018.04.22-00.27.24:493][209]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.22-00.27.24:493][209]FBXImport: Warning: The following bones are missing from the bind pose:
+index_03_r_end  
+middle_03_r_end  
+pinky_03_r_end  
+ring_03_r_end  
+thumb_03_r_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.22-00.27.28:059][209]LogSlate: Window 'Message' being destroyed
+[2018.04.22-00.27.28:066][209]LogAssetTools: Warning: Failed to import 'C:\Users\Cosmotron\Desktop\ThirdPerson_FBX_v48\FBX\PhysicalHand.fbx'. Failed to create asset '/Game/Z_Folder/Hands/PhysicalHand/PhysicalHand'.
+Please see Output Log for details.
+[2018.04.22-00.27.35:396][419]LogEditorFactories: Performing atomic reimport of [C:/Users/Cosmotron/Desktop/ThirdPerson_FBX_v48/FBX/PhysicalHand.fbx]
+[2018.04.22-00.27.35:430][419]LogFbx: Loading FBX Scene from C:/Users/Cosmotron/Desktop/ThirdPerson_FBX_v48/FBX/PhysicalHand.fbx
+[2018.04.22-00.27.35:445][419]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.22-00.27.35:445][419]LogFbx: =================================================
+[2018.04.22-00.27.35:445][419]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.27.35:445][419]LogFbx: 	Total Deformer Count -1925621696.
+[2018.04.22-00.27.35:445][419]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.27.35:445][419]LogFbx: =================================================
+[2018.04.22-00.27.35:445][419]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.27.35:445][419]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.27.35:445][419]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.27.35:445][419]LogFbx: =================================================
+[2018.04.22-00.27.35:445][419]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.27.35:445][419]LogFbx: 	Total Deformer Count -1925621696.
+[2018.04.22-00.27.35:445][419]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.27.35:445][419]LogFbx: =================================================
+[2018.04.22-00.27.35:445][419]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.27.35:445][419]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.27.35:446][419]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.27.35:446][419]LogFbx: Valid bind pose for Pose (SK_Mannequin.060) - R_Hand.036
+[2018.04.22-00.27.35:452][419]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 6
+[2018.04.22-00.27.35:552][419]LogSkeletalMesh: Section 0: 2101 vertices, 16 active bones
+[2018.04.22-00.27.35:556][419]LogSkeletalMesh: Section 0: Material=0, 3404 triangles
+[2018.04.22-00.27.35:557][419]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.22-00.27.35:561][419]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.22-00.27.35:563][419]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhysicalHand/PhysicalHand_Skeleton'
+[2018.04.22-00.27.35:563][419]LogLinker: Can't find file '/Game/Z_Folder/Hands/PhysicalHand/PhysicalHand_Skeleton'
+[2018.04.22-00.27.35:579][419]LogEditorFactories: -- imported successfully
+[2018.04.22-00.27.35:582][419]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.22-00.27.35:582][419]FBXImport: Warning: The following bones are missing from the bind pose:
+index_03_r_end  
+middle_03_r_end  
+pinky_03_r_end  
+ring_03_r_end  
+thumb_03_r_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.22-00.27.35:583][419]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.22-00.27.35:588][419]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.22-00.27.40:160][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_11.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.04.22-00.28.04:631][773]LogSlate: Window 'PhysicalHand_Skeleton*' being destroyed
+[2018.04.22-00.28.04:657][773]LogSlate: Window 'PhysicalHand_Skeleton*' being destroyed
+[2018.04.22-00.28.07:964][872]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-00.28.08:064][872]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.22-00.28.08:068][872]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.22-00.28.09:784][903]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-00.28.09:880][903]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.22-00.28.09:885][903]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.22-00.28.18:273][187]LogEditorFactories: Performing atomic reimport of [C:/Users/Cosmotron/Desktop/ThirdPerson_FBX_v48/FBX/PhysicalHand.fbx]
+[2018.04.22-00.28.18:319][187]LogFbx: Loading FBX Scene from C:/Users/Cosmotron/Desktop/ThirdPerson_FBX_v48/FBX/PhysicalHand.fbx
+[2018.04.22-00.28.18:334][187]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.22-00.28.18:335][187]LogFbx: =================================================
+[2018.04.22-00.28.18:335][187]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.28.18:335][187]LogFbx: 	Total Deformer Count -1911482624.
+[2018.04.22-00.28.18:335][187]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.28.18:335][187]LogFbx: =================================================
+[2018.04.22-00.28.18:335][187]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.28.18:335][187]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.28.18:335][187]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.28.18:335][187]LogFbx: =================================================
+[2018.04.22-00.28.18:335][187]LogFbx: Dumping Node START [R_Hand.036] 
+[2018.04.22-00.28.18:335][187]LogFbx: 	Total Deformer Count -1911482624.
+[2018.04.22-00.28.18:335][187]LogFbx: 		[Node 1] root (Type Skin).
+[2018.04.22-00.28.18:336][187]LogFbx: =================================================
+[2018.04.22-00.28.18:336][187]LogFbx: 	Attribute (SK_Mannequin.060) Type (4).
+[2018.04.22-00.28.18:336][187]LogFbx: 		[Node Attribute Child 1] R_Hand.036 (Type Mesh).
+[2018.04.22-00.28.18:336][187]LogFbx: Dumping Node END [R_Hand.036]
+[2018.04.22-00.28.18:336][187]LogFbx: Valid bind pose for Pose (SK_Mannequin.060) - R_Hand.036
+[2018.04.22-00.28.18:341][187]LogFbx: Warning: Bones digested - 22  Depth of hierarchy - 6
+[2018.04.22-00.28.18:439][187]LogSkeletalMesh: Section 0: 2101 vertices, 16 active bones
+[2018.04.22-00.28.18:444][187]LogSkeletalMesh: Section 0: Material=0, 3404 triangles
+[2018.04.22-00.28.18:445][187]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.22-00.28.18:449][187]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.22-00.28.18:461][187]LogEditorFactories: -- imported successfully
+[2018.04.22-00.28.18:464][187]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.22-00.28.18:464][187]FBXImport: Warning: The following bones are missing from the bind pose:
+index_03_r_end  
+middle_03_r_end  
+pinky_03_r_end  
+ring_03_r_end  
+thumb_03_r_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.22-00.28.18:464][187]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.22-00.28.18:469][187]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.22-00.28.24:691][278]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.22-00.28.24:812][278]LogSkeletalMesh: Building Skeletal Mesh PhysicalHand...
+[2018.04.22-00.28.24:816][278]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Z_Folder/Hands/PhysicalHand/PhysicalHand.PhysicalHand
+[2018.04.22-00.28.27:695][360]LogSlate: Window 'Save Content' being destroyed
+[2018.04.22-00.28.27:754][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton" FILE="../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset" SILENT=true
+[2018.04.22-00.28.27:773][360]LogSavePackage: Save=5.69ms
+[2018.04.22-00.28.27:773][360]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/DefaultSkeletalMesh_Skeleton9BE2FFE34FE25347F5A0E1AAF2460305.tmp' to '../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset'
+[2018.04.22-00.28.27:775][360]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset
+[2018.04.22-00.28.27:780][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Z_Folder/BP_PhysicalHand" FILE="../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/BP_PhysicalHand.uasset" SILENT=true
+[2018.04.22-00.28.27:835][360]LogSavePackage: Save=43.88ms
+[2018.04.22-00.28.27:835][360]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/BP_PhysicalHand93FB966C4E3EF792E59D579AF83AC72C.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/BP_PhysicalHand.uasset'
+[2018.04.22-00.28.27:840][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/BP_PhysicalHand.uasset
+[2018.04.22-00.28.27:844][360]LogAnimation: Warning: SkeletalMesh PhysicalHand has no skeleton. This needs to fixed before an animation can be set
+[2018.04.22-00.28.27:875][360]LogSavePackage: Save=16.43ms
+[2018.04.22-00.28.27:875][360]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/PhysicalHand325D81894E3AC62B733E83A505271C7D.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset'
+[2018.04.22-00.28.27:879][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/PhysicalHand.uasset
+[2018.04.22-00.28.27:883][360]LogAnimation: Warning: SkeletalMesh r_hand_neworigin03 has no skeleton. This needs to fixed before an animation can be set
+[2018.04.22-00.28.27:914][360]LogSavePackage: Save=16.98ms
+[2018.04.22-00.28.27:914][360]LogSavePackage: Moving '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/r_hand_neworigin0366DFB74C4982B758D42E7A95A7C61896.tmp' to '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03.uasset'
+[2018.04.22-00.28.27:917][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Z_Folder/Hands/PhysicalHand/r_hand_neworigin03.uasset
+[2018.04.22-00.28.28:011][360]LogSlate: Window 'PhantomSword_V2 - Unreal Editor' being destroyed
+[2018.04.22-00.28.28:013][360]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.22-00.28.28:238][361]Cmd: QUIT_EDITOR
+[2018.04.22-00.28.28:271][361]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.22-00.28.28:271][361]LogExit: Preparing to exit.
+[2018.04.22-00.28.28:612][361]LogDirectoryWatcher: A directory notification for 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/' was aborted.
+[2018.04.22-00.28.28:628][361]LogExit: Editor shut down
+[2018.04.22-00.28.28:632][361]LogExit: Transaction tracking system shut down
+[2018.04.22-00.28.28:785][361]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.22-00.28.28:785][361]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/' was aborted.
+[2018.04.22-00.28.28:785][361]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.22-00.28.28:785][361]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.22-00.28.28:785][361]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.22-00.28.28:785][361]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.22-00.28.28:785][361]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.22-00.28.28:785][361]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.22-00.28.28:861][361]LogExit: Object subsystem successfully closed.
+[2018.04.22-00.28.28:879][361]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.22-00.28.28:883][361]LogD3D11RHI: Shutdown
+[2018.04.22-00.28.28:883][361]LogD3D11RHI: CleanupD3DDevice
+[2018.04.22-00.28.28:893][361]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.22-00.28.28:911][361]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (582)
+[2018.04.22-00.28.28:911][361]LogModuleManager: Shutting down and abandoning module PinnedCommandList (580)
+[2018.04.22-00.28.28:911][361]LogModuleManager: Shutting down and abandoning module SkeletonEditor (578)
+[2018.04.22-00.28.28:911][361]LogModuleManager: Shutting down and abandoning module AnimationEditor (576)
+[2018.04.22-00.28.28:911][361]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.04.22-00.28.28:911][361]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.04.22-00.28.28:911][361]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.22-00.28.28:912][361]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.04.22-00.28.28:912][361]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.04.22-00.28.28:912][361]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.04.22-00.28.28:912][361]LogDirectoryWatcher: A directory notification for 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Collections/' was aborted.
+[2018.04.22-00.28.28:912][361]LogDirectoryWatcher: A directory notification for 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Content/Developers/Cosmotron/Collections/' was aborted.
+[2018.04.22-00.28.28:912][361]LogDirectoryWatcher: A directory notification for 'C:/Users/Cosmotron/Documents/Unreal Projects/PhantomSword_V2/Saved/Collections/' was aborted.
+[2018.04.22-00.28.28:912][361]LogModuleManager: Shutting down and abandoning module SceneOutliner (564)
+[2018.04.22-00.28.28:912][361]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.22-00.28.28:912][361]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.22-00.28.28:912][361]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.22-00.28.28:913][361]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.22-00.28.28:915][361]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.22-00.28.28:916][361]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.22-00.28.29:715][361]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.22-00.28.29:715][361]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.22-00.28.29:715][361]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.22-00.28.29:715][361]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.22-00.28.29:715][361]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.22-00.28.29:717][361]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.22-00.28.29:718][361]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.22-00.28.29:718][361]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.22-00.28.29:718][361]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.22-00.28.29:718][361]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.22-00.28.29:718][361]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.22-00.28.29:719][361]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.22-00.28.29:719][361]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.22-00.28.29:783][361]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.22-00.28.29:783][361]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.22-00.28.29:785][361]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.22-00.28.29:786][361]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.22-00.28.29:786][361]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.22-00.28.29:786][361]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.22-00.28.29:786][361]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.22-00.28.29:786][361]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.22-00.28.29:786][361]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.22-00.28.29:786][361]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.22-00.28.29:787][361]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.22-00.28.29:788][361]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.22-00.28.29:788][361]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.22-00.28.29:788][361]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.04.22-00.28.29:789][361]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.04.22-00.28.29:902][361]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.04.22-00.28.29:902][361]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.04.22-00.28.29:902][361]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.04.22-00.28.29:903][361]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.22-00.28.29:907][361]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.22-00.28.29:908][361]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.22-00.28.29:908][361]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.22-00.28.29:908][361]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.22-00.28.29:908][361]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.22-00.28.29:908][361]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.22-00.28.29:908][361]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.22-00.28.30:009][361]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.22-00.28.30:110][361]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.22-00.28.30:110][361]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.22-00.28.30:110][361]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.22-00.28.30:110][361]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.22-00.28.30:110][361]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.22-00.28.30:110][361]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.22-00.28.30:111][361]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.22-00.28.30:111][361]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.22-00.28.30:111][361]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.22-00.28.30:111][361]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.22-00.28.30:111][361]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.22-00.28.30:112][361]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.22-00.28.30:112][361]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.22-00.28.30:112][361]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.22-00.28.30:112][361]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.22-00.28.30:167][361]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.22-00.28.30:167][361]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.22-00.28.30:167][361]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.22-00.28.30:169][361]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.04.22-00.28.30:176][361]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.04.22-00.28.30:176][361]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.04.22-00.28.30:176][361]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.04.22-00.28.30:178][361]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.04.22-00.28.30:178][361]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.22-00.28.30:178][361]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.22-00.28.30:178][361]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.22-00.28.30:178][361]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.22-00.28.30:178][361]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.22-00.28.30:179][361]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.22-00.28.30:180][361]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.22-00.28.30:180][361]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.22-00.28.30:180][361]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.22-00.28.30:180][361]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.22-00.28.30:180][361]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.22-00.28.30:182][361]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.22-00.28.30:182][361]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.22-00.28.30:182][361]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.22-00.28.30:184][361]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.22-00.28.30:184][361]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.22-00.28.30:186][361]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.22-00.28.30:187][361]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.22-00.28.30:187][361]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.22-00.28.30:187][361]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.22-00.28.30:187][361]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.22-00.28.30:187][361]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.22-00.28.30:187][361]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.22-00.28.30:187][361]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.22-00.28.30:260][361]LogDerivedDataCache: Shutdown
+[2018.04.22-00.28.30:260][361]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.22-00.28.30:260][361]LogXGEController: Cleaning working directory: C:/Users/Cosmotron/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.22-00.28.30:261][361]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.22-00.28.30:261][361]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.22-00.28.30:261][361]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.22-00.28.30:262][361]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.22-00.28.30:262][361]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.22-00.28.30:263][361]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.22-00.28.30:264][361]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.22-00.28.30:264][361]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.22-00.28.30:264][361]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.22-00.28.30:264][361]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.22-00.28.30:264][361]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.22-00.28.30:264][361]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.22-00.28.30:264][361]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.22-00.28.30:265][361]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.22-00.28.30:265][361]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.22-00.28.30:265][361]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BD40976-4DA4-95AA-9563-EB81063A0629%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=a198cc664e80f62bffec53ae281df260%7Caede66b47dc74c7dbc239fe2c29745e4%7Cd3a968a9-d84c-4791-baa5-56d6482b1928&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.22-00.28.30:298][361]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.22-00.28.30:300][361]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.22-00.28.30:300][361]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.22-00.28.30:300][361]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.22-00.28.30:301][361]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.22-00.28.30:301][361]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.22-00.28.30:301][361]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.22-00.28.30:301][361]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.22-00.28.30:302][361]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.22-00.28.30:302][361]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.22-00.28.30:303][361]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.22-00.28.30:310][361]LogExit: Exiting.
+[2018.04.22-00.28.30:326][361]Log file closed, 04/21/18 20:28:30
