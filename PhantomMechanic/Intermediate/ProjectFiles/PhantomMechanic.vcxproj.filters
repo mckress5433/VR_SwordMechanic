@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PhantomMechanic.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B3A8D22E-D842-4FA9-8629-CD16BD86B60D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PhantomMechanic.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PhantomMechanicEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FC718ACD-B0AA-4FD9-B48E-ED672E33ED6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PhantomMechanic">
+      <UniqueIdentifier>{095A099F-F025-4ACF-8F03-047660E369F3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PhantomMechanic\PhantomMechanic.Build.cs">
+      <Filter>Source\PhantomMechanic</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PhantomMechanic\PhantomMechanic.cpp">
+      <Filter>Source\PhantomMechanic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhantomMechanic\PhantomMechanic.h">
+      <Filter>Source\PhantomMechanic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PhantomMechanic\PhantomMechanicGameModeBase.cpp">
+      <Filter>Source\PhantomMechanic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhantomMechanic\PhantomMechanicGameModeBase.h">
+      <Filter>Source\PhantomMechanic</Filter>
+    </ClInclude>
+    <Filter Include="Source\PhantomMechanic\Pawn">
+      <UniqueIdentifier>{906578C2-EE3A-4960-8358-6D072139CDDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\PhantomMechanic\Pawn\Phantom">
+      <UniqueIdentifier>{7D20653C-6F33-4097-8DB2-A206F3E8BE68}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomPawn.cpp">
+      <Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomPawn.h">
+      <Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\PhantomMechanic\Pawn\ExoBody">
+      <UniqueIdentifier>{d8f4c850-09eb-4a3e-bca8-4f5f8b4403df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\PhantomMechanic\Framework">
+      <UniqueIdentifier>{2439129c-a561-4304-8fc5-b951450a1754}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoBody.h">
+      <Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\BodyPart.h">
+      <Filter>Source\PhantomMechanic\Pawn</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomPart.h">
+      <Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomArm.h">
+      <Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomHand.h">
+      <Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoPart.h">
+      <Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoArm.h">
+      <Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoHand.h">
+      <Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Framework\GameManager.h">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Framework\GameData.h">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Framework\PhantomBaseMode.h">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Framework\SaveManager.h">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Framework\User.h">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Framework\UserData.h">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhantomMechanic\Framework\UserInterfaceManager.h">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoBody.cpp">
+      <Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\BodyPart.cpp">
+      <Filter>Source\PhantomMechanic\Pawn</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomPart.cpp">
+      <Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomArm.cpp">
+      <Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomHand.cpp">
+      <Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoPart.cpp">
+      <Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoArm.cpp">
+      <Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoHand.cpp">
+      <Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Framework\GameManager.cpp">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Framework\GameData.cpp">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Framework\PhantomBaseMode.cpp">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Framework\SaveManager.cpp">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Framework\User.cpp">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Framework\UserData.cpp">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhantomMechanic\Framework\UserInterfaceManager.cpp">
+      <Filter>Source\PhantomMechanic\Framework</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

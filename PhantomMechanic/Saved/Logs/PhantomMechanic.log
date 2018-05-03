@@ -1,0 +1,1046 @@
+﻿Log file open, 05/03/18 05:12:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PhantomMechanic
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-530146521) SRandInit(-530146521).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.799758
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.264s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Binaries/Win64/UE4Editor-PhantomMechanic.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am EdsRedDesktop (10.0.0.65:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: E:/Development/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.03-09.12.45:091][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.03-09.12.45:092][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.03-09.12.45:224][  0]LogInit: Computer: EDSREDDESKTOP
+[2018.05.03-09.12.45:224][  0]LogInit: User: Edward
+[2018.05.03-09.12.45:224][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.03-09.12.45:224][  0]LogInit: High frequency timer resolution =3.906339 MHz
+[2018.05.03-09.12.45:225][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.03-09.12.45:225][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.03-09.12.45:225][  0]LogMemory: Process Physical Memory: 279.96 MB used, 279.96 MB peak
+[2018.05.03-09.12.45:225][  0]LogMemory: Process Virtual Memory: 269.29 MB used, 269.29 MB peak
+[2018.05.03-09.12.45:225][  0]LogMemory: Physical Memory: 5218.22 MB used,  2922.04 MB free, 8140.27 MB total
+[2018.05.03-09.12.45:225][  0]LogMemory: Virtual Memory: 746.43 MB used,  2922.04 MB free, 134217728.00 MB total
+[2018.05.03-09.12.47:225][  0]LogInit: Using OS detected language (en-US).
+[2018.05.03-09.12.47:226][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.03-09.12.48:707][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.03-09.12.56:721][  0]LogStreaming: Display: Took  9.496s to EndInitTextLocalization.
+[2018.05.03-09.12.56:721][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.03-09.12.59:131][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.03-09.12.59:131][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.03-09.13.22:510][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.03-09.13.22:561][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 390 Series' (Feature Level 11_0)
+[2018.05.03-09.13.22:562][  0]LogD3D11RHI:       8168/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.05.03-09.13.22:569][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.03-09.13.22:569][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.03-09.13.22:569][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.03-09.13.22:579][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.03-09.13.22:580][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.03-09.13.22:580][  0]LogWindows: EnumDisplayDevices:
+[2018.05.03-09.13.22:580][  0]LogWindows:    0. 'AMD Radeon (TM) R9 390 Series' (P:1 D:1)
+[2018.05.03-09.13.22:581][  0]LogWindows:    1. 'AMD Radeon (TM) R9 390 Series' (P:0 D:1)
+[2018.05.03-09.13.22:581][  0]LogWindows:    2. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:582][  0]LogWindows:    3. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:582][  0]LogWindows:    4. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:583][  0]LogWindows:    5. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:584][  0]LogWindows:    6. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:584][  0]LogWindows:    7. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:585][  0]LogWindows:    8. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:585][  0]LogWindows:    9. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:586][  0]LogWindows:    10. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:587][  0]LogWindows:    11. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:587][  0]LogWindows:    12. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:588][  0]LogWindows:    13. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:589][  0]LogWindows:    14. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:589][  0]LogWindows:    15. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2018.05.03-09.13.22:590][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.03-09.13.22:590][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 390 Series
+[2018.05.03-09.13.22:590][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.03-09.13.22:590][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.03-09.13.22:590][  0]LogRHI: Texture pool is 5717 MB (70% of 8168 MB)
+[2018.05.03-09.13.23:051][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.03-09.13.23:070][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.05.03-09.13.23:074][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Intermediate/Shaders/WorkingDirectory/5668/).
+[2018.05.03-09.13.23:074][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Edward/AppData/Local/Temp/UnrealShaderWorkingDir/3549D9924E942F394F2EEE8F34B98BBE/'.
+[2018.05.03-09.13.24:176][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.03-09.13.24:198][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.03-09.13.24:221][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.03-09.13.24:244][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.03-09.13.24:290][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.03-09.13.24:315][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.03-09.13.24:380][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.03-09.13.24:405][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.03-09.13.24:432][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.03-09.13.24:484][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.03-09.13.24:508][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.03-09.13.24:533][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.03-09.13.24:556][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.03-09.13.24:577][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.03-09.13.24:601][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.03-09.13.24:664][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.03-09.13.24:664][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.03-09.13.24:714][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.03-09.13.24:738][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.03-09.13.24:952][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.03-09.13.24:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.03-09.13.24:992][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.03-09.13.25:035][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.03-09.13.25:088][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.03-09.13.25:116][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.03-09.13.25:116][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.03-09.13.26:118][  0]LogXGEController: Cleaning working directory: C:/Users/Edward/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.03-09.13.26:119][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.03-09.13.26:119][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.03-09.13.26:120][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.03-09.13.32:020][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.03-09.13.32:428][  0]LogDerivedDataCache: Loaded boot cache 0.41s 74MB C:/Users/Edward/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.03-09.13.32:429][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Edward/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.03-09.13.32:429][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.03-09.13.32:429][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.03-09.13.32:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.03-09.13.32:430][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.03-09.13.32:461][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.03-09.13.32:476][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Edward/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.03-09.13.32:476][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.03-09.13.32:477][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.03-09.13.32:501][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.03-09.13.32:502][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.03-09.13.32:570][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.03-09.13.32:570][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.03-09.13.39:862][  0]LogAssetRegistry: FAssetRegistry took 0.0321 seconds to start up
+[2018.05.03-09.13.41:782][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.03-09.13.42:487][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.03-09.13.42:679][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.03-09.13.42:679][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.03-09.13.42:679][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.03-09.13.42:679][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.03-09.13.42:679][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.03-09.13.42:746][  0]LogNetVersion: PhantomMechanic , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3498347362)
+[2018.05.03-09.13.44:459][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.163147 seconds
+[2018.05.03-09.13.44:472][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.03-09.13.44:472][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.03-09.13.44:472][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.03-09.14.27:300][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.03-09.14.27:360][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.03-09.14.28:971][  0]SourceControl: Source control is disabled
+[2018.05.03-09.14.28:971][  0]SourceControl: Source control is disabled
+[2018.05.03-09.14.29:067][  0]SourceControl: Source control is disabled
+[2018.05.03-09.14.29:151][  0]SourceControl: Source control is disabled
+[2018.05.03-09.14.31:582][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.03-09.14.32:288][  0]LogOcInput: OculusInput pre-init called
+[2018.05.03-09.14.32:808][  0]LogEngine: Initializing Engine...
+[2018.05.03-09.14.33:164][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.05.03-09.14.33:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.03-09.14.33:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.03-09.14.33:716][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.03-09.14.33:776][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-09.14.33:820][  0]LogInit: FAudioDevice initialized.
+[2018.05.03-09.14.33:942][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/Edward/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.03-09.14.33:983][  0]LogInit: Texture streaming: Enabled
+[2018.05.03-09.14.35:011][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.03-09.14.35:045][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={89107DA6-4AA4-4B5E-60A3-10A224DA0ED9}
+[2018.05.03-09.14.35:224][  0]LogInit: Transaction tracking system initialized
+[2018.05.03-09.14.37:291][  0]BlueprintLog: New page: Editor Load
+[2018.05.03-09.14.38:525][  0]LocalizationService: Localization service is disabled
+[2018.05.03-09.14.39:538][  0]LogConsoleResponse: Display: 
+[2018.05.03-09.14.40:190][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.03-09.14.40:190][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.03-09.14.40:191][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.03-09.14.40:191][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.03-09.14.40:191][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.03-09.14.41:251][  0]LogFileCache: Scanning file cache for directory 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/' took 0.02s
+[2018.05.03-09.14.42:122][  0]SourceControl: Source control is disabled
+[2018.05.03-09.14.42:122][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.03-09.14.42:123][  0]LightingResults: New page: Lighting Build
+[2018.05.03-09.14.42:171][  0]MapCheck: New page: Map Check
+[2018.05.03-09.14.42:171][  0]LightingResults: New page: Lighting Build
+[2018.05.03-09.14.42:197][  0]LogAIModule: Creating AISystem for world Test_Initial
+[2018.05.03-09.14.42:199][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.03-09.14.42:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.03-09.14.42:285][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.653ms to complete.
+[2018.05.03-09.14.42:285][  0]LogFileHelpers: Loading map 'Test_Initial' took 0.163
+[2018.05.03-09.14.42:822][  0]LogCollectionManager: Loaded 0 collections in 0.003229 seconds
+[2018.05.03-09.14.42:939][  0]LogFileCache: Scanning file cache for directory 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Collections/' took 0.01s
+[2018.05.03-09.14.42:939][  0]LogFileCache: Scanning file cache for directory 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Developers/Edward/Collections/' took 0.01s
+[2018.05.03-09.14.42:940][  0]LogFileCache: Scanning file cache for directory 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Collections/' took 0.01s
+[2018.05.03-09.14.42:940][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.03-09.14.42:959][  0]LogContentBrowser: Native class hierarchy populated in 0.0188 seconds. Added 2455 classes and 563 folders.
+[2018.05.03-09.14.43:015][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2018.05.03-09.14.47:202][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2018.05.03-09.14.47:274][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2018.05.03-09.14.47:407][  0]LogSlate: Took 0.020243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.03-09.14.47:466][  0]LogSlate: Took 0.055999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.03-09.14.47:506][  0]LogSlate: Took 0.033208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.03-09.14.47:660][  0]LogRenderer: Reallocating scene render targets to support 1360x456 Format 10 NumSamples 1 (Frame:1).
+[2018.05.03-09.14.47:918][  0]LogSlate: Took 0.038925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.03-09.14.48:330][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2018.05.03-09.14.48:330][  0]LogLoad: (Engine Initialization) Total time: 146.46 seconds
+[2018.05.03-09.14.48:330][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.03-09.14.48:363][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.03-09.14.48:520][  1]LogAssetRegistry: Asset discovery search completed in 68.6831 seconds
+[2018.05.03-09.14.48:523][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.03-09.14.48:523][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000193 seconds (updated 0 objects)
+[2018.05.03-09.14.56:853][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-09.15.26:389][840]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.03-09.15.26:543][840]LogSlate: Took 0.073042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.03-09.15.47:532][754]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.15.48:145][754]Invalidating makefiles only in this run.
+[2018.05.03-09.15.48:304][754]Candidate modules for hot reload:
+[2018.05.03-09.15.48:304][754]  PhantomMechanic
+[2018.05.03-09.15.48:304][754]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,974 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.20.46:700][754]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:20:46 AM
+[2018.05.03-09.20.46:748][754]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.20.46:748][754]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.20.46:748][754]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.20.46:748][754]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.20.46:749][754]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.20.46:749][754]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 18.7513032 seconds
+[2018.05.03-09.20.46:749][754]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.20.46:749][754]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.20.46:749][754]CompilerResultsLog: BodyPart.gen.cpp
+[2018.05.03-09.20.46:749][754]CompilerResultsLog: BodyPart.cpp
+[2018.05.03-09.20.46:749][754]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-974.dll
+[2018.05.03-09.20.46:750][754]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-974.lib
+[2018.05.03-09.20.46:750][754]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-974.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-974.exp
+[2018.05.03-09.20.46:750][754]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-974.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-974.suppressed.exp
+[2018.05.03-09.20.46:750][754]CompilerResultsLog: Total build time: 297.96 seconds (Local executor: 120.23 seconds)
+[2018.05.03-09.20.46:823][754]LogMainFrame: MainFrame: Module compiling took 298.551 seconds
+[2018.05.03-09.20.47:067][754]LogClass: Could not find existing class BodyPart in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.20.47:240][754]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0017 seconds. Added 4 classes and 5 folders.
+[2018.05.03-09.20.47:243][754]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.20.48:422][754]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2457 classes and 565 folders.
+[2018.05.03-09.20.48:472][754]Display: HotReload took 300.2s.
+[2018.05.03-09.20.48:473][754]Warning: HotReload operation took 300.2s.
+[2018.05.03-09.20.48:861][754]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Pawn/BodyPart.cpp'
+[2018.05.03-09.20.48:962][754]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.20.49:250][754]LogHotReload: New module detected: UE4Editor-PhantomMechanic-974.dll
+[2018.05.03-09.20.50:559][755]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.20.50:643][755]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 4 classes and 5 folders.
+[2018.05.03-09.20.50:646][755]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.20.50:705][755]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2457 classes and 565 folders.
+[2018.05.03-09.20.50:762][755]Display: HotReload took  0.2s.
+[2018.05.03-09.21.06:016][949]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.21.34:455][281]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.21.34:767][281]Invalidating makefiles only in this run.
+[2018.05.03-09.21.34:910][281]Candidate modules for hot reload:
+[2018.05.03-09.21.34:910][281]  PhantomMechanic
+[2018.05.03-09.21.34:910][281]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,5343 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.22.04:422][281]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:22:04 AM
+[2018.05.03-09.22.04:423][281]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.22.04:423][281]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.22.04:423][281]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.22.04:423][281]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.22.04:424][281]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.22.04:424][281]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 12.9854856 seconds
+[2018.05.03-09.22.04:424][281]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.22.04:424][281]CompilerResultsLog: PhantomPart.gen.cpp
+[2018.05.03-09.22.04:424][281]CompilerResultsLog: PhantomPart.cpp
+[2018.05.03-09.22.04:424][281]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.22.04:425][281]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-5343.dll
+[2018.05.03-09.22.04:425][281]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-5343.lib
+[2018.05.03-09.22.04:425][281]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-5343.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-5343.exp
+[2018.05.03-09.22.04:425][281]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-5343.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-5343.suppressed.exp
+[2018.05.03-09.22.04:425][281]CompilerResultsLog: Total build time: 29.22 seconds (Local executor: 9.87 seconds)
+[2018.05.03-09.22.04:425][281]LogMainFrame: MainFrame: Module compiling took 29.548 seconds
+[2018.05.03-09.22.04:509][281]LogClass: Could not find existing class PhantomPart in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.22.04:515][281]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 5 classes and 5 folders.
+[2018.05.03-09.22.04:518][281]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.22.04:620][281]LogContentBrowser: Native class hierarchy populated in 0.0226 seconds. Added 2458 classes and 565 folders.
+[2018.05.03-09.22.04:620][281]Display: HotReload took 29.7s.
+[2018.05.03-09.22.04:622][281]Warning: HotReload operation took 29.8s.
+[2018.05.03-09.22.05:004][281]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Pawn/Phantom/PhantomPart.cpp'
+[2018.05.03-09.22.05:018][281]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.22.05:144][282]LogHotReload: New module detected: UE4Editor-PhantomMechanic-5343.dll
+[2018.05.03-09.22.05:171][283]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.22.05:245][283]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0017 seconds. Added 5 classes and 5 folders.
+[2018.05.03-09.22.05:248][283]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.22.05:302][283]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 2458 classes and 565 folders.
+[2018.05.03-09.22.05:338][283]Display: HotReload took  0.2s.
+[2018.05.03-09.22.19:831][413]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.22.20:145][413]Invalidating makefiles only in this run.
+[2018.05.03-09.22.20:293][413]Candidate modules for hot reload:
+[2018.05.03-09.22.20:293][413]  PhantomMechanic
+[2018.05.03-09.22.20:294][413]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,405 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.22.48:983][413]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:22:48 AM
+[2018.05.03-09.22.48:983][413]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.22.48:983][413]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.22.48:984][413]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.22.48:984][413]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.22.48:984][413]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.22.48:984][413]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 13.5080915 seconds
+[2018.05.03-09.22.48:984][413]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.22.48:984][413]CompilerResultsLog: PhantomArm.gen.cpp
+[2018.05.03-09.22.48:985][413]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.22.48:985][413]CompilerResultsLog: PhantomArm.cpp
+[2018.05.03-09.22.48:985][413]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-405.dll
+[2018.05.03-09.22.48:985][413]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-405.lib
+[2018.05.03-09.22.48:985][413]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-405.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-405.exp
+[2018.05.03-09.22.48:985][413]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-405.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-405.suppressed.exp
+[2018.05.03-09.22.48:986][413]CompilerResultsLog: Total build time: 28.43 seconds (Local executor: 8.37 seconds)
+[2018.05.03-09.22.48:986][413]LogMainFrame: MainFrame: Module compiling took 28.726 seconds
+[2018.05.03-09.22.49:124][413]LogClass: Could not find existing class PhantomArm in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.22.49:134][413]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0019 seconds. Added 6 classes and 5 folders.
+[2018.05.03-09.22.49:137][413]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.22.49:228][413]LogContentBrowser: Native class hierarchy populated in 0.0228 seconds. Added 2459 classes and 565 folders.
+[2018.05.03-09.22.49:228][413]Display: HotReload took 29.0s.
+[2018.05.03-09.22.49:230][413]Warning: HotReload operation took 29.0s.
+[2018.05.03-09.22.49:652][413]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.22.49:664][413]LogHotReload: New module detected: UE4Editor-PhantomMechanic-405.dll
+[2018.05.03-09.22.49:716][414]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.22.49:794][414]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 6 classes and 5 folders.
+[2018.05.03-09.22.49:797][414]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.22.49:850][414]LogContentBrowser: Native class hierarchy populated in 0.0199 seconds. Added 2459 classes and 565 folders.
+[2018.05.03-09.22.49:885][414]Display: HotReload took  0.2s.
+[2018.05.03-09.23.06:642][970]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.23.06:955][970]Invalidating makefiles only in this run.
+[2018.05.03-09.23.07:105][970]Candidate modules for hot reload:
+[2018.05.03-09.23.07:105][970]  PhantomMechanic
+[2018.05.03-09.23.07:106][970]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,9337 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.23.33:302][970]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:23:33 AM
+[2018.05.03-09.23.33:303][970]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.23.33:303][970]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.23.33:303][970]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.23.33:303][970]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.23.33:304][970]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.23.33:304][970]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 12.3849263 seconds
+[2018.05.03-09.23.33:304][970]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.23.33:304][970]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.23.33:304][970]CompilerResultsLog: PhantomHand.gen.cpp
+[2018.05.03-09.23.33:305][970]CompilerResultsLog: PhantomHand.cpp
+[2018.05.03-09.23.33:305][970]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-9337.dll
+[2018.05.03-09.23.33:305][970]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-9337.lib
+[2018.05.03-09.23.33:305][970]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9337.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9337.exp
+[2018.05.03-09.23.33:305][970]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9337.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9337.suppressed.exp
+[2018.05.03-09.23.33:306][970]CompilerResultsLog: Total build time: 25.91 seconds (Local executor: 6.87 seconds)
+[2018.05.03-09.23.33:306][970]LogMainFrame: MainFrame: Module compiling took 26.238 seconds
+[2018.05.03-09.23.33:402][970]LogClass: Could not find existing class PhantomHand in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.23.33:413][970]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0020 seconds. Added 7 classes and 5 folders.
+[2018.05.03-09.23.33:416][970]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.23.33:509][970]LogContentBrowser: Native class hierarchy populated in 0.0221 seconds. Added 2460 classes and 565 folders.
+[2018.05.03-09.23.33:509][970]Display: HotReload took 26.4s.
+[2018.05.03-09.23.33:511][970]Warning: HotReload operation took 26.4s.
+[2018.05.03-09.23.33:684][970]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Pawn/Phantom/PhantomHand.h'
+[2018.05.03-09.23.33:823][970]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.23.33:833][970]LogHotReload: New module detected: UE4Editor-PhantomMechanic-9337.dll
+[2018.05.03-09.23.33:886][971]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.23.33:985][971]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0017 seconds. Added 7 classes and 5 folders.
+[2018.05.03-09.23.33:989][971]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.23.34:044][971]LogContentBrowser: Native class hierarchy populated in 0.0217 seconds. Added 2460 classes and 565 folders.
+[2018.05.03-09.23.34:081][971]Display: HotReload took  0.2s.
+[2018.05.03-09.24.01:042][129]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.24.01:354][129]Invalidating makefiles only in this run.
+[2018.05.03-09.24.01:502][129]Candidate modules for hot reload:
+[2018.05.03-09.24.01:502][129]  PhantomMechanic
+[2018.05.03-09.24.01:503][129]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,1321 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.24.30:468][129]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:24:30 AM
+[2018.05.03-09.24.30:468][129]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.24.30:468][129]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.24.30:468][129]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.24.30:469][129]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.24.30:469][129]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.24.30:469][129]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 13.2530929 seconds
+[2018.05.03-09.24.30:469][129]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.24.30:469][129]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.24.30:469][129]CompilerResultsLog: ExoPart.cpp
+[2018.05.03-09.24.30:470][129]CompilerResultsLog: ExoPart.gen.cpp
+[2018.05.03-09.24.30:470][129]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-1321.dll
+[2018.05.03-09.24.30:470][129]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-1321.lib
+[2018.05.03-09.24.30:470][129]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-1321.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-1321.exp
+[2018.05.03-09.24.30:470][129]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-1321.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-1321.suppressed.exp
+[2018.05.03-09.24.30:470][129]CompilerResultsLog: Total build time: 28.70 seconds (Local executor: 8.86 seconds)
+[2018.05.03-09.24.30:470][129]LogMainFrame: MainFrame: Module compiling took 29.002 seconds
+[2018.05.03-09.24.30:583][129]LogClass: Could not find existing class ExoPart in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.24.30:592][129]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0017 seconds. Added 8 classes and 5 folders.
+[2018.05.03-09.24.30:594][129]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.24.30:679][129]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2461 classes and 565 folders.
+[2018.05.03-09.24.30:680][129]Display: HotReload took 29.2s.
+[2018.05.03-09.24.30:681][129]Warning: HotReload operation took 29.2s.
+[2018.05.03-09.24.30:957][129]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.24.30:966][129]LogHotReload: New module detected: UE4Editor-PhantomMechanic-1321.dll
+[2018.05.03-09.24.31:020][130]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.24.31:109][130]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0017 seconds. Added 8 classes and 5 folders.
+[2018.05.03-09.24.31:111][130]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.24.31:164][130]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 2461 classes and 565 folders.
+[2018.05.03-09.24.31:199][130]Display: HotReload took  0.2s.
+[2018.05.03-09.25.06:898][556]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.25.07:209][556]Invalidating makefiles only in this run.
+[2018.05.03-09.25.07:360][556]Candidate modules for hot reload:
+[2018.05.03-09.25.07:360][556]  PhantomMechanic
+[2018.05.03-09.25.07:361][556]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,2626 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.25.36:067][556]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:25:36 AM
+[2018.05.03-09.25.36:067][556]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.25.36:067][556]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.25.36:068][556]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.25.36:068][556]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.25.36:068][556]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.25.36:068][556]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 13.0260947 seconds
+[2018.05.03-09.25.36:068][556]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.25.36:068][556]CompilerResultsLog: ExoArm.cpp
+[2018.05.03-09.25.36:069][556]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.25.36:069][556]CompilerResultsLog: ExoArm.gen.cpp
+[2018.05.03-09.25.36:069][556]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-2626.dll
+[2018.05.03-09.25.36:069][556]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-2626.lib
+[2018.05.03-09.25.36:069][556]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-2626.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-2626.exp
+[2018.05.03-09.25.36:069][556]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-2626.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-2626.suppressed.exp
+[2018.05.03-09.25.36:070][556]CompilerResultsLog: Total build time: 28.45 seconds (Local executor: 8.87 seconds)
+[2018.05.03-09.25.36:070][556]LogMainFrame: MainFrame: Module compiling took 28.745 seconds
+[2018.05.03-09.25.36:165][556]LogClass: Could not find existing class ExoArm in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.25.36:187][556]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0026 seconds. Added 9 classes and 5 folders.
+[2018.05.03-09.25.36:191][556]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.25.36:290][556]LogContentBrowser: Native class hierarchy populated in 0.0209 seconds. Added 2462 classes and 565 folders.
+[2018.05.03-09.25.36:290][556]Display: HotReload took 29.0s.
+[2018.05.03-09.25.36:292][556]Warning: HotReload operation took 29.0s.
+[2018.05.03-09.25.36:584][556]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.25.37:299][559]LogHotReload: New module detected: UE4Editor-PhantomMechanic-2626.dll
+[2018.05.03-09.25.37:321][560]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.25.37:390][560]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0017 seconds. Added 9 classes and 5 folders.
+[2018.05.03-09.25.37:392][560]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.25.37:444][560]LogContentBrowser: Native class hierarchy populated in 0.0184 seconds. Added 2462 classes and 565 folders.
+[2018.05.03-09.25.37:480][560]Display: HotReload took  0.2s.
+[2018.05.03-09.25.49:172][869]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.25.49:483][869]Invalidating makefiles only in this run.
+[2018.05.03-09.25.49:627][869]Candidate modules for hot reload:
+[2018.05.03-09.25.49:627][869]  PhantomMechanic
+[2018.05.03-09.25.49:627][869]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,9930 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.26.40:524][869]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:26:40 AM
+[2018.05.03-09.26.40:525][869]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.26.40:525][869]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.26.40:525][869]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.26.40:525][869]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.26.40:525][869]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.26.40:526][869]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 13.5241634 seconds
+[2018.05.03-09.26.40:526][869]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.26.40:526][869]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.26.40:526][869]CompilerResultsLog: ExoHand.gen.cpp
+[2018.05.03-09.26.40:526][869]CompilerResultsLog: ExoHand.cpp
+[2018.05.03-09.26.40:527][869]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-9930.dll
+[2018.05.03-09.26.40:527][869]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-9930.lib
+[2018.05.03-09.26.40:527][869]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9930.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9930.exp
+[2018.05.03-09.26.40:527][869]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9930.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9930.suppressed.exp
+[2018.05.03-09.26.40:527][869]CompilerResultsLog: Total build time: 50.63 seconds (Local executor: 30.17 seconds)
+[2018.05.03-09.26.40:527][869]LogMainFrame: MainFrame: Module compiling took 50.933 seconds
+[2018.05.03-09.26.40:611][869]LogClass: Could not find existing class ExoHand in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.26.40:621][869]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0017 seconds. Added 10 classes and 5 folders.
+[2018.05.03-09.26.40:624][869]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.26.40:716][869]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2463 classes and 565 folders.
+[2018.05.03-09.26.40:716][869]Display: HotReload took 51.1s.
+[2018.05.03-09.26.40:719][869]Warning: HotReload operation took 51.1s.
+[2018.05.03-09.26.41:100][869]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Pawn/ExoBody/ExoHand.cpp'
+[2018.05.03-09.26.41:114][869]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.26.41:124][869]LogHotReload: New module detected: UE4Editor-PhantomMechanic-9930.dll
+[2018.05.03-09.26.41:178][870]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.26.41:263][870]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0017 seconds. Added 10 classes and 5 folders.
+[2018.05.03-09.26.41:268][870]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.26.41:325][870]LogContentBrowser: Native class hierarchy populated in 0.0243 seconds. Added 2463 classes and 565 folders.
+[2018.05.03-09.26.41:365][870]Display: HotReload took  0.2s.
+[2018.05.03-09.28.00:214][358]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.28.05:837][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Initial" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-09.28.05:996][872]LogSavePackage: Save=57.93ms
+[2018.05.03-09.28.05:996][872]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Test_Initial161D49264A0A12D23EF18D91E2983FC4.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap'
+[2018.05.03-09.28.06:018][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap
+[2018.05.03-09.28.14:537][120]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.28.21:512][764]LogSlate: Window 'Save Content' being destroyed
+[2018.05.03-09.28.21:615][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/Phantom/PhantomArm" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomArm.uasset" SILENT=true
+[2018.05.03-09.28.21:679][764]LogSavePackage: Save=58.49ms
+[2018.05.03-09.28.21:679][764]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/PhantomArmE314904B4627B352E961FDBFBB74C742.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomArm.uasset'
+[2018.05.03-09.28.21:690][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomArm.uasset
+[2018.05.03-09.28.21:698][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/Phantom/PhantomHand" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomHand.uasset" SILENT=true
+[2018.05.03-09.28.21:720][764]LogSavePackage: Save=14.60ms
+[2018.05.03-09.28.21:720][764]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/PhantomHand9488455B4407FFE579A8D08151B7A5A5.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomHand.uasset'
+[2018.05.03-09.28.21:725][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomHand.uasset
+[2018.05.03-09.28.30:279][209]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.28.39:646][764]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.28.49:394][288]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.28.53:946][720]LogSlate: Window 'Save Content' being destroyed
+[2018.05.03-09.28.53:994][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/ExoBody/ExoArm" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoArm.uasset" SILENT=true
+[2018.05.03-09.28.54:015][720]LogSavePackage: Save=14.40ms
+[2018.05.03-09.28.54:015][720]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/ExoArmA34A87CF40FAD4C61E3E27A32143FF45.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoArm.uasset'
+[2018.05.03-09.28.54:020][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoArm.uasset
+[2018.05.03-09.28.54:024][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/ExoBody/ExoBody" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoBody.uasset" SILENT=true
+[2018.05.03-09.28.54:043][720]LogSavePackage: Save=15.94ms
+[2018.05.03-09.28.54:043][720]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/ExoBodyA215E84B4F6BD1453EBC4EADD5447165.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoBody.uasset'
+[2018.05.03-09.28.54:049][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoBody.uasset
+[2018.05.03-09.28.54:055][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/ExoBody/ExoHand" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoHand.uasset" SILENT=true
+[2018.05.03-09.28.54:086][720]LogSavePackage: Save=12.55ms
+[2018.05.03-09.28.54:086][720]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/ExoHandB72241BB48BF38CCE607138F3197CA0E.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoHand.uasset'
+[2018.05.03-09.28.54:092][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoHand.uasset
+[2018.05.03-09.29.24:507][481]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.29.29:273][901]LogSlate: Window 'Save Content' being destroyed
+[2018.05.03-09.29.29:324][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/BodyPart" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/BodyPart.uasset" SILENT=true
+[2018.05.03-09.29.29:366][901]LogSavePackage: Save=38.65ms
+[2018.05.03-09.29.29:367][901]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/BodyPart5AE02302434BFB01D74613A5794B27A3.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/BodyPart.uasset'
+[2018.05.03-09.29.29:372][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/BodyPart.uasset
+[2018.05.03-09.30.06:800][842]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.30.10:956][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Initial" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-09.30.11:001][328]LogSavePackage: Save=11.21ms
+[2018.05.03-09.30.11:001][328]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Test_Initial03925F4C45506F04E6A23DBC7DEABD78.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap'
+[2018.05.03-09.30.11:004][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap
+[2018.05.03-09.30.12:522][393]LogSlate: Window 'Save Content' being destroyed
+[2018.05.03-09.30.12:569][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/Phantom/PhantomPart" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomPart.uasset" SILENT=true
+[2018.05.03-09.30.12:586][393]LogSavePackage: Save=13.25ms
+[2018.05.03-09.30.12:586][393]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/PhantomPart9506C52749D52AA47A8D34BDFCCA1B19.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomPart.uasset'
+[2018.05.03-09.30.12:592][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomPart.uasset
+[2018.05.03-09.30.21:356][836]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.30.24:908][237]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Pawns/Phantom/PhantomPart.PhantomPart_C or BlueprintGeneratedClass /Game/Pawns/ExoBody/PhantomPart.PhantomPart_C
+[2018.05.03-09.30.26:760][275]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.03-09.30.27:344][276]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.03-09.30.32:158][688]LogSlate: Window 'Save Content' being destroyed
+[2018.05.03-09.30.32:205][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/ExoBody/PhantomPart" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/PhantomPart.uasset" SILENT=true
+[2018.05.03-09.30.32:226][688]LogSavePackage: Save=17.11ms
+[2018.05.03-09.30.32:226][688]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/PhantomPartC7A2DEAF4F57410419E3FAAC408438D8.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/PhantomPart.uasset'
+[2018.05.03-09.30.32:231][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/PhantomPart.uasset
+[2018.05.03-09.30.46:225][292]LogSlate: Window 'Failed Renames' being destroyed
+[2018.05.03-09.30.55:568][360]LogMetaData: Removing '/Game/Pawns/ExoBody/ExoPart.ExoPart:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Pawns/ExoBody/PhantomPart.PackageMetaData'
+[2018.05.03-09.30.55:579][360]LogMetaData: Removing '/Game/Pawns/ExoBody/ExoPart.SKEL_ExoPart_C' ref from Metadata '/Game/Pawns/ExoBody/PhantomPart.PackageMetaData'
+[2018.05.03-09.30.55:579][360]LogMetaData: Removing '/Game/Pawns/ExoBody/ExoPart.ExoPart_C' ref from Metadata '/Game/Pawns/ExoBody/PhantomPart.PackageMetaData'
+[2018.05.03-09.30.55:579][360]LogMetaData: Removing '/Game/Pawns/ExoBody/ExoPart.ExoPart:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Pawns/ExoBody/PhantomPart.PackageMetaData'
+[2018.05.03-09.30.55:580][360]LogMetaData: Removing '/Game/Pawns/ExoBody/ExoPart.ExoPart:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Pawns/ExoBody/PhantomPart.PackageMetaData'
+[2018.05.03-09.30.55:580][360]LogMetaData: Removing '/Game/Pawns/ExoBody/ExoPart.ExoPart:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Pawns/ExoBody/PhantomPart.PackageMetaData'
+[2018.05.03-09.30.55:647][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/ExoBody/ExoPart" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoPart.uasset" SILENT=true
+[2018.05.03-09.30.55:665][360]LogSavePackage: Save=14.30ms
+[2018.05.03-09.30.55:666][360]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/ExoPart98DB43E346DC885725662B969E763DD0.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoPart.uasset'
+[2018.05.03-09.30.55:671][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/ExoBody/ExoPart.uasset
+[2018.05.03-09.31.58:423][121]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.31.58:837][121]Invalidating makefiles only in this run.
+[2018.05.03-09.31.59:139][121]Candidate modules for hot reload:
+[2018.05.03-09.31.59:139][121]  PhantomMechanic
+[2018.05.03-09.31.59:140][121]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,1142 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.32.28:134][121]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:32:28 AM
+[2018.05.03-09.32.28:135][121]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.32.28:135][121]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.32.28:135][121]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.32.28:135][121]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.32.28:135][121]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.32.28:135][121]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 12.7141883 seconds
+[2018.05.03-09.32.28:136][121]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.32.28:136][121]CompilerResultsLog: GameManager.gen.cpp
+[2018.05.03-09.32.28:136][121]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.32.28:136][121]CompilerResultsLog: GameManager.cpp
+[2018.05.03-09.32.28:136][121]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-1142.dll
+[2018.05.03-09.32.28:136][121]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-1142.lib
+[2018.05.03-09.32.28:136][121]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-1142.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-1142.exp
+[2018.05.03-09.32.28:136][121]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-1142.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-1142.suppressed.exp
+[2018.05.03-09.32.28:137][121]CompilerResultsLog: Total build time: 28.70 seconds (Local executor: 9.37 seconds)
+[2018.05.03-09.32.28:137][121]LogMainFrame: MainFrame: Module compiling took 29.032 seconds
+[2018.05.03-09.32.28:261][121]LogClass: Could not find existing class GameManager in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.32.28:271][121]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 11 classes and 6 folders.
+[2018.05.03-09.32.28:273][121]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.32.28:366][121]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2464 classes and 566 folders.
+[2018.05.03-09.32.28:366][121]Display: HotReload took 29.4s.
+[2018.05.03-09.32.28:368][121]Warning: HotReload operation took 29.4s.
+[2018.05.03-09.32.28:532][121]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/GameManager.h'
+[2018.05.03-09.32.28:636][121]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/GameManager.cpp'
+[2018.05.03-09.32.28:657][121]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.32.28:669][121]LogHotReload: New module detected: UE4Editor-PhantomMechanic-1142.dll
+[2018.05.03-09.32.28:719][122]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.32.28:812][122]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0020 seconds. Added 11 classes and 6 folders.
+[2018.05.03-09.32.28:818][122]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.32.28:870][122]LogContentBrowser: Native class hierarchy populated in 0.0212 seconds. Added 2464 classes and 566 folders.
+[2018.05.03-09.32.28:904][122]Display: HotReload took  0.2s.
+[2018.05.03-09.33.31:363][531]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.33.31:674][531]Invalidating makefiles only in this run.
+[2018.05.03-09.33.31:823][531]Candidate modules for hot reload:
+[2018.05.03-09.33.31:823][531]  PhantomMechanic
+[2018.05.03-09.33.31:823][531]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,3545 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.34.25:511][531]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:34:25 AM
+[2018.05.03-09.34.25:511][531]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.34.25:511][531]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.34.25:512][531]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.34.25:512][531]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.34.25:512][531]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.34.25:512][531]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 12.5647973 seconds
+[2018.05.03-09.34.25:512][531]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.34.25:512][531]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.34.25:512][531]CompilerResultsLog: GameData.gen.cpp
+[2018.05.03-09.34.25:513][531]CompilerResultsLog: GameData.cpp
+[2018.05.03-09.34.25:513][531]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-3545.dll
+[2018.05.03-09.34.25:513][531]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-3545.lib
+[2018.05.03-09.34.25:513][531]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-3545.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-3545.exp
+[2018.05.03-09.34.25:514][531]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-3545.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-3545.suppressed.exp
+[2018.05.03-09.34.25:514][531]CompilerResultsLog: Total build time: 53.42 seconds (Local executor: 34.39 seconds)
+[2018.05.03-09.34.25:514][531]LogMainFrame: MainFrame: Module compiling took 53.726 seconds
+[2018.05.03-09.34.25:627][531]LogClass: Could not find existing class GameData in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.34.25:638][531]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 12 classes and 6 folders.
+[2018.05.03-09.34.25:641][531]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.34.25:729][531]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2465 classes and 566 folders.
+[2018.05.03-09.34.25:729][531]Display: HotReload took 53.9s.
+[2018.05.03-09.34.25:731][531]Warning: HotReload operation took 54.0s.
+[2018.05.03-09.34.25:900][531]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/GameData.h'
+[2018.05.03-09.34.26:023][531]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.34.26:035][531]LogHotReload: New module detected: UE4Editor-PhantomMechanic-3545.dll
+[2018.05.03-09.34.26:107][532]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.34.26:210][532]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0027 seconds. Added 12 classes and 6 folders.
+[2018.05.03-09.34.26:215][532]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.34.26:263][532]LogContentBrowser: Native class hierarchy populated in 0.0179 seconds. Added 2465 classes and 566 folders.
+[2018.05.03-09.34.26:299][532]Display: HotReload took  0.2s.
+[2018.05.03-09.36.24:604][656]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.36.25:017][656]Invalidating makefiles only in this run.
+[2018.05.03-09.36.25:166][656]Candidate modules for hot reload:
+[2018.05.03-09.36.25:166][656]  PhantomMechanic
+[2018.05.03-09.36.25:167][656]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,3467 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.37.28:079][656]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:37:28 AM
+[2018.05.03-09.37.28:080][656]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.37.28:080][656]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.37.28:080][656]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.37.28:080][656]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.37.28:080][656]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.37.28:080][656]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 12.7585217 seconds
+[2018.05.03-09.37.28:081][656]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.37.28:081][656]CompilerResultsLog: PhantomBaseMode.gen.cpp
+[2018.05.03-09.37.28:081][656]CompilerResultsLog: PhantomBaseMode.cpp
+[2018.05.03-09.37.28:081][656]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.37.28:081][656]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-3467.dll
+[2018.05.03-09.37.28:081][656]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-3467.lib
+[2018.05.03-09.37.28:081][656]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-3467.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-3467.exp
+[2018.05.03-09.37.28:081][656]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-3467.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-3467.suppressed.exp
+[2018.05.03-09.37.28:081][656]CompilerResultsLog: Total build time: 62.64 seconds (Local executor: 41.63 seconds)
+[2018.05.03-09.37.28:082][656]LogMainFrame: MainFrame: Module compiling took 62.948 seconds
+[2018.05.03-09.37.28:175][656]LogClass: Could not find existing class PhantomBaseMode in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.37.28:184][656]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 13 classes and 6 folders.
+[2018.05.03-09.37.28:187][656]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.37.28:287][656]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2466 classes and 566 folders.
+[2018.05.03-09.37.28:288][656]Display: HotReload took 63.2s.
+[2018.05.03-09.37.28:289][656]Warning: HotReload operation took 63.2s.
+[2018.05.03-09.37.28:463][656]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/PhantomBaseMode.h'
+[2018.05.03-09.37.28:553][656]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/PhantomBaseMode.cpp'
+[2018.05.03-09.37.28:567][656]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.37.28:584][656]LogHotReload: New module detected: UE4Editor-PhantomMechanic-3467.dll
+[2018.05.03-09.37.28:635][657]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.37.28:719][657]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 13 classes and 6 folders.
+[2018.05.03-09.37.28:722][657]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.37.28:776][657]LogContentBrowser: Native class hierarchy populated in 0.0198 seconds. Added 2466 classes and 566 folders.
+[2018.05.03-09.37.28:815][657]Display: HotReload took  0.2s.
+[2018.05.03-09.37.59:657][581]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.37.59:970][581]Invalidating makefiles only in this run.
+[2018.05.03-09.38.00:119][581]Candidate modules for hot reload:
+[2018.05.03-09.38.00:119][581]  PhantomMechanic
+[2018.05.03-09.38.00:119][581]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,6786 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.38.25:263][581]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:38:25 AM
+[2018.05.03-09.38.25:264][581]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.38.25:264][581]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.38.25:264][581]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.38.25:264][581]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.38.25:264][581]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.38.25:265][581]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 12.8292544 seconds
+[2018.05.03-09.38.25:265][581]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.38.25:265][581]CompilerResultsLog: SaveManager.cpp
+[2018.05.03-09.38.25:265][581]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.38.25:265][581]CompilerResultsLog: SaveManager.gen.cpp
+[2018.05.03-09.38.25:265][581]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-6786.dll
+[2018.05.03-09.38.25:265][581]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-6786.lib
+[2018.05.03-09.38.25:266][581]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-6786.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-6786.exp
+[2018.05.03-09.38.25:266][581]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-6786.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-6786.suppressed.exp
+[2018.05.03-09.38.25:266][581]CompilerResultsLog: Total build time: 24.86 seconds (Local executor: 5.45 seconds)
+[2018.05.03-09.38.25:266][581]LogMainFrame: MainFrame: Module compiling took 25.181 seconds
+[2018.05.03-09.38.25:378][581]LogClass: Could not find existing class SaveManager in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.38.25:385][581]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 14 classes and 6 folders.
+[2018.05.03-09.38.25:389][581]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.38.25:482][581]LogContentBrowser: Native class hierarchy populated in 0.0182 seconds. Added 2467 classes and 566 folders.
+[2018.05.03-09.38.25:482][581]Display: HotReload took 25.4s.
+[2018.05.03-09.38.25:484][581]Warning: HotReload operation took 25.4s.
+[2018.05.03-09.38.25:665][581]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/SaveManager.h'
+[2018.05.03-09.38.25:764][581]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.38.25:776][581]LogHotReload: New module detected: UE4Editor-PhantomMechanic-6786.dll
+[2018.05.03-09.38.25:835][582]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.38.25:926][582]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0021 seconds. Added 14 classes and 6 folders.
+[2018.05.03-09.38.25:929][582]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.38.25:979][582]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2467 classes and 566 folders.
+[2018.05.03-09.38.26:014][582]Display: HotReload took  0.2s.
+[2018.05.03-09.38.50:486][584]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.38.50:797][584]Invalidating makefiles only in this run.
+[2018.05.03-09.38.50:945][584]Candidate modules for hot reload:
+[2018.05.03-09.38.50:946][584]  PhantomMechanic
+[2018.05.03-09.38.50:946][584]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,2665 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.39.22:552][584]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:39:22 AM
+[2018.05.03-09.39.22:552][584]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.39.22:552][584]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.39.22:553][584]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.39.22:553][584]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.39.22:553][584]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.39.22:553][584]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 13.5313898 seconds
+[2018.05.03-09.39.22:553][584]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.39.22:553][584]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.39.22:553][584]CompilerResultsLog: User.cpp
+[2018.05.03-09.39.22:553][584]CompilerResultsLog: User.gen.cpp
+[2018.05.03-09.39.22:554][584]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-2665.dll
+[2018.05.03-09.39.22:554][584]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-2665.lib
+[2018.05.03-09.39.22:554][584]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-2665.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-2665.exp
+[2018.05.03-09.39.22:554][584]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-2665.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-2665.suppressed.exp
+[2018.05.03-09.39.22:554][584]CompilerResultsLog: Total build time: 31.34 seconds (Local executor: 11.28 seconds)
+[2018.05.03-09.39.22:554][584]LogMainFrame: MainFrame: Module compiling took 31.643 seconds
+[2018.05.03-09.39.22:685][584]LogClass: Could not find existing class User in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.39.22:692][584]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 15 classes and 6 folders.
+[2018.05.03-09.39.22:695][584]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.39.22:789][584]LogContentBrowser: Native class hierarchy populated in 0.0203 seconds. Added 2468 classes and 566 folders.
+[2018.05.03-09.39.22:789][584]Display: HotReload took 31.9s.
+[2018.05.03-09.39.22:791][584]Warning: HotReload operation took 31.9s.
+[2018.05.03-09.39.22:971][584]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/User.h'
+[2018.05.03-09.39.23:085][584]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.39.23:101][584]LogHotReload: New module detected: UE4Editor-PhantomMechanic-2665.dll
+[2018.05.03-09.39.23:172][585]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.39.23:272][585]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0031 seconds. Added 15 classes and 6 folders.
+[2018.05.03-09.39.23:277][585]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.39.23:327][585]LogContentBrowser: Native class hierarchy populated in 0.0197 seconds. Added 2468 classes and 566 folders.
+[2018.05.03-09.39.23:362][585]Display: HotReload took  0.2s.
+[2018.05.03-09.39.54:879][279]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.39.55:190][279]Invalidating makefiles only in this run.
+[2018.05.03-09.39.55:338][279]Candidate modules for hot reload:
+[2018.05.03-09.39.55:338][279]  PhantomMechanic
+[2018.05.03-09.39.55:338][279]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,9714 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.40.24:445][279]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:40:24 AM
+[2018.05.03-09.40.24:445][279]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.40.24:445][279]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.40.24:446][279]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.40.24:446][279]CompilerResultsLog: Parsing headers for PhantomMechanicEditor
+[2018.05.03-09.40.24:446][279]CompilerResultsLog:   Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.03-09.40.24:446][279]CompilerResultsLog: Reflection code generated for PhantomMechanicEditor in 12.4542649 seconds
+[2018.05.03-09.40.24:446][279]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.03-09.40.24:446][279]CompilerResultsLog: UserData.cpp
+[2018.05.03-09.40.24:447][279]CompilerResultsLog: UserData.gen.cpp
+[2018.05.03-09.40.24:447][279]CompilerResultsLog: PhantomMechanic.init.gen.cpp
+[2018.05.03-09.40.24:447][279]CompilerResultsLog: [4/5] Link UE4Editor-PhantomMechanic-9714.dll
+[2018.05.03-09.40.24:447][279]CompilerResultsLog: [5/5] Link UE4Editor-PhantomMechanic-9714.lib
+[2018.05.03-09.40.24:447][279]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9714.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9714.exp
+[2018.05.03-09.40.24:447][279]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9714.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-9714.suppressed.exp
+[2018.05.03-09.40.24:447][279]CompilerResultsLog: Total build time: 28.82 seconds (Local executor: 9.87 seconds)
+[2018.05.03-09.40.24:448][279]LogMainFrame: MainFrame: Module compiling took 29.143 seconds
+[2018.05.03-09.40.24:595][279]LogClass: Could not find existing class UserData in package /Script/PhantomMechanic for HotReload, assuming new class
+[2018.05.03-09.40.24:602][279]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0016 seconds. Added 16 classes and 6 folders.
+[2018.05.03-09.40.24:604][279]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.40.24:703][279]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2469 classes and 566 folders.
+[2018.05.03-09.40.24:703][279]Display: HotReload took 29.4s.
+[2018.05.03-09.40.24:705][279]Warning: HotReload operation took 29.4s.
+[2018.05.03-09.40.24:861][279]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/UserData.h'
+[2018.05.03-09.40.24:984][279]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/UserData.cpp'
+[2018.05.03-09.40.24:998][279]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.40.25:055][280]LogHotReload: New module detected: UE4Editor-PhantomMechanic-9714.dll
+[2018.05.03-09.40.25:089][281]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.40.25:181][281]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0019 seconds. Added 16 classes and 6 folders.
+[2018.05.03-09.40.25:184][281]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.40.25:237][281]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 2469 classes and 566 folders.
+[2018.05.03-09.40.25:269][281]Display: HotReload took  0.2s.
+[2018.05.03-09.41.17:606][779]Running E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic Win64 Development -editorrecompile "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" -invalidatemakefilesonly
+[2018.05.03-09.41.17:918][779]Invalidating makefiles only in this run.
+[2018.05.03-09.41.18:062][779]Candidate modules for hot reload:
+[2018.05.03-09.41.18:063][779]  PhantomMechanic
+[2018.05.03-09.41.18:063][779]Launching UnrealBuildTool... [E:/Development/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe PhantomMechanic -ModuleWithSuffix=PhantomMechanic,4321 Win64 Development -editorrecompile -canskiplink "E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/PhantomMechanic.uproject" ]
+[2018.05.03-09.41.26:304][779]CompilerResultsLog: New page: Compilation - May 3, 2018, 1:41:26 AM
+[2018.05.03-09.41.26:305][779]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.03-09.41.26:305][779]CompilerResultsLog: Creating makefile for hot reloading PhantomMechanic (no existing makefile)
+[2018.05.03-09.41.26:305][779]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.03-09.41.26:305][779]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.05.03-09.41.26:305][779]CompilerResultsLog: UserInterfaceManager.cpp
+[2018.05.03-09.41.26:306][779]CompilerResultsLog: [2/3] Link UE4Editor-PhantomMechanic-4321.dll
+[2018.05.03-09.41.26:306][779]CompilerResultsLog: [3/3] Link UE4Editor-PhantomMechanic-4321.lib
+[2018.05.03-09.41.26:306][779]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-4321.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-4321.exp
+[2018.05.03-09.41.26:306][779]CompilerResultsLog:    Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-4321.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-4321.suppressed.exp
+[2018.05.03-09.41.26:306][779]CompilerResultsLog: Total build time: 7.98 seconds (Local executor: 1.63 seconds)
+[2018.05.03-09.41.26:307][779]LogMainFrame: MainFrame: Module compiling took 8.277 seconds
+[2018.05.03-09.41.26:440][779]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0019 seconds. Added 16 classes and 6 folders.
+[2018.05.03-09.41.26:443][779]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.41.26:540][779]LogContentBrowser: Native class hierarchy populated in 0.0226 seconds. Added 2469 classes and 566 folders.
+[2018.05.03-09.41.26:540][779]Display: HotReload took  8.5s.
+[2018.05.03-09.41.26:542][779]Warning: HotReload operation took  8.5s.
+[2018.05.03-09.41.26:862][779]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Source/PhantomMechanic/Framework/UserInterfaceManager.cpp'
+[2018.05.03-09.41.26:874][779]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.03-09.41.26:887][779]LogHotReload: New module detected: UE4Editor-PhantomMechanic-4321.dll
+[2018.05.03-09.41.26:938][780]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.03-09.41.27:033][780]LogContentBrowser: Native class hierarchy updated for 'PhantomMechanic' in 0.0022 seconds. Added 16 classes and 6 folders.
+[2018.05.03-09.41.27:037][780]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.03-09.41.27:090][780]LogContentBrowser: Native class hierarchy populated in 0.0214 seconds. Added 2469 classes and 566 folders.
+[2018.05.03-09.41.27:130][780]Display: HotReload took  0.2s.
+[2018.05.03-09.42.07:227][233]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-09.42.26:089][143]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 116 classes and 0 folders.
+[2018.05.03-09.42.26:833][143]LogUObjectGlobals: Created PersistentFrame Addr=0x00000229ef7926d0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.03-09.42.26:844][143]LogUObjectGlobals: Created PersistentFrame Addr=0x00000229ef7926c8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.03-09.42.28:335][143]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.05.03-09.42.30:335][333]LogSlate: Window 'GameManager*' being destroyed
+[2018.05.03-09.42.32:497][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Initial" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-09.42.32:656][568]LogSavePackage: Save=9.81ms
+[2018.05.03-09.42.32:657][568]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Test_Initial61EC3AB14371D5B1E67F9C9615FDC7B7.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap'
+[2018.05.03-09.42.32:659][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap
+[2018.05.03-09.42.34:837][699]LogSlate: Window 'Save Content' being destroyed
+[2018.05.03-09.42.34:890][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/GameManager" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/GameManager.uasset" SILENT=true
+[2018.05.03-09.42.34:906][699]LogSavePackage: Save=7.83ms
+[2018.05.03-09.42.34:906][699]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/GameManager7154BCD24935359AE68628AC1619234C.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/GameManager.uasset'
+[2018.05.03-09.42.34:915][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/GameManager.uasset
+[2018.05.03-09.42.47:686][102]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.05.03-09.42.49:198][103]LogRenderer: Reallocating scene render targets to support 1360x940 Format 10 NumSamples 1 (Frame:1).
+[2018.05.03-09.43.03:056][654]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.05.03-09.43.04:035][741]LogSlate: Took 0.022506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.03-09.43.16:818][192]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.05.03-09.43.30:007][737]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.05.03-09.43.43:457][249]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.05.03-09.43.56:618][681]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.05.03-09.44.02:912][294]LogSlate: Window 'Save Content' being destroyed
+[2018.05.03-09.44.02:963][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/GameData" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/GameData.uasset" SILENT=true
+[2018.05.03-09.44.02:984][294]LogSavePackage: Save=14.52ms
+[2018.05.03-09.44.02:984][294]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/GameDataA42FB9574EC40DDA5C75138F4789AFC2.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/GameData.uasset'
+[2018.05.03-09.44.02:989][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/GameData.uasset
+[2018.05.03-09.44.02:993][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/PhantomBaseMode" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/PhantomBaseMode.uasset" SILENT=true
+[2018.05.03-09.44.03:012][294]LogSavePackage: Save=12.67ms
+[2018.05.03-09.44.03:012][294]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/PhantomBaseModeC9CA98C64D1C575C0F6809870139BBF2.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/PhantomBaseMode.uasset'
+[2018.05.03-09.44.03:018][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/PhantomBaseMode.uasset
+[2018.05.03-09.44.03:025][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/SaveManager" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/SaveManager.uasset" SILENT=true
+[2018.05.03-09.44.03:037][294]LogSavePackage: Save=8.54ms
+[2018.05.03-09.44.03:037][294]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/SaveManagerFC2FF5CE4B98C706F82A04A3A343B3CD.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/SaveManager.uasset'
+[2018.05.03-09.44.03:043][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/SaveManager.uasset
+[2018.05.03-09.44.03:049][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/UserData" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/UserData.uasset" SILENT=true
+[2018.05.03-09.44.03:073][294]LogSavePackage: Save=15.28ms
+[2018.05.03-09.44.03:073][294]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/UserDataADA45B37412F4AF8381560B25B2B87D8.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/UserData.uasset'
+[2018.05.03-09.44.03:082][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Framework/UserData.uasset
+[2018.05.03-09.44.03:088][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/User" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Player/User.uasset" SILENT=true
+[2018.05.03-09.44.03:119][294]LogSavePackage: Save=13.33ms
+[2018.05.03-09.44.03:120][294]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/User95174AAA416D0FEEE0E9E6A78D1BA6D2.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Player/User.uasset'
+[2018.05.03-09.44.03:125][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Player/User.uasset
+[2018.05.03-09.44.05:467][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-09.44.06:437][567]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-09.44.07:026][610]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-09.44.14:615][482]LogMetaData: Removing '/Game/Player/UserData.UserData:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Framework/UserData.PackageMetaData'
+[2018.05.03-09.44.14:615][482]LogMetaData: Removing '/Game/Player/UserData.SKEL_UserData_C:DefaultSceneRoot' ref from Metadata '/Game/Framework/UserData.PackageMetaData'
+[2018.05.03-09.44.14:615][482]LogMetaData: Removing '/Game/Player/UserData.SKEL_UserData_C' ref from Metadata '/Game/Framework/UserData.PackageMetaData'
+[2018.05.03-09.44.14:616][482]LogMetaData: Removing '/Game/Player/UserData.UserData_C:DefaultSceneRoot' ref from Metadata '/Game/Framework/UserData.PackageMetaData'
+[2018.05.03-09.44.14:616][482]LogMetaData: Removing '/Game/Player/UserData.UserData_C' ref from Metadata '/Game/Framework/UserData.PackageMetaData'
+[2018.05.03-09.44.14:616][482]LogMetaData: Removing '/Game/Player/UserData.UserData:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Framework/UserData.PackageMetaData'
+[2018.05.03-09.44.14:616][482]LogMetaData: Removing '/Game/Player/UserData.UserData:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Framework/UserData.PackageMetaData'
+[2018.05.03-09.44.14:669][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/UserData" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Player/UserData.uasset" SILENT=true
+[2018.05.03-09.44.14:691][482]LogSavePackage: Save=17.28ms
+[2018.05.03-09.44.14:691][482]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/UserData8B221A504B9E6570F6B790BC2ED2413E.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Player/UserData.uasset'
+[2018.05.03-09.44.14:697][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Player/UserData.uasset
+[2018.05.03-09.45.41:843][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test_Initial" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-09.45.41:915][574]LogSavePackage: Save=12.32ms
+[2018.05.03-09.45.41:915][574]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Test_Initial1D92E3544E7B2B009E2A009CD5AD4B12.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap'
+[2018.05.03-09.45.41:919][574]LogSavePackage: Display: Finished SavePackage ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial.umap
+[2018.05.03-09.45.43:525][604]LogSlate: Window 'PhantomMechanic - Unreal Editor' being destroyed
+[2018.05.03-09.45.44:169][605]Cmd: QUIT_EDITOR
+[2018.05.03-09.45.44:723][605]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Google Japanese Input).
+[2018.05.03-09.45.44:777][605]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.03-09.45.44:791][605]LogExit: Preparing to exit.
+[2018.05.03-09.45.46:313][605]LogDirectoryWatcher: A directory notification for 'E:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/' was aborted.
+[2018.05.03-09.45.46:535][605]LogExit: Editor shut down
+[2018.05.03-09.45.46:558][605]LogExit: Transaction tracking system shut down
+[2018.05.03-09.45.46:567][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229ef7926d0, Size=4
+[2018.05.03-09.45.46:567][605]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000229ef7926c8, Size=4
+[2018.05.03-09.45.46:793][605]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.03-09.45.46:794][605]LogDirectoryWatcher: A directory notification for '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/' was aborted.
+[2018.05.03-09.45.46:794][605]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.03-09.45.46:794][605]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.03-09.45.46:794][605]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.03-09.45.46:794][605]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.03-09.45.46:795][605]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.03-09.45.46:795][605]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
