@@ -1,0 +1,27 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for PhantomMechanicEditor (no existing makefile)
+  Parsing headers for PhantomMechanicEditor
+    Running UnrealHeaderTool "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for PhantomMechanicEditor in 13.5595341 seconds
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-4926.dll".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-4926.pdb".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-5183.dll".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-5183.pdb".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-6176.dll".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-6176.pdb".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-7913.dll".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-7913.pdb".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-8557.dll".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-8557.pdb".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-9419.dll".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-9419.pdb".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-98.dll".
+  Deleting old hot reload file: "E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Binaries\Win64\UE4Editor-PhantomMechanic-98.pdb".
+  Performing 3 actions (4 in parallel)
+  PhantomMechanic.init.gen.cpp
+  [2/3] Link UE4Editor-PhantomMechanic.dll
+  [3/3] Link UE4Editor-PhantomMechanic.lib
+     Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic.exp
+     Creating library E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic.suppressed.lib and object E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic.suppressed.exp
+  Deploying PhantomMechanicEditor Win64 Development...
+  Total build time: 58.79 seconds (Local executor: 1.73 seconds)

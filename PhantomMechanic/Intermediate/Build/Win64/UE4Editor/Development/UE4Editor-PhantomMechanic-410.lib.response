@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PhantomMechanic-410.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Development\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomMechanic.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomMechanicGameModeBase.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\BodyPart.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\ExoBody.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\ExoPart.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomHand.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomPart.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomPawn.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\BodyPart.gen.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\ExoBody.gen.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\ExoPart.gen.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomHand.gen.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomMechanic.init.gen.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomMechanicGameModeBase.gen.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomPart.gen.cpp.obj"
+"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PhantomPawn.gen.cpp.obj"
+"E:\Development\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\PCLaunch.rc.res"
+"E:\Development\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-410.lib"
