@@ -13,8 +13,10 @@ UCLASS()
 class PHANTOMMECHANIC_API AUser : public APlayerController
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+public:
+	AUser();
+
+protected:
+	virtual void BeginPlay() override;
 };

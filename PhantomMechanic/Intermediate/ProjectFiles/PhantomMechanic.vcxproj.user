@@ -25,7 +25,7 @@
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'">
-    <LocalDebuggerCommandArguments>"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" -skipcompile</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"C:\Users\Edward\Desktop\PhantomMechanic\PhantomMechanic.uproject" -skipcompile</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Game|Win32'">

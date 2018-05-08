@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "E:\Development\Epic Games\UE_4.19\Engine\Source"
-/I E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Source
-/I E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Inc\PhantomMechanic
-/I E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Source\PhantomMechanic
+/I C:\Users\Edward\Desktop\PhantomMechanic\Source
+/I C:\Users\Edward\Desktop\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Inc\PhantomMechanic
+/I C:\Users\Edward\Desktop\PhantomMechanic\Source\PhantomMechanic
 /I "E:\Development\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "E:\Development\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "E:\Development\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -363,9 +363,9 @@
 /FI"E:\Development\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"E:\Development\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"E:\Development\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Inc\PhantomMechanic\UserData.gen.cpp"
-/FI"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\Definitions.PhantomMechanic.h"
-/Fo"E:\Projects\VR\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\UserData.gen.cpp.obj"
+"C:\Users\Edward\Desktop\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Inc\PhantomMechanic\UserData.gen.cpp"
+/FI"C:\Users\Edward\Desktop\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\Definitions.PhantomMechanic.h"
+/Fo"C:\Users\Edward\Desktop\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\PhantomMechanic\UserData.gen.cpp.obj"
 /TP
 /GR-
 /W4

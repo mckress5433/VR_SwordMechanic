@@ -14,7 +14,14 @@ class PHANTOMMECHANIC_API APhantomBaseMode : public AGameMode
 {
 	GENERATED_BODY()
 	
-	
-	
+	//Client
+	//None: Game Mode has no clientside. (Ok technically for the listen host it does but don't you dare cheat here.)
+
+	//Server
+
+public:
+	void spawnPhantomPawn();
+
+
 	
 };

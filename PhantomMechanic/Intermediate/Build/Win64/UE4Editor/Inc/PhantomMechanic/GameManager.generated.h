@@ -8,14 +8,47 @@
 #include "ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+enum class EGameModeEnum : uint8;
 #ifdef PHANTOMMECHANIC_GameManager_generated_h
 #error "GameManager.generated.h already included, missing '#pragma once' in GameManager.h"
 #endif
 #define PHANTOMMECHANIC_GameManager_generated_h
 
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_RPC_WRAPPERS
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_INCLASS_NO_PURE_DECLS \
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_RPC_WRAPPERS \
+	virtual void setGameMode_Implementation(EGameModeEnum selectedGameMode); \
+ \
+	DECLARE_FUNCTION(execsetGameMode) \
+	{ \
+		P_GET_ENUM(EGameModeEnum,Z_Param_selectedGameMode); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->setGameMode_Implementation(EGameModeEnum(Z_Param_selectedGameMode)); \
+		P_NATIVE_END; \
+	}
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual void setGameMode_Implementation(EGameModeEnum selectedGameMode); \
+ \
+	DECLARE_FUNCTION(execsetGameMode) \
+	{ \
+		P_GET_ENUM(EGameModeEnum,Z_Param_selectedGameMode); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->setGameMode_Implementation(EGameModeEnum(Z_Param_selectedGameMode)); \
+		P_NATIVE_END; \
+	}
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_EVENT_PARMS \
+	struct GameManager_eventsetGameMode_Parms \
+	{ \
+		EGameModeEnum selectedGameMode; \
+	};
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_CALLBACK_WRAPPERS
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGameManager(); \
 	friend PHANTOMMECHANIC_API class UClass* Z_Construct_UClass_UGameManager(); \
@@ -25,7 +58,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_INCLASS \
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_INCLASS \
 private: \
 	static void StaticRegisterNativesUGameManager(); \
 	friend PHANTOMMECHANIC_API class UClass* Z_Construct_UClass_UGameManager(); \
@@ -35,7 +68,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_STANDARD_CONSTRUCTORS \
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGameManager(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameManager) \
@@ -48,9 +81,7 @@ private: \
 public:
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API UGameManager(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGameManager(UGameManager&&); \
@@ -61,26 +92,31 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGameManager); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGameManager)
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_PRIVATE_PROPERTY_OFFSET
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_12_PROLOG
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_GENERATED_BODY_LEGACY \
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_PRIVATE_PROPERTY_OFFSET
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_20_PROLOG \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_EVENT_PARMS
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_PRIVATE_PROPERTY_OFFSET \
-	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_RPC_WRAPPERS \
-	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_INCLASS \
-	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_STANDARD_CONSTRUCTORS \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_PRIVATE_PROPERTY_OFFSET \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_RPC_WRAPPERS \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_CALLBACK_WRAPPERS \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_INCLASS \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_GENERATED_BODY \
+#define PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_PRIVATE_PROPERTY_OFFSET \
-	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_INCLASS_NO_PURE_DECLS \
-	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_15_ENHANCED_CONSTRUCTORS \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_PRIVATE_PROPERTY_OFFSET \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_CALLBACK_WRAPPERS \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_INCLASS_NO_PURE_DECLS \
+	PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h_23_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -89,4 +125,8 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 #define CURRENT_FILE_ID PhantomMechanic_Source_PhantomMechanic_Framework_GameManager_h
 
 
+#define FOREACH_ENUM_EGAMEMODEENUM(op) \
+	op(EGameModeEnum::GM_Base) \
+	op(EGameModeEnum::GM_Debug) \
+	op(EGameModeEnum::GM_Demo) 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
