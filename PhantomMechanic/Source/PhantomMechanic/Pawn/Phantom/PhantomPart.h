@@ -9,10 +9,15 @@
 /**
  * 
  */
-UCLASS()
+UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 class PHANTOMMECHANIC_API APhantomPart : public ABodyPart
 {
 	GENERATED_BODY()
+
+public:
+
+	UFUNCTION(BlueprintCallable, BlueprintNativeEvent)
+	void PhantomMaterialUpdater();
 	
 	
 	

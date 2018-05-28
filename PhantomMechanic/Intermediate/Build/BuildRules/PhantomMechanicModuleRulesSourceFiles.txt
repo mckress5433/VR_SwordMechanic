@@ -1,3 +1,3 @@
-C:\Users\Edward\Desktop\PhantomMechanic\Source\PhantomMechanic\PhantomMechanic.Build.cs
-C:\Users\Edward\Desktop\PhantomMechanic\Source\PhantomMechanic.Target.cs
-C:\Users\Edward\Desktop\PhantomMechanic\Source\PhantomMechanicEditor.Target.cs
+E:\Projects\Github\VR_SwordMechanic\PhantomMechanic\Source\PhantomMechanic\PhantomMechanic.Build.cs
+E:\Projects\Github\VR_SwordMechanic\PhantomMechanic\Source\PhantomMechanic.Target.cs
+E:\Projects\Github\VR_SwordMechanic\PhantomMechanic\Source\PhantomMechanicEditor.Target.cs

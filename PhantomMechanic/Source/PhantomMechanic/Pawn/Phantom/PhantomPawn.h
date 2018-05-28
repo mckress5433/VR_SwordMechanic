@@ -4,6 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "PhantomPart.h"
+#include "PhantomHand.h"
+#include "PhantomArm.h"
+#include "../ExoBody/ExoBody.h"
 #include "PhantomPawn.generated.h"
 
 UCLASS()
@@ -26,6 +30,48 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APhantomHand* PhantomHead;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APhantomHand* PhantomTorso;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APhantomHand* PhantomHandLeft;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APhantomHand* PhantomHandRight;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APhantomHand* PhantomArmLeft;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APhantomHand* PhantomArmRight;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APhantomHand* PhantomHip;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APhantomHand* PhantomLegs;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	AActor* Attached_ExoBody;
+
+
+	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
+		void TeleportLoco();
+
+	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
+		void InputAxisLoco();
+
+	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
+		void AnimationSync();
+
+	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
+		void PossessExoBody();
+
+
+
+
 	
 };

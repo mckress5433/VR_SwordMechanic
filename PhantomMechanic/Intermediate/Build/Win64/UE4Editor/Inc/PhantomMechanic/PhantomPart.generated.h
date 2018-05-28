@@ -13,8 +13,32 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PHANTOMMECHANIC_PhantomPart_generated_h
 
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_RPC_WRAPPERS
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_RPC_WRAPPERS \
+	virtual void PhantomMaterialUpdater_Implementation(); \
+ \
+	DECLARE_FUNCTION(execPhantomMaterialUpdater) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->PhantomMaterialUpdater_Implementation(); \
+		P_NATIVE_END; \
+	}
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual void PhantomMaterialUpdater_Implementation(); \
+ \
+	DECLARE_FUNCTION(execPhantomMaterialUpdater) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->PhantomMaterialUpdater_Implementation(); \
+		P_NATIVE_END; \
+	}
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_EVENT_PARMS
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_CALLBACK_WRAPPERS
 #define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPhantomPart(); \
@@ -62,12 +86,16 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(APhantomPart); \
 
 
 #define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_PRIVATE_PROPERTY_OFFSET
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_12_PROLOG
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_12_PROLOG \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_EVENT_PARMS
+
+
 #define PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_PRIVATE_PROPERTY_OFFSET \
 	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_RPC_WRAPPERS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_CALLBACK_WRAPPERS \
 	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_INCLASS \
 	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_STANDARD_CONSTRUCTORS \
 public: \
@@ -79,6 +107,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_PRIVATE_PROPERTY_OFFSET \
 	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_CALLBACK_WRAPPERS \
 	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_INCLASS_NO_PURE_DECLS \
 	PhantomMechanic_Source_PhantomMechanic_Pawn_Phantom_PhantomPart_h_15_ENHANCED_CONSTRUCTORS \
 private: \

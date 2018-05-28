@@ -1,10 +1,4 @@
-﻿  Creating makefile for hot reloading PhantomMechanicEditor (modules to compile have changed)
-  Compiling game modules for hot reload
-  Performing 3 actions (4 in parallel)
-  (NonReplicating)GameManager.cpp
-  [2/3] Link UE4Editor-PhantomMechanic-4087.dll
-  [3/3] Link UE4Editor-PhantomMechanic-4087.lib
-     Creating library C:\Users\Edward\Desktop\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-4087.lib and object C:\Users\Edward\Desktop\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-4087.exp
-     Creating library C:\Users\Edward\Desktop\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-4087.suppressed.lib and object C:\Users\Edward\Desktop\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic-4087.suppressed.exp
-  Deploying PhantomMechanicEditor Win64 Development...
-  Total build time: 9.20 seconds (Local executor: 2.04 seconds)
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Target is up to date
+  Deploying PhantomMechanicEditor Win64 DebugGame...
+  Total build time: 0.59 seconds (NoActionsToExecute executor: 0.00 seconds)

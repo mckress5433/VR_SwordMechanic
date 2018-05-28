@@ -4,9 +4,12 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "Components/SkeletalMeshComponent.h"
+#include "Components/BoxComponent.h"
+
 #include "BodyPart.generated.h"
 
-UCLASS()
+UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 class PHANTOMMECHANIC_API ABodyPart : public AActor
 {
 	GENERATED_BODY()
@@ -14,6 +17,19 @@ class PHANTOMMECHANIC_API ABodyPart : public AActor
 public:	
 	// Sets default values for this actor's properties
 	ABodyPart();
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	USkeletalMeshComponent* SkeletalMesh;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	UBoxComponent* ThresholdCollider;
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere)
+	float Velocity;
+	
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	float Mass;
+
 
 protected:
 	// Called when the game starts or when spawned

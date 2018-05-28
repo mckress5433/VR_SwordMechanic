@@ -13,9 +13,33 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PHANTOMMECHANIC_ExoBody_generated_h
 
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_RPC_WRAPPERS
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_INCLASS_NO_PURE_DECLS \
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_RPC_WRAPPERS \
+	virtual void Coupling_Implementation(); \
+ \
+	DECLARE_FUNCTION(execCoupling) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->Coupling_Implementation(); \
+		P_NATIVE_END; \
+	}
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual void Coupling_Implementation(); \
+ \
+	DECLARE_FUNCTION(execCoupling) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->Coupling_Implementation(); \
+		P_NATIVE_END; \
+	}
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_EVENT_PARMS
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_CALLBACK_WRAPPERS
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAExoBody(); \
 	friend PHANTOMMECHANIC_API class UClass* Z_Construct_UClass_AExoBody(); \
@@ -25,7 +49,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_INCLASS \
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAExoBody(); \
 	friend PHANTOMMECHANIC_API class UClass* Z_Construct_UClass_AExoBody(); \
@@ -35,7 +59,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_STANDARD_CONSTRUCTORS \
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AExoBody(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AExoBody) \
@@ -48,7 +72,7 @@ private: \
 public:
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_ENHANCED_CONSTRUCTORS \
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AExoBody(AExoBody&&); \
@@ -59,26 +83,31 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AExoBody); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AExoBody)
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_PRIVATE_PROPERTY_OFFSET
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_9_PROLOG
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_GENERATED_BODY_LEGACY \
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_PRIVATE_PROPERTY_OFFSET
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_PROLOG \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_EVENT_PARMS
+
+
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_PRIVATE_PROPERTY_OFFSET \
-	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_RPC_WRAPPERS \
-	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_INCLASS \
-	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_STANDARD_CONSTRUCTORS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_PRIVATE_PROPERTY_OFFSET \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_RPC_WRAPPERS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_CALLBACK_WRAPPERS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_INCLASS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_GENERATED_BODY \
+#define PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_PRIVATE_PROPERTY_OFFSET \
-	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_INCLASS_NO_PURE_DECLS \
-	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_12_ENHANCED_CONSTRUCTORS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_PRIVATE_PROPERTY_OFFSET \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_CALLBACK_WRAPPERS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_INCLASS_NO_PURE_DECLS \
+	PhantomMechanic_Source_PhantomMechanic_Pawn_ExoBody_ExoBody_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

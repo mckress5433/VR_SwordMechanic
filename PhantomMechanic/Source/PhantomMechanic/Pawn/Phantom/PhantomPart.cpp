@@ -2,6 +2,9 @@
 
 #include "PhantomPart.h"
 
-
+void APhantomPart::PhantomMaterialUpdater_Implementation()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Not Implemented"));
+}
 
 

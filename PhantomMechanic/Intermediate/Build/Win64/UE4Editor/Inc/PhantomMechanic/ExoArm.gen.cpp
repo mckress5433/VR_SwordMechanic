@@ -58,7 +58,7 @@ void EmptyLinkFunctionForGeneratedCodeExoArm() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AExoArm, 2030947019);
+	IMPLEMENT_CLASS(AExoArm, 715362874);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AExoArm(Z_Construct_UClass_AExoArm, &AExoArm::StaticClass, TEXT("/Script/PhantomMechanic"), TEXT("AExoArm"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AExoArm);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
