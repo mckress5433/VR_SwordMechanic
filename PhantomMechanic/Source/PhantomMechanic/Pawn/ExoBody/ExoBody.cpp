@@ -11,19 +11,21 @@ AExoBody::AExoBody()
 
 	isCoupled = false;
 
-	ExoHandLeft = CreateDefaultSubobject <AExoHand>("Exo Hand Left");
-	ExoHandRight = CreateDefaultSubobject <AExoHand>("Exo Hand Right");
+	fuckYou = CreateDefaultSubobject<USceneComponent>("Root Component");
 
-	ExoArmLeft = CreateDefaultSubobject <AExoArm>("Exo Arm Left");
-	ExoArmRight = CreateDefaultSubobject <AExoArm>("Exo Arm Right");
+	ExoHead = CreateDefaultSubobject <USceneComponent>("Exo Head");
 
-	ExoHead = CreateDefaultSubobject <AExoPart>("Exo Head");
+	ExoHandLeft = CreateDefaultSubobject <USceneComponent>("Exo Hand Left");
+	ExoHandRight = CreateDefaultSubobject <USceneComponent>("Exo Hand Right");
 
-	ExoTorso = CreateDefaultSubobject <AExoPart>("Exo Torso");
+	ExoArmLeft = CreateDefaultSubobject <USceneComponent>("Exo Arm Left");
+	ExoArmRight = CreateDefaultSubobject <USceneComponent>("Exo Arm Right");
 
-	ExoHip = CreateDefaultSubobject <AExoPart>("Exo Hip");
+	ExoTorso = CreateDefaultSubobject <USceneComponent>("Exo Torso");
 
-	ExoLegs = CreateDefaultSubobject <AExoPart>("Exo Legs");
+	ExoHip = CreateDefaultSubobject <USceneComponent>("Exo Hip");
+
+	ExoLegs = CreateDefaultSubobject <USceneComponent>("Exo Legs");
 }
 
 // Called when the game starts or when spawned

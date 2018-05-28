@@ -9,22 +9,25 @@ APhantomPawn::APhantomPawn()
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	PhantomHandLeft = CreateDefaultSubobject <APhantomHand>("Phantom Hand Left");
 
-	PhantomHandRight = CreateDefaultSubobject <APhantomHand>("Phantom Hand Right");
+	
 
-	PhantomArmLeft = CreateDefaultSubobject <APhantomHand>("Phantom Arm Left");
-	PhantomArmRight = CreateDefaultSubobject <APhantomHand>("Phantom Arm Right");
+	PhantomHandLeft = CreateDefaultSubobject <USceneComponent>("Phantom Hand Left");
 
-	PhantomHead = CreateDefaultSubobject <APhantomHand>("Phantom Head");
+	PhantomHandRight = CreateDefaultSubobject <USceneComponent>("Phantom Hand Right");
 
-	PhantomTorso = CreateDefaultSubobject <APhantomHand>("Phantom Torso");
+	PhantomArmLeft = CreateDefaultSubobject <USceneComponent>("Phantom Arm Left");
+	PhantomArmRight = CreateDefaultSubobject <USceneComponent>("Phantom Arm Right");
 
-	PhantomHip = CreateDefaultSubobject <APhantomHand>("Phantom Hip");
+	PhantomHead = CreateDefaultSubobject <USceneComponent>("Phantom Head");
 
-	PhantomLegs = CreateDefaultSubobject <APhantomHand>("Phantom Legs");
+	PhantomTorso = CreateDefaultSubobject <USceneComponent>("Phantom Torso");
 
-	Attached_ExoBody = CreateDefaultSubobject <APhantomHand>("Attached_ExoBody");
+	PhantomHip = CreateDefaultSubobject <USceneComponent>("Phantom Hip");
+
+	PhantomLegs = CreateDefaultSubobject <USceneComponent>("Phantom Legs");
+
+	Attached_ExoBody = CreateDefaultSubobject <USceneComponent>("Attached_ExoBody");
 }
 
 void APhantomPawn::TeleportLoco_Implementation()

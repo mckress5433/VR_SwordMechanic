@@ -31,31 +31,31 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		APhantomHand* PhantomHead;
+		USceneComponent* PhantomHead;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		APhantomHand* PhantomTorso;
+		USceneComponent* PhantomTorso;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		APhantomHand* PhantomHandLeft;
+		USceneComponent* PhantomHandLeft;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		APhantomHand* PhantomHandRight;
+		USceneComponent* PhantomHandRight;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		APhantomHand* PhantomArmLeft;
+		USceneComponent* PhantomArmLeft;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		APhantomHand* PhantomArmRight;
+		USceneComponent* PhantomArmRight;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		APhantomHand* PhantomHip;
+		USceneComponent* PhantomHip;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		APhantomHand* PhantomLegs;
+		USceneComponent* PhantomLegs;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	AActor* Attached_ExoBody;
+		USceneComponent* Attached_ExoBody;   //Originally an AActor may need to be that...
 
 
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
