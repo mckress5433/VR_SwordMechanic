@@ -1,4 +1,16 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build.
-  Target is up to date
-  Deploying PhantomMechanicEditor Win64 DebugGame...
-  Total build time: 0.55 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Parsing headers for PhantomMechanicEditor
+    Running UnrealHeaderTool "C:\Users\mckre\Documents\GitHub\VR_SwordMechanic\PhantomMechanic\PhantomMechanic.uproject" "C:\Users\mckre\Documents\GitHub\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\PhantomMechanicEditor\Development\PhantomMechanicEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for PhantomMechanicEditor in 18.1536218 seconds
+  Performing 7 actions (4 in parallel)
+  PhantomPawn.gen.cpp
+  PhantomPawn.cpp
+  PhantomMechanic.init.gen.cpp
+  ExoBody.gen.cpp
+  ExoBody.cpp
+  [6/7] Link UE4Editor-PhantomMechanic.dll
+  [7/7] Link UE4Editor-PhantomMechanic.lib
+     Creating library C:\Users\mckre\Documents\GitHub\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic.lib and object C:\Users\mckre\Documents\GitHub\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic.exp
+     Creating library C:\Users\mckre\Documents\GitHub\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic.suppressed.lib and object C:\Users\mckre\Documents\GitHub\VR_SwordMechanic\PhantomMechanic\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PhantomMechanic.suppressed.exp
+  Deploying PhantomMechanicEditor Win64 Development...
+  Total build time: 23.92 seconds (Local executor: 4.34 seconds)

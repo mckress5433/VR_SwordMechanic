@@ -98,7 +98,7 @@ private: \
 	static void StaticRegisterNativesAPhantomPawn(); \
 	friend PHANTOMMECHANIC_API class UClass* Z_Construct_UClass_APhantomPawn(); \
 public: \
-	DECLARE_CLASS(APhantomPawn, ACharacter, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/PhantomMechanic"), NO_API) \
+	DECLARE_CLASS(APhantomPawn, APawn, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/PhantomMechanic"), NO_API) \
 	DECLARE_SERIALIZER(APhantomPawn) \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
@@ -108,7 +108,7 @@ private: \
 	static void StaticRegisterNativesAPhantomPawn(); \
 	friend PHANTOMMECHANIC_API class UClass* Z_Construct_UClass_APhantomPawn(); \
 public: \
-	DECLARE_CLASS(APhantomPawn, ACharacter, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/PhantomMechanic"), NO_API) \
+	DECLARE_CLASS(APhantomPawn, APawn, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/PhantomMechanic"), NO_API) \
 	DECLARE_SERIALIZER(APhantomPawn) \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 

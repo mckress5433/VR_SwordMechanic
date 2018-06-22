@@ -12,22 +12,7 @@ APhantomPawn::APhantomPawn()
 
 	
 
-	PhantomHandLeft = CreateDefaultSubobject <USceneComponent>("Phantom Hand Left");
-
-	PhantomHandRight = CreateDefaultSubobject <USceneComponent>("Phantom Hand Right");
-
-	PhantomArmLeft = CreateDefaultSubobject <USceneComponent>("Phantom Arm Left");
-	PhantomArmRight = CreateDefaultSubobject <USceneComponent>("Phantom Arm Right");
-
-	PhantomHead = CreateDefaultSubobject <USceneComponent>("Phantom Head");
-
-	PhantomTorso = CreateDefaultSubobject <USceneComponent>("Phantom Torso");
-
-	PhantomHip = CreateDefaultSubobject <USceneComponent>("Phantom Hip");
-
-	PhantomLegs = CreateDefaultSubobject <USceneComponent>("Phantom Legs");
-
-	Attached_ExoBody = CreateDefaultSubobject <USceneComponent>("Attached_ExoBody");
+	VR_Origin = CreateDefaultSubobject <USceneComponent>("VR_Origin");
 }
 
 void APhantomPawn::TeleportLoco_Implementation()

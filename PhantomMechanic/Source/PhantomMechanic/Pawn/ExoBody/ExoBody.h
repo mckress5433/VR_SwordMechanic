@@ -23,31 +23,7 @@ public:
 	bool isCoupled;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent *fuckYou;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent* ExoHead;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent* ExoTorso;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent* ExoArmLeft;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent* ExoArmRight;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent* ExoHandLeft;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent* ExoHandRight;
-	
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent* ExoHip;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USceneComponent* ExoLegs;
+		USceneComponent *Exo_Origin;
 
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
 		void Coupling();

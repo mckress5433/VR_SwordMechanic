@@ -11,7 +11,7 @@
 #include "PhantomPawn.generated.h"
 
 UCLASS()
-class PHANTOMMECHANIC_API APhantomPawn : public ACharacter
+class PHANTOMMECHANIC_API APhantomPawn : public APawn
 {
 	GENERATED_BODY()
 
@@ -27,35 +27,14 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+		USceneComponent *VR_Origin;
+
+
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* PhantomHead;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* PhantomTorso;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* PhantomHandLeft;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* PhantomHandRight;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* PhantomArmLeft;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* PhantomArmRight;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* PhantomHip;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* PhantomLegs;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		USceneComponent* Attached_ExoBody;   //Originally an AActor may need to be that...
+	
 
 
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
