@@ -147,7 +147,7 @@ void EmptyLinkFunctionForGeneratedCodePhantomHand() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APhantomHand, 3594044176);
+	IMPLEMENT_CLASS(APhantomHand, 2799052534);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_APhantomHand(Z_Construct_UClass_APhantomHand, &APhantomHand::StaticClass, TEXT("/Script/PhantomMechanic"), TEXT("APhantomHand"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(APhantomHand);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

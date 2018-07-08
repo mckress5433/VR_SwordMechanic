@@ -162,7 +162,7 @@ void EmptyLinkFunctionForGeneratedCodeExoPart() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AExoPart, 1777159085);
+	IMPLEMENT_CLASS(AExoPart, 4015437051);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AExoPart(Z_Construct_UClass_AExoPart, &AExoPart::StaticClass, TEXT("/Script/PhantomMechanic"), TEXT("AExoPart"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AExoPart);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

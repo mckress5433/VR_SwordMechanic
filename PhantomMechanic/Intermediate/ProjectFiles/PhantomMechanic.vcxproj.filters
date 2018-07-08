@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\PhantomMechanic.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{2F5E6A85-103C-439C-8630-0948B8C54946}</UniqueIdentifier>
+			<UniqueIdentifier>{F963F455-112C-45C3-8B08-15D0162309CF}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\PhantomMechanic.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{BCFED64E-82AF-4815-9533-751FE5681622}</UniqueIdentifier>
+			<UniqueIdentifier>{0869390A-A85A-4DED-9057-41D6D4FC5495}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,7 +25,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\PhantomMechanic">
-			<UniqueIdentifier>{46555054-62EF-4457-82F8-FC452C1A97D8}</UniqueIdentifier>
+			<UniqueIdentifier>{389C7849-0854-4CBF-AFB7-C05BE21AFA01}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\PhantomMechanic\PhantomMechanic.Build.cs">
 			<Filter>Source\PhantomMechanic</Filter>
@@ -43,7 +43,7 @@
 			<Filter>Source\PhantomMechanic</Filter>
 		</ClInclude >
 		<Filter Include="Source\PhantomMechanic\Framework">
-			<UniqueIdentifier>{DD03B675-EAE4-402E-BF14-448363E1FF55}</UniqueIdentifier>
+			<UniqueIdentifier>{FA3D4F38-DD66-49F3-99B2-777D9FF751BF}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\PhantomMechanic\Framework\(Client)SaveManager.cpp">
 			<Filter>Source\PhantomMechanic\Framework</Filter>
@@ -94,7 +94,7 @@
 			<Filter>Source\PhantomMechanic\Framework</Filter>
 		</ClInclude >
 		<Filter Include="Source\PhantomMechanic\Pawn">
-			<UniqueIdentifier>{C9E48FE9-64D8-4F42-9490-D808F7B6296D}</UniqueIdentifier>
+			<UniqueIdentifier>{47087511-9776-4DF5-BB1F-EE3CB1427E9E}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\PhantomMechanic\Pawn\BodyPart.cpp">
 			<Filter>Source\PhantomMechanic\Pawn</Filter>
@@ -103,7 +103,7 @@
 			<Filter>Source\PhantomMechanic\Pawn</Filter>
 		</ClInclude >
 		<Filter Include="Source\PhantomMechanic\Pawn\ExoBody">
-			<UniqueIdentifier>{061B9803-3B5A-4C5A-9E6A-0F217A35085D}</UniqueIdentifier>
+			<UniqueIdentifier>{5B838EDF-F32E-4A18-9C5C-DC5EA34EFA8A}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\PhantomMechanic\Pawn\ExoBody\ExoArm.cpp">
 			<Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
@@ -130,7 +130,7 @@
 			<Filter>Source\PhantomMechanic\Pawn\ExoBody</Filter>
 		</ClInclude >
 		<Filter Include="Source\PhantomMechanic\Pawn\Phantom">
-			<UniqueIdentifier>{12C0D8C6-E617-46A2-B6F2-9F1142D3289B}</UniqueIdentifier>
+			<UniqueIdentifier>{2E62138B-920C-4FE1-A6A7-EC625DFE33F5}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\PhantomMechanic\Pawn\Phantom\PhantomArm.cpp">
 			<Filter>Source\PhantomMechanic\Pawn\Phantom</Filter>

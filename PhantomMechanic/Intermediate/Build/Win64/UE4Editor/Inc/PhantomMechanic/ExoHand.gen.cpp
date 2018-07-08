@@ -117,7 +117,7 @@ void EmptyLinkFunctionForGeneratedCodeExoHand() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AExoHand, 2307504590);
+	IMPLEMENT_CLASS(AExoHand, 3882932936);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AExoHand(Z_Construct_UClass_AExoHand, &AExoHand::StaticClass, TEXT("/Script/PhantomMechanic"), TEXT("AExoHand"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AExoHand);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

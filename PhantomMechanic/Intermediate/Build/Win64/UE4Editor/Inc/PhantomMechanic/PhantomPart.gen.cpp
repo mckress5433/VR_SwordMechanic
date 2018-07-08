@@ -89,7 +89,7 @@ void EmptyLinkFunctionForGeneratedCodePhantomPart() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APhantomPart, 1733844044);
+	IMPLEMENT_CLASS(APhantomPart, 3789792026);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_APhantomPart(Z_Construct_UClass_APhantomPart, &APhantomPart::StaticClass, TEXT("/Script/PhantomMechanic"), TEXT("APhantomPart"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(APhantomPart);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

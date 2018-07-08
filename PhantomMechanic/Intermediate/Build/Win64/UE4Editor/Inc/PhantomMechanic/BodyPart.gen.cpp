@@ -45,20 +45,6 @@ void EmptyLinkFunctionForGeneratedCodeBodyPart() {}
 			};
 #endif
 #if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Mass_MetaData[] = {
-				{ "Category", "BodyPart" },
-				{ "ModuleRelativePath", "Pawn/BodyPart.h" },
-			};
-#endif
-			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Mass = { UE4CodeGen_Private::EPropertyClass::Float, "Mass", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000020005, 1, nullptr, STRUCT_OFFSET(ABodyPart, Mass), METADATA_PARAMS(NewProp_Mass_MetaData, ARRAY_COUNT(NewProp_Mass_MetaData)) };
-#if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Velocity_MetaData[] = {
-				{ "Category", "BodyPart" },
-				{ "ModuleRelativePath", "Pawn/BodyPart.h" },
-			};
-#endif
-			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Velocity = { UE4CodeGen_Private::EPropertyClass::Float, "Velocity", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(ABodyPart, Velocity), METADATA_PARAMS(NewProp_Velocity_MetaData, ARRAY_COUNT(NewProp_Velocity_MetaData)) };
-#if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_ThresholdCollider_MetaData[] = {
 				{ "Category", "BodyPart" },
 				{ "EditInline", "true" },
@@ -74,11 +60,27 @@ void EmptyLinkFunctionForGeneratedCodeBodyPart() {}
 			};
 #endif
 			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_SkeletalMesh = { UE4CodeGen_Private::EPropertyClass::Object, "SkeletalMesh", RF_Public|RF_Transient|RF_MarkAsNative, 0x00100000000a000d, 1, nullptr, STRUCT_OFFSET(ABodyPart, SkeletalMesh), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(NewProp_SkeletalMesh_MetaData, ARRAY_COUNT(NewProp_SkeletalMesh_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Mass_MetaData[] = {
+				{ "Category", "BodyPart" },
+				{ "ModuleRelativePath", "Pawn/BodyPart.h" },
+				{ "ToolTip", "UPROPERTY(VisibleAnywhere, BlueprintReadWrite)" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Mass = { UE4CodeGen_Private::EPropertyClass::Float, "Mass", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000020005, 1, nullptr, STRUCT_OFFSET(ABodyPart, Mass), METADATA_PARAMS(NewProp_Mass_MetaData, ARRAY_COUNT(NewProp_Mass_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Velocity_MetaData[] = {
+				{ "Category", "BodyPart" },
+				{ "ModuleRelativePath", "Pawn/BodyPart.h" },
+				{ "ToolTip", "Declares" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Velocity = { UE4CodeGen_Private::EPropertyClass::Float, "Velocity", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000005, 1, nullptr, STRUCT_OFFSET(ABodyPart, Velocity), METADATA_PARAMS(NewProp_Velocity_MetaData, ARRAY_COUNT(NewProp_Velocity_MetaData)) };
 			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_Mass,
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_Velocity,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_ThresholdCollider,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_SkeletalMesh,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_Mass,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_Velocity,
 			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<ABodyPart>::IsAbstract,
@@ -98,7 +100,7 @@ void EmptyLinkFunctionForGeneratedCodeBodyPart() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABodyPart, 1031780007);
+	IMPLEMENT_CLASS(ABodyPart, 2933989726);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ABodyPart(Z_Construct_UClass_ABodyPart, &ABodyPart::StaticClass, TEXT("/Script/PhantomMechanic"), TEXT("ABodyPart"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ABodyPart);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

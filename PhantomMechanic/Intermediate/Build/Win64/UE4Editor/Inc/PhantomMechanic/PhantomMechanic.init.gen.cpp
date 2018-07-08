@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodePhantomMechanic_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/PhantomMechanic",
 				PKG_CompiledIn | 0x00000000,
-				0x3F27A676,
-				0x16DED808,
+				0x4454EF4F,
+				0xA491A518,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
