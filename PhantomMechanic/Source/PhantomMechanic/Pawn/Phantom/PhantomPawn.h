@@ -19,13 +19,17 @@
 #include "PhantomArm.h"
 #include "PhantomPawn.generated.h"
 
+
+//Enum
 UENUM(BlueprintType)   //Move this to Body Part when you can.
 enum class ELimbSide : uint8
 {
-	Left  UMETA(DisplayName = "Left Side"),
+	Left  UMETA(DisplayName = "Left Side" ),
 	Right UMETA(DisplayName = "Right Side")
 };
 
+
+//Phantom Class
 UCLASS() 
 class PHANTOMMECHANIC_API APhantomPawn : public ACharacter
 {
@@ -107,7 +111,7 @@ public:
 	//UPROPERTY(EditDefaultsOnly, Category = "VR")
 
 	UPROPERTY(EditDefaultsOnly, Category = "VR")
-		bool bPositionalHeadTracking   ;   //Not sure if posible to use just yet.
+		bool bPositionalHeadTracking   ;   //Not sure if possible to use just yet.
 	UPROPERTY(EditDefaultsOnly, Category = "VR")
 		bool bUseControllerRollToRotate;
 
