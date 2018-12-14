@@ -2,5 +2,6 @@
 **/Binaries
 **/Intermediate
 
-*/.sln
+*.sln
+!*/.sln
 
