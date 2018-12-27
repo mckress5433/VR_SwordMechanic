@@ -3,8 +3,12 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Pawn/Phantom/PhantomPart.h"
+
 #include "Components/SphereComponent.h"
+#include "Components/WidgetInteractionComponent.h"
+
+#include "Pawn/Phantom/PhantomPart.h"
+
 #include "PhantomHand.generated.h"
 
 
@@ -19,9 +23,6 @@ class PHANTOMMECHANIC_API APhantomHand : public APhantomPart
 public:
 	APhantomHand();
 	
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-		USphereComponent* CoupleSphere;
-
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
 		void CoupleHands();
 
@@ -30,8 +31,17 @@ public:
 
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
 		void InputAxisLoco();
-	
-	
-	
-	
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	USceneComponent *PhantomHandRoot;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+    USphereComponent *CoupleSphere;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+    UWidgetInteractionComponent *WidgetInteraction;
+
+
+private:
+	void SetupComponents();
 };

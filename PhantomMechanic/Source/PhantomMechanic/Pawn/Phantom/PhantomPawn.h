@@ -35,25 +35,12 @@ class PHANTOMMECHANIC_API APhantomPawn : public ACharacter
 {
 	GENERATED_BODY()
 
-public:
-	/* 
-	Sets default values for this character's properties 
-	*/
-	APhantomPawn(); 
-
-
-protected:
-
-	//Functions
-
-	virtual void OnConstruction(const FTransform & Transform) override;
+public:	
 
 	/*
-	Called when the game starts or when spawned
+	Sets default values for this character's properties
 	*/
-	virtual void BeginPlay() override;
-
-public:	
+	APhantomPawn();
 
 	/* 
 	Called every frame
@@ -106,6 +93,9 @@ public:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 		USceneComponent  *VR_Origin;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+		USceneComponent *PhantomPawnRoot;
 	
 
 	//UPROPERTY(EditDefaultsOnly, Category = "VR")
@@ -128,6 +118,16 @@ public:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "VR")
 		USteamVRChaperoneComponent *VR_Chaperone;
 
+protected:
+
+	//Functions
+
+	virtual void OnConstruction(const FTransform & Transform) override;
+
+	/*
+	Called when the game starts or when spawned
+	*/
+	virtual void BeginPlay() override;
 
 private:
 	//Functions

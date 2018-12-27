@@ -35,6 +35,7 @@ public:
 	//UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite) float Mass;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite) USceneComponent *BodyPartRoot;
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite) USkeletalMeshComponent  *SkeletalMesh	  ;
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite) UBoxComponent			*ThresholdCollider;
 };

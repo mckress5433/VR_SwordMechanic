@@ -5,38 +5,21 @@
 //#include "Runtime/Steam/SteamVR/Source/SteamVR/Classes/SteamVRChaperoneComponent.h"
 //Public
 
+//Public
+
 //Constructors
 
 // Sets default values
 APhantomPawn::APhantomPawn()
 {
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	SetupVariables ();
+	SetupVariables();
 	SetupComponents();
 
 	bPositionalHeadTracking = false;
 }
-
-//Protected
-
-void APhantomPawn::BeginPlay()
-{
-	Super::BeginPlay();
-
-	VR_DeviceName = UHeadMountedDisplayFunctionLibrary::GetHMDDeviceName();
-}
-
-void APhantomPawn::OnConstruction(const FTransform & Transform)
-{
-	Super::OnConstruction(Transform);
-
-	MotionController_Left ->SetTrackingSource(EControllerHand::Left );
-	MotionController_Right->SetTrackingSource(EControllerHand::Right);
-}
-
-//Public
 
 //Functions
 
@@ -52,7 +35,7 @@ void APhantomPawn::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 	//InputComponent->BindAction("ToggleTrackingSpace", IE_Pressed, this, &APhantomPawn::ToggleTrackingSpace);
 }
 
-//Blueprint natives virtual implementaiton. Ignore red for these they do compile.
+//Blueprint natives virtual implementation. Ignore red for these they do compile.
 
 void APhantomPawn::TeleportLoco_Implementation()
 {
@@ -74,6 +57,25 @@ void APhantomPawn::PossessExoBody_Implementation()
 	UE_LOG(LogTemp, Warning, TEXT("Not Implemented Yet"));
 }
 
+
+//Protected
+
+void APhantomPawn::BeginPlay()
+{
+	Super::BeginPlay();
+
+	VR_DeviceName = UHeadMountedDisplayFunctionLibrary::GetHMDDeviceName();
+}
+
+void APhantomPawn::OnConstruction(const FTransform & Transform)
+{
+	Super::OnConstruction(Transform);
+
+	MotionController_Left ->SetTrackingSource(EControllerHand::Left );
+	MotionController_Right->SetTrackingSource(EControllerHand::Right);
+}
+
+
 //Private
 void APhantomPawn::ResetOriginHMD()
 {
@@ -82,16 +84,18 @@ void APhantomPawn::ResetOriginHMD()
 
 void APhantomPawn::SetupComponents()
 {
+	PhantomPawnRoot        = CreateDefaultSubobject<USceneComponent			  >(TEXT("Phantom Pawn"          ));
 	VR_Origin			   = CreateDefaultSubobject<USceneComponent			  >(TEXT("VR_Origin"			 )); 
 	HMD_Camera			   = CreateDefaultSubobject<UCameraComponent		  >(TEXT("HMD_Camera"			 )); 
 	MotionController_Left  = CreateDefaultSubobject<UMotionControllerComponent>(TEXT("MotionController Left" ));
 	MotionController_Right = CreateDefaultSubobject<UMotionControllerComponent>(TEXT("MotionController Right"));
 	VR_Chaperone		   = CreateDefaultSubobject<USteamVRChaperoneComponent>(TEXT("SteamVR Chaperone"	 ));
 
-	VR_Origin			  ->SetupAttachment(RootComponent);
-	HMD_Camera			  ->SetupAttachment(VR_Origin	 );
-	MotionController_Left ->SetupAttachment(VR_Origin	 );
-	MotionController_Right->SetupAttachment(VR_Origin	 );
+	PhantomPawnRoot       ->SetupAttachment(RootComponent  );
+	VR_Origin			  ->SetupAttachment(PhantomPawnRoot);
+	HMD_Camera			  ->SetupAttachment(VR_Origin	   );
+	MotionController_Left ->SetupAttachment(VR_Origin	   );
+	MotionController_Right->SetupAttachment(VR_Origin	   );
 }
 
 void APhantomPawn::SetupVariables()
@@ -135,7 +139,7 @@ void APhantomPawn::SetupTrackingOrigin()
 
 		HMD_Camera->AddLocalOffset(FVector(0.0f, 0.0f, DefaultPlayerHeight));
 
-		// Force Enable. PS Move lacks thumbstick input, this option lets user adjust pawn orientation during teleport using controller Roll motion.
+		// Force Enable. PS Move lacks thumb stick input, this option lets user adjust pawn orientation during teleport using controller Roll motion.
 		bUseControllerRollToRotate = true;
 	}
 }

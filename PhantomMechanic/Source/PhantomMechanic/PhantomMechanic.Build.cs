@@ -8,7 +8,21 @@ public class PhantomMechanic : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay" });
+		PublicDependencyModuleNames.AddRange
+			(
+				new string[] 
+				{
+					"Core"              ,
+					"CoreUObject"       ,
+					"Engine"            ,
+					"HeadMountedDisplay",
+					"InputCore"         ,
+					"Slate"             ,
+					"SlateCore"         ,
+					"UMG"
+				}
+			);
+
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

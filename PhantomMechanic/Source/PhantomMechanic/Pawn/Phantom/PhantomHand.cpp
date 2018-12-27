@@ -2,9 +2,11 @@
 
 #include "PhantomHand.h"
 
+
+
 APhantomHand::APhantomHand() 
 {
-	CoupleSphere = CreateDefaultSubobject <USphereComponent>("Couple Sphere");
+	SetupComponents();
 }
 
 void APhantomHand::CoupleHands_Implementation() 
@@ -23,4 +25,13 @@ void APhantomHand::InputAxisLoco_Implementation()
 }
 
 
-
+void APhantomHand::SetupComponents()
+{
+	PhantomHandRoot   = CreateDefaultSubobject<USceneComponent            >("Coupling Components");
+	CoupleSphere      = CreateDefaultSubobject<USphereComponent           >(TEXT("Couple Sphere"));
+	WidgetInteraction = CreateDefaultSubobject<UWidgetInteractionComponent>("Widget Interaction" );
+	
+	PhantomHandRoot  ->SetupAttachment(PhantomPart_Root      );
+	CoupleSphere     ->SetupAttachment(PhantomHandRoot       );
+	WidgetInteraction->SetupAttachment(PhantomHandRoot       );
+}

@@ -1,0 +1,817 @@
+﻿Log file open, 12/26/18 21:30:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PhantomMechanic
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.628070
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.077s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.28.0
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: F:/Development/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.27-02.30.34:490][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.27-02.30.34:491][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.27-02.30.34:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Engine.ini]
+[2018.12.27-02.30.34:491][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.27-02.30.34:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Engine.ini]
+[2018.12.27-02.30.34:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Engine.ini]
+[2018.12.27-02.30.34:491][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.27-02.30.34:491][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.27-02.30.34:491][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.27-02.30.34:491][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.27-02.30.34:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Engine.ini]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.27-02.30.34:493][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.27-02.30.34:494][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.27-02.30.34:494][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.27-02.30.34:494][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.27-02.30.34:494][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.27-02.30.34:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Engine.ini]
+[2018.12.27-02.30.34:494][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Engine.ini]
+[2018.12.27-02.30.34:503][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:503][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.27-02.30.34:503][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.27-02.30.34:503][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.27-02.30.34:504][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.27-02.30.34:504][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.27-02.30.34:505][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.27-02.30.34:506][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:506][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.27-02.30.34:506][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.27-02.30.34:506][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.27-02.30.34:507][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.27-02.30.34:508][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.27-02.30.34:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.27-02.30.34:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.27-02.30.34:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.27-02.30.34:508][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.27-02.30.34:509][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.27-02.30.34:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.27-02.30.34:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.27-02.30.34:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.27-02.30.34:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.27-02.30.34:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.27-02.30.34:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.27-02.30.34:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.27-02.30.34:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.27-02.30.34:511][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.27-02.30.34:511][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.27-02.30.34:524][  0]LogHAL: Display: Platform has ~ 16 GB [17111347200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.27-02.30.34:524][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.27-02.30.34:524][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.27-02.30.34:524][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:524][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.27-02.30.34:524][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.27-02.30.34:524][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:524][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.27-02.30.34:524][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.27-02.30.34:525][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.27-02.30.34:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2018.12.27-02.30.34:527][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.27-02.30.34:528][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.27-02.30.34:529][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.27-02.30.34:530][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.27-02.30.34:530][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2018.12.27-02.30.34:530][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2018.12.27-02.30.34:530][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.27-02.30.34:530][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2018.12.27-02.30.34:530][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2018.12.27-02.30.34:531][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Scalability.ini]
+[2018.12.27-02.30.34:531][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.27-02.30.34:531][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.27-02.30.34:531][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.27-02.30.34:531][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.27-02.30.34:531][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Config/Windows/Engine.ini]
+[2018.12.27-02.30.34:531][  0]LogInit: Computer: WHITECUBE
+[2018.12.27-02.30.34:531][  0]LogInit: User: Edward
+[2018.12.27-02.30.34:531][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.12.27-02.30.34:531][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.27-02.30.34:532][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.27-02.30.34:532][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.27-02.30.34:532][  0]LogMemory: Process Physical Memory: 108.22 MB used, 108.23 MB peak
+[2018.12.27-02.30.34:532][  0]LogMemory: Process Virtual Memory: 99.56 MB used, 99.56 MB peak
+[2018.12.27-02.30.34:532][  0]LogMemory: Physical Memory: 10494.25 MB used,  5824.40 MB free, 16318.65 MB total
+[2018.12.27-02.30.34:532][  0]LogMemory: Virtual Memory: 4706.96 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2018.12.27-02.30.34:628][  0]LogInit: Using OS detected language (en-US).
+[2018.12.27-02.30.34:628][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.27-02.30.34:629][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.27-02.30.34:977][  0]LogStreaming: Display: Took  0.349s to InitEngineTextLocalization.
+[2018.12.27-02.30.34:978][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.27-02.30.35:060][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.27-02.30.35:060][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.27-02.30.35:299][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.27-02.30.35:366][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.12.27-02.30.35:366][  0]LogD3D11RHI:       8079/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.27-02.30.35:371][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.27-02.30.35:371][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.27-02.30.35:371][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.27-02.30.35:378][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.27-02.30.35:378][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.27-02.30.35:378][  0]LogWindows: EnumDisplayDevices:
+[2018.12.27-02.30.35:379][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.12.27-02.30.35:379][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.12.27-02.30.35:379][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.27-02.30.35:380][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.27-02.30.35:380][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
+[2018.12.27-02.30.35:380][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.27-02.30.35:380][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.12.27-02.30.35:380][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2018.12.27-02.30.35:380][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2018.12.27-02.30.35:381][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.12.27-02.30.35:428][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.27-02.30.35:444][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.27-02.30.35:793][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.27-02.30.35:811][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.27-02.30.35:830][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.27-02.30.35:847][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.27-02.30.35:865][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.27-02.30.35:883][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.27-02.30.35:901][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.27-02.30.35:919][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.27-02.30.35:929][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.27-02.30.36:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.27-02.30.36:014][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.27-02.30.36:088][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.27-02.30.36:088][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.27-02.30.36:114][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.27-02.30.36:114][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.27-02.30.36:130][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.27-02.30.36:145][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.27-02.30.36:161][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.27-02.30.36:176][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.27-02.30.36:228][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.27-02.30.36:228][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.27-02.30.36:229][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.27-02.30.36:372][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Intermediate/Shaders/WorkingDirectory/21608/).
+[2018.12.27-02.30.36:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Edward/AppData/Local/Temp/UnrealShaderWorkingDir/FCF312BA4E9803E3C7902AB82B70D2D9/'.
+[2018.12.27-02.30.36:386][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2018.12.27-02.30.36:860][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.27-02.30.36:900][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Edward/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.27-02.30.36:900][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Edward/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.27-02.30.36:900][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.27-02.30.36:900][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.27-02.30.36:900][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.27-02.30.36:900][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.27-02.30.36:915][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.27-02.30.36:915][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.27-02.30.36:915][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.27-02.30.36:928][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Edward/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.27-02.30.36:928][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.27-02.30.36:928][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.27-02.30.36:951][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.27-02.30.36:956][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.27-02.30.36:957][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.27-02.30.37:040][  0]LogAssetRegistry: FAssetRegistry took 0.0357 seconds to start up
+[2018.12.27-02.30.37:362][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.27-02.30.37:456][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.27-02.30.37:472][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.27-02.30.37:472][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.27-02.30.37:472][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.27-02.30.37:473][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.27-02.30.37:555][  0]LogNetVersion: PhantomMechanic 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 790225052)
+[2018.12.27-02.30.38:061][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.099610 seconds
+[2018.12.27-02.30.38:072][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.27-02.30.38:072][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.27-02.30.38:072][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.27-02.30.39:109][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.27-02.30.39:127][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.27-02.30.39:763][  0]LogTemp: Warning: Set game mode function called. It has not been implemented.
+[2018.12.27-02.30.39:852][  0]SourceControl: Source control is disabled
+[2018.12.27-02.30.39:852][  0]SourceControl: Source control is disabled
+[2018.12.27-02.30.39:865][  0]SourceControl: Source control is disabled
+[2018.12.27-02.30.39:870][  0]SourceControl: Source control is disabled
+[2018.12.27-02.30.40:212][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.27-02.30.40:644][  0]LogOcInput: OculusInput pre-init called
+[2018.12.27-02.30.40:808][  0]LogEngine: Initializing Engine...
+[2018.12.27-02.30.40:879][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-BED9A717
+[2018.12.27-02.30.40:880][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.27-02.30.40:881][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.27-02.30.40:881][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.27-02.30.40:881][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.27-02.30.41:093][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.27-02.30.41:109][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.27-02.30.41:299][  0]LogInit: XAudio2 using 'Steinberg Out (Steinberg UR22mkII )' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2018.12.27-02.30.41:325][  0]LogInit: FAudioDevice initialized.
+[2018.12.27-02.30.41:325][  0]LogNetVersion: Set ProjectVersion to Stage 1. Version Checksum will be recalculated on next use.
+[2018.12.27-02.30.41:371][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Edward/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.27-02.30.41:385][  0]LogInit: Texture streaming: Enabled
+[2018.12.27-02.30.41:418][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.27-02.30.41:431][  0]LogInit: Transaction tracking system initialized
+[2018.12.27-02.30.41:476][  0]BlueprintLog: New page: Editor Load
+[2018.12.27-02.30.41:634][  0]LocalizationService: Localization service is disabled
+[2018.12.27-02.30.42:165][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/' took 0.01s
+[2018.12.27-02.30.42:165][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.27-02.30.42:166][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.27-02.30.42:166][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.27-02.30.42:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.27-02.30.42:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.27-02.30.42:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.27-02.30.42:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.27-02.30.42:430][  0]SourceControl: Source control is disabled
+[2018.12.27-02.30.42:430][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Levels/Test_Initial/Test_Initial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.27-02.30.42:430][  0]LightingResults: New page: Lighting Build
+[2018.12.27-02.30.42:433][  0]MapCheck: New page: Map Check
+[2018.12.27-02.30.42:434][  0]LightingResults: New page: Lighting Build
+[2018.12.27-02.30.42:619][  0]LogTemp: Warning: Set game mode function called. It has not been implemented.
+[2018.12.27-02.30.42:625][  0]LogTemp: Warning: Set game mode function called. It has not been implemented.
+[2018.12.27-02.30.42:633][  0]LogTemp: Warning: Set game mode function called. It has not been implemented.
+[2018.12.27-02.30.42:866][  0]LogAIModule: Creating AISystem for world Test_Initial
+[2018.12.27-02.30.43:559][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.27-02.30.43:592][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.27-02.30.43:592][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2018.12.27-02.30.43:592][  0]LogFileHelpers: Loading map 'Test_Initial' took 1.163
+[2018.12.27-02.30.43:681][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.27-02.30.43:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.27-02.30.43:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.27-02.30.43:704][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.27-02.30.43:720][  0]LogCollectionManager: Loaded 0 collections in 0.001070 seconds
+[2018.12.27-02.30.43:737][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/Collections/' took 0.01s
+[2018.12.27-02.30.43:737][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Developers/Edward/Collections/' took 0.00s
+[2018.12.27-02.30.43:737][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Collections/' took 0.00s
+[2018.12.27-02.30.43:738][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.27-02.30.43:748][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2675 classes and 629 folders.
+[2018.12.27-02.30.43:756][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.27-02.30.43:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.27-02.30.43:792][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.27-02.30.43:817][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.27-02.30.44:003][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.27-02.30.44:003][  0]LogLoad: (Engine Initialization) Total time: 12.17 seconds
+[2018.12.27-02.30.44:003][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.27-02.30.44:098][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.27-02.30.44:100][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.27-02.30.44:103][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.27-02.30.44:107][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.27-02.30.44:110][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.12.27-02.30.44:224][  0]LogRenderer: Reallocating scene render targets to support 904x348 Format 9 NumSamples 1 (Frame:1).
+[2018.12.27-02.30.44:225][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.27-02.30.44:345][  2]LogAssetRegistry: Asset discovery search completed in 7.3292 seconds
+[2018.12.27-02.30.44:347][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.27-02.30.44:348][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000516 seconds (updated 0 objects)
+[2018.12.27-02.30.48:689][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.27-02.30.49:810][142]LogRenderer: Reallocating scene render targets to support 1360x568 Format 9 NumSamples 1 (Frame:118).
+[2018.12.27-02.30.53:410][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.27-02.30.59:758][327]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.27-02.30.59:766][327]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Pawns/Phantom/PhantomPawn_BP.PhantomPawn_BP
+[2018.12.27-02.31.00:179][327]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2018.12.27-02.31.01:015][327]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.27-02.31.01:132][328]LogRenderer: Reallocating scene render targets to support 1360x572 Format 9 NumSamples 1 (Frame:1).
+[2018.12.27-02.31.01:140][328]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.27-02.31.01:190][331]LogTexture: Display: Building textures: T_SteamVR_0 (BGRA8, 2048X2048)
+[2018.12.27-02.31.01:256][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xe1c18010 unVertexCount 10289 rIndexData 0xe1f481d0 unTriangleCount 13966 diffuseTextureId 0
+[2018.12.27-02.31.01:264][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xe1ab0f00 unVertexCount 145 rIndexData 0xe1ce9190 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.31.01:265][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0xe13cb380 unVertexCount 49 rIndexData 0xe14e7340 unTriangleCount 60 diffuseTextureId 0
+[2018.12.27-02.31.01:266][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0xe159ccb0 unVertexCount 210 rIndexData 0xe14f5e70 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.31.01:266][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0xe12e8f00 unVertexCount 210 rIndexData 0xe114d700 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.31.01:267][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xe1f5d140 unVertexCount 145 rIndexData 0xea4d9860 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.31.01:268][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0xe133bb00 unVertexCount 515 rIndexData 0xe1ca19e0 unTriangleCount 836 diffuseTextureId 0
+[2018.12.27-02.31.01:268][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb1fe3a00 unVertexCount 636 rIndexData 0xe1341770 unTriangleCount 1152 diffuseTextureId 0
+[2018.12.27-02.31.01:269][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xe1c18010 unVertexCount 10289 rIndexData 0xe1f481d0 unTriangleCount 13966 diffuseTextureId 0
+[2018.12.27-02.31.01:270][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xe1ab0f00 unVertexCount 145 rIndexData 0xe1ce9190 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.31.01:271][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0xe13cb380 unVertexCount 49 rIndexData 0xe14e7340 unTriangleCount 60 diffuseTextureId 0
+[2018.12.27-02.31.01:272][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0xe159ccb0 unVertexCount 210 rIndexData 0xe14f5e70 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.31.01:272][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0xe12e8f00 unVertexCount 210 rIndexData 0xe114d700 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.31.01:273][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xe1f5d140 unVertexCount 145 rIndexData 0xea4d9860 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.31.01:273][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0xe133bb00 unVertexCount 515 rIndexData 0xe1ca19e0 unTriangleCount 836 diffuseTextureId 0
+[2018.12.27-02.31.01:274][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb1fe3a00 unVertexCount 636 rIndexData 0xe1341770 unTriangleCount 1152 diffuseTextureId 0
+[2018.12.27-02.31.01:274][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xe1c18010 unVertexCount 10289 rIndexData 0xe1f481d0 unTriangleCount 13966 diffuseTextureId 0
+[2018.12.27-02.31.01:276][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xe1ab0f00 unVertexCount 145 rIndexData 0xe1ce9190 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.31.01:277][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0xe13cb380 unVertexCount 49 rIndexData 0xe14e7340 unTriangleCount 60 diffuseTextureId 0
+[2018.12.27-02.31.01:277][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0xe159ccb0 unVertexCount 210 rIndexData 0xe14f5e70 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.31.01:278][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0xe12e8f00 unVertexCount 210 rIndexData 0xe114d700 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.31.01:279][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xe1f5d140 unVertexCount 145 rIndexData 0xea4d9860 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.31.01:279][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0xe133bb00 unVertexCount 515 rIndexData 0xe1ca19e0 unTriangleCount 836 diffuseTextureId 0
+[2018.12.27-02.31.01:280][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb1fe3a00 unVertexCount 636 rIndexData 0xe1341770 unTriangleCount 1152 diffuseTextureId 0
+[2018.12.27-02.31.01:280][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xe1c18010 unVertexCount 10289 rIndexData 0xe1f481d0 unTriangleCount 13966 diffuseTextureId 0
+[2018.12.27-02.31.01:282][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xe1ab0f00 unVertexCount 145 rIndexData 0xe1ce9190 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.31.01:282][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0xe13cb380 unVertexCount 49 rIndexData 0xe14e7340 unTriangleCount 60 diffuseTextureId 0
+[2018.12.27-02.31.01:283][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0xe159ccb0 unVertexCount 210 rIndexData 0xe14f5e70 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.31.01:283][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0xe12e8f00 unVertexCount 210 rIndexData 0xe114d700 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.31.01:284][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xe1f5d140 unVertexCount 145 rIndexData 0xea4d9860 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.31.01:284][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0xe133bb00 unVertexCount 515 rIndexData 0xe1ca19e0 unTriangleCount 836 diffuseTextureId 0
+[2018.12.27-02.31.01:285][331]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb1fe3a00 unVertexCount 636 rIndexData 0xe1341770 unTriangleCount 1152 diffuseTextureId 0
+[2018.12.27-02.31.59:617][139]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.27-02.31.59:635][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:636][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:636][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP
+[2018.12.27-02.31.59:639][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:640][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:649][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_ArcEndpoint'
+[2018.12.27-02.31.59:650][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_ArcEndpoint' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:650][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Materials/M_ArcEndpoint
+[2018.12.27-02.31.59:651][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_SplineArcMat'
+[2018.12.27-02.31.59:651][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_SplineArcMat' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:652][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Materials/M_SplineArcMat
+[2018.12.27-02.31.59:652][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_ChaperoneOutline'
+[2018.12.27-02.31.59:653][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_ChaperoneOutline' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:653][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Materials/MI_ChaperoneOutline
+[2018.12.27-02.31.59:653][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview'
+[2018.12.27-02.31.59:654][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:655][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Materials/MI_TeleportCylinderPreview
+[2018.12.27-02.31.59:656][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:656][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:657][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right'
+[2018.12.27-02.31.59:658][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:658][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right
+[2018.12.27-02.31.59:659][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_ArcEndpoint'
+[2018.12.27-02.31.59:659][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_ArcEndpoint' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:660][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_SplineArcMat'
+[2018.12.27-02.31.59:660][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_SplineArcMat' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:660][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_ChaperoneOutline'
+[2018.12.27-02.31.59:661][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_ChaperoneOutline' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:661][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview'
+[2018.12.27-02.31.59:662][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:662][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/1x1_cube'
+[2018.12.27-02.31.59:663][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/1x1_cube' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:663][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Meshes/1x1_cube
+[2018.12.27-02.31.59:664][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeaconDirection'
+[2018.12.27-02.31.59:664][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeaconDirection' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:665][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Meshes/BeaconDirection
+[2018.12.27-02.31.59:666][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeamMesh'
+[2018.12.27-02.31.59:666][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeamMesh' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:667][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Meshes/BeamMesh
+[2018.12.27-02.31.59:667][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/SM_FatCylinder'
+[2018.12.27-02.31.59:667][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/SM_FatCylinder' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:668][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController : Can't find file for asset. /Game/VirtualReality/Meshes/SM_FatCylinder
+[2018.12.27-02.31.59:669][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right'
+[2018.12.27-02.31.59:669][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:670][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/1x1_cube'
+[2018.12.27-02.31.59:670][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/1x1_cube' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:671][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeaconDirection'
+[2018.12.27-02.31.59:671][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeaconDirection' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:672][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeamMesh'
+[2018.12.27-02.31.59:672][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeamMesh' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:673][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/SM_FatCylinder'
+[2018.12.27-02.31.59:673][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/SM_FatCylinder' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.uasset.
+[2018.12.27-02.31.59:676][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:677][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:677][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP
+[2018.12.27-02.31.59:678][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:678][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:679][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:679][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:680][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_ArcEndpoint'
+[2018.12.27-02.31.59:680][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_ArcEndpoint' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:681][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Materials/M_ArcEndpoint
+[2018.12.27-02.31.59:681][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_SplineArcMat'
+[2018.12.27-02.31.59:681][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_SplineArcMat' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:682][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Materials/M_SplineArcMat
+[2018.12.27-02.31.59:682][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_ChaperoneOutline'
+[2018.12.27-02.31.59:683][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_ChaperoneOutline' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:683][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Materials/MI_ChaperoneOutline
+[2018.12.27-02.31.59:684][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview'
+[2018.12.27-02.31.59:684][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:685][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Materials/MI_TeleportCylinderPreview
+[2018.12.27-02.31.59:685][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:686][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:686][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right'
+[2018.12.27-02.31.59:687][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:687][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right
+[2018.12.27-02.31.59:688][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_ArcEndpoint'
+[2018.12.27-02.31.59:688][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_ArcEndpoint' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:689][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_SplineArcMat'
+[2018.12.27-02.31.59:690][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_SplineArcMat' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:690][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_ChaperoneOutline'
+[2018.12.27-02.31.59:691][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_ChaperoneOutline' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:691][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview'
+[2018.12.27-02.31.59:692][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:693][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/1x1_cube'
+[2018.12.27-02.31.59:693][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/1x1_cube' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:693][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Meshes/1x1_cube
+[2018.12.27-02.31.59:694][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeaconDirection'
+[2018.12.27-02.31.59:694][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeaconDirection' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:695][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Meshes/BeaconDirection
+[2018.12.27-02.31.59:695][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeamMesh'
+[2018.12.27-02.31.59:696][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeamMesh' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:696][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Meshes/BeamMesh
+[2018.12.27-02.31.59:697][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/SM_FatCylinder'
+[2018.12.27-02.31.59:697][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/SM_FatCylinder' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:698][139]LoadErrors: Error: /Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn : Can't find file for asset. /Game/VirtualReality/Meshes/SM_FatCylinder
+[2018.12.27-02.31.59:698][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right'
+[2018.12.27-02.31.59:699][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:699][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/1x1_cube'
+[2018.12.27-02.31.59:700][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/1x1_cube' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:701][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeaconDirection'
+[2018.12.27-02.31.59:701][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeaconDirection' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:702][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeamMesh'
+[2018.12.27-02.31.59:703][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeamMesh' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:703][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/SM_FatCylinder'
+[2018.12.27-02.31.59:704][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/SM_FatCylinder' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:704][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeamMesh'
+[2018.12.27-02.31.59:705][139]LoadErrors: Failed to load /Game/VirtualReality/Meshes/BeamMesh.BeamMesh Referenced by NODE_AddSplineMeshComponent-0
+[2018.12.27-02.31.59:705][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeamMesh' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:706][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_SplineArcMat'
+[2018.12.27-02.31.59:706][139]LoadErrors: Failed to load /Game/VirtualReality/Materials/M_SplineArcMat.M_SplineArcMat Referenced by NODE_AddSplineMeshComponent-0
+[2018.12.27-02.31.59:707][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_SplineArcMat' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:715][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:715][139]LoadErrors: Failed to load /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C Referenced by K2Node_DynamicCast_19
+[2018.12.27-02.31.59:716][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:717][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:717][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:718][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:718][139]LoadErrors: Failed to load /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C Referenced by K2Node_VariableSet_102
+[2018.12.27-02.31.59:719][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:720][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:720][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:734][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP'
+[2018.12.27-02.31.59:735][139]LoadErrors: Failed to load /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C Referenced by HandMesh_GEN_VARIABLE
+[2018.12.27-02.31.59:735][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:736][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right'
+[2018.12.27-02.31.59:736][139]LoadErrors: Failed to load /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right Referenced by HandMesh_GEN_VARIABLE
+[2018.12.27-02.31.59:737][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:738][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_ArcEndpoint'
+[2018.12.27-02.31.59:738][139]LoadErrors: Failed to load /Game/VirtualReality/Materials/M_ArcEndpoint.M_ArcEndpoint Referenced by ArcEndPoint_GEN_VARIABLE
+[2018.12.27-02.31.59:738][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_ArcEndpoint' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:739][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview'
+[2018.12.27-02.31.59:740][139]LoadErrors: Failed to load /Game/VirtualReality/Materials/MI_TeleportCylinderPreview.MI_TeleportCylinderPreview Referenced by TeleportCylinder_GEN_VARIABLE
+[2018.12.27-02.31.59:740][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_TeleportCylinderPreview' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:741][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/SM_FatCylinder'
+[2018.12.27-02.31.59:741][139]LoadErrors: Failed to load /Game/VirtualReality/Meshes/SM_FatCylinder.SM_FatCylinder Referenced by Ring_GEN_VARIABLE
+[2018.12.27-02.31.59:742][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/SM_FatCylinder' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:743][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_ArcEndpoint'
+[2018.12.27-02.31.59:743][139]LoadErrors: Failed to load /Game/VirtualReality/Materials/M_ArcEndpoint.M_ArcEndpoint Referenced by Ring_GEN_VARIABLE
+[2018.12.27-02.31.59:744][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_ArcEndpoint' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:744][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/BeaconDirection'
+[2018.12.27-02.31.59:745][139]LoadErrors: Failed to load /Game/VirtualReality/Meshes/BeaconDirection.BeaconDirection Referenced by Arrow_GEN_VARIABLE
+[2018.12.27-02.31.59:745][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/BeaconDirection' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:746][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/M_ArcEndpoint'
+[2018.12.27-02.31.59:746][139]LoadErrors: Failed to load /Game/VirtualReality/Materials/M_ArcEndpoint.M_ArcEndpoint Referenced by Arrow_GEN_VARIABLE
+[2018.12.27-02.31.59:747][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/M_ArcEndpoint' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:748][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Meshes/1x1_cube'
+[2018.12.27-02.31.59:748][139]LoadErrors: Failed to load /Game/VirtualReality/Meshes/1x1_cube.1x1_cube Referenced by RoomScaleMesh_GEN_VARIABLE
+[2018.12.27-02.31.59:748][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Meshes/1x1_cube' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:749][139]LogLinker: Warning: Can't find file '/Game/VirtualReality/Materials/MI_ChaperoneOutline'
+[2018.12.27-02.31.59:749][139]LoadErrors: Failed to load /Game/VirtualReality/Materials/MI_ChaperoneOutline.MI_ChaperoneOutline Referenced by RoomScaleMesh_GEN_VARIABLE
+[2018.12.27-02.31.59:750][139]LogLinker: Warning: Can't find file for asset '/Game/VirtualReality/Materials/MI_ChaperoneOutline' while loading ../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset.
+[2018.12.27-02.31.59:766][139]LogBlueprint: Warning: [Compiler BP_MotionController] Could not find a variable named "GripState" in 'BP_MotionController'.
+Make sure 'BP_MotionController' has been compiled for  Set GripState
+[2018.12.27-02.31.59:767][139]LogBlueprint: Error: [Compiler BP_MotionController] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.12.27-02.31.59:768][139]LogBlueprint: Error: [Compiler BP_MotionController] In use pin  As Right Hand Anim BP  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.12.27-02.31.59:768][139]LogBlueprint: Error: [Compiler BP_MotionController] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.12.27-02.31.59:785][139]LogBlueprint: Error: [Compiler BP_MotionController] The property associated with  Grip State  could not be found in '/Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C'
+[2018.12.27-02.31.59:791][139]LogBlueprint: Warning: [Compiler BP_MotionController] [0087.96] Compile of BP_MotionController failed. 4 Fatal Issue(s) 1 Warning(s) [in 39 ms] (/Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController)
+[2018.12.27-02.31.59:815][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2018.12.27-02.31.59:815][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2018.12.27-02.31.59:815][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2018.12.27-02.31.59:816][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2018.12.27-02.31.59:817][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2018.12.27-02.31.59:817][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2018.12.27-02.31.59:818][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabRight' for  InputAction GrabRight
+[2018.12.27-02.31.59:818][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabLeft' for  InputAction GrabLeft
+[2018.12.27-02.31.59:827][139]LogBlueprint: Warning: [Compiler MotionControllerPawn] [0087.99] Compile of MotionControllerPawn successful, but with 8 Warning(s) [in 21 ms] (/Game/_Imported/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.12.27-02.32.01:129][279]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.27-02.32.03:759][587]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.27-02.33.02:135][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/Phantom/PhantomPawn_BP" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomPawn_BP.uasset" SILENT=true
+[2018.12.27-02.33.02:216][478]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/PhantomPawn_BPAF12D95141FE2263ADFFEA8F0C8D7DAE.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomPawn_BP.uasset'
+[2018.12.27-02.33.03:499][628]BlueprintLog: New page: Compile PhantomPawn_BP
+[2018.12.27-02.33.03:547][628]LogBlueprint: Error: [Compiler PhantomPawn_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.27-02.33.03:548][628]LogBlueprint: Error: [Compiler PhantomPawn_BP] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.12.27-02.33.03:747][628]LogBlueprint: Warning: [Compiler PhantomPawn_BP] [0151.91] Compile of PhantomPawn_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 246 ms] (/Game/Pawns/Phantom/PhantomPawn_BP.PhantomPawn_BP)
+[2018.12.27-02.33.03:755][628]LogTexture: Display: Building textures: T_SteamVR_0 (BGRA8, 2048X2048)
+[2018.12.27-02.33.03:819][628]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xe1c18010 unVertexCount 10289 rIndexData 0xe1f481d0 unTriangleCount 13966 diffuseTextureId 0
+[2018.12.27-02.33.03:822][628]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xe1ab0f00 unVertexCount 145 rIndexData 0xe1ce9190 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.33.03:822][628]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0xe13cb380 unVertexCount 49 rIndexData 0xe14e7340 unTriangleCount 60 diffuseTextureId 0
+[2018.12.27-02.33.03:823][628]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0xe159ccb0 unVertexCount 210 rIndexData 0xe14f5e70 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.33.03:824][628]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0xe12e8f00 unVertexCount 210 rIndexData 0xe114d700 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.33.03:824][628]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xe1f5d140 unVertexCount 145 rIndexData 0xea4d9860 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.33.03:825][628]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0xe133bb00 unVertexCount 515 rIndexData 0xe1ca19e0 unTriangleCount 836 diffuseTextureId 0
+[2018.12.27-02.33.03:826][628]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb1fe3a00 unVertexCount 636 rIndexData 0xe1341770 unTriangleCount 1152 diffuseTextureId 0
+[2018.12.27-02.33.35:526][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pawns/Phantom/PhantomPawn_BP" FILE="../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomPawn_BP.uasset" SILENT=true
+[2018.12.27-02.33.35:593][320]LogSavePackage: Moving '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Saved/PhantomPawn_BPA4B4B7254619D34D72AD289E0C59EB51.tmp' to '../../../../../../Projects/VR/VR_SwordMechanic/PhantomMechanic/Content/Pawns/Phantom/PhantomPawn_BP.uasset'
+[2018.12.27-02.33.36:921][477]BlueprintLog: New page: Compile PhantomPawn_BP
+[2018.12.27-02.33.37:166][477]LogTexture: Display: Building textures: T_SteamVR_0 (BGRA8, 2048X2048)
+[2018.12.27-02.33.37:227][477]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xe1c18010 unVertexCount 10289 rIndexData 0xe1f481d0 unTriangleCount 13966 diffuseTextureId 0
+[2018.12.27-02.33.37:230][477]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xe1ab0f00 unVertexCount 145 rIndexData 0xe1ce9190 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.33.37:231][477]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0xe13cb380 unVertexCount 49 rIndexData 0xe14e7340 unTriangleCount 60 diffuseTextureId 0
+[2018.12.27-02.33.37:232][477]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0xe159ccb0 unVertexCount 210 rIndexData 0xe14f5e70 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.33.37:232][477]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0xe12e8f00 unVertexCount 210 rIndexData 0xe114d700 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.33.37:233][477]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xe1f5d140 unVertexCount 145 rIndexData 0xea4d9860 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.33.37:233][477]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0xe133bb00 unVertexCount 515 rIndexData 0xe1ca19e0 unTriangleCount 836 diffuseTextureId 0
+[2018.12.27-02.33.37:234][477]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb1fe3a00 unVertexCount 636 rIndexData 0xe1341770 unTriangleCount 1152 diffuseTextureId 0
+[2018.12.27-02.33.37:890][550]LogTemp: Repeating last play command: VR Preview
+[2018.12.27-02.33.37:911][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test_Initial/Test_Initial.Test_Initial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test_Initial/Test_Initial.Test_Initial:PersistentLevel.Test_Initial' with GeneratedClass '/Game/Levels/Test_Initial/Test_Initial.Test_Initial_C' with ClassGeneratedBy '/Game/Levels/Test_Initial/Test_Initial.Test_Initial:PersistentLevel.Test_Initial'
+[2018.12.27-02.33.37:912][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.27-02.33.39:555][550]LogSlate: Window 'Message' being destroyed
+[2018.12.27-02.33.41:003][743]BlueprintLog: New page: Compile PhantomPawn_BP
+[2018.12.27-02.33.41:248][743]LogTexture: Display: Building textures: T_SteamVR_0 (BGRA8, 2048X2048)
+[2018.12.27-02.33.41:306][743]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\body.obj rVertexData 0xe1c18010 unVertexCount 10289 rIndexData 0xe1f481d0 unTriangleCount 13966 diffuseTextureId 0
+[2018.12.27-02.33.41:309][743]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\button.obj rVertexData 0xe1ab0f00 unVertexCount 145 rIndexData 0xe1ce9190 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.33.41:310][743]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\led.obj rVertexData 0xe13cb380 unVertexCount 49 rIndexData 0xe14e7340 unTriangleCount 60 diffuseTextureId 0
+[2018.12.27-02.33.41:311][743]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\l_grip.obj rVertexData 0xe159ccb0 unVertexCount 210 rIndexData 0xe14f5e70 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.33.41:312][743]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\r_grip.obj rVertexData 0xe12e8f00 unVertexCount 210 rIndexData 0xe114d700 unTriangleCount 392 diffuseTextureId 0
+[2018.12.27-02.33.41:312][743]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\sys_button.obj rVertexData 0xe1f5d140 unVertexCount 145 rIndexData 0xea4d9860 unTriangleCount 264 diffuseTextureId 0
+[2018.12.27-02.33.41:313][743]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trackpad.obj rVertexData 0xe133bb00 unVertexCount 515 rIndexData 0xe1ca19e0 unTriangleCount 836 diffuseTextureId 0
+[2018.12.27-02.33.41:314][743]LogSteamVR: FSteamVRModel::GetRawMeshData ResourceId F:\Steam\steamapps\common\SteamVR\resources\rendermodels\vr_controller_vive_1_5\trigger.obj rVertexData 0xb1fe3a00 unVertexCount 636 rIndexData 0xe1341770 unTriangleCount 1152 diffuseTextureId 0
+[2018.12.27-02.33.42:877][941]LogTemp: Repeating last play command: VR Preview
+[2018.12.27-02.33.42:899][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test_Initial/Test_Initial.Test_Initial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test_Initial/Test_Initial.Test_Initial:PersistentLevel.Test_Initial' with GeneratedClass '/Game/Levels/Test_Initial/Test_Initial.Test_Initial_C' with ClassGeneratedBy '/Game/Levels/Test_Initial/Test_Initial.Test_Initial:PersistentLevel.Test_Initial'
+[2018.12.27-02.33.42:900][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.27-02.33.47:191][941]LogSlate: Window 'Message' being destroyed
+[2018.12.27-02.34.03:451][950]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Imported/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2018.12.27-02.34.05:770][182]LogSlate: Window 'BP_MotionController' being destroyed

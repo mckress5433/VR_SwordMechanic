@@ -16,10 +16,15 @@ class PHANTOMMECHANIC_API APhantomPart : public ABodyPart
 
 public:
 
+	APhantomPart();
+
 	UFUNCTION(BlueprintCallable, BlueprintNativeEvent)
 	void PhantomMaterialUpdater();
 	
 	
-	
-	
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+		USceneComponent *PhantomPart_Root;
+
+private:
+	void SetupComponents();
 };

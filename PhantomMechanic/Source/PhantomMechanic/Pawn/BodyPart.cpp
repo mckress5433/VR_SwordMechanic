@@ -9,9 +9,13 @@ ABodyPart::ABodyPart()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	SkeletalMesh = CreateDefaultSubobject <USkeletalMeshComponent> ("Skeletal Mesh");
+	BodyPartRoot = CreateDefaultSubobject<USceneComponent>("Body Part");
+	SkeletalMesh      = CreateDefaultSubobject <USkeletalMeshComponent>("Skeletal Mesh"     );
+	ThresholdCollider = CreateDefaultSubobject <UBoxComponent		  >("Threshold Collider");
 
-	ThresholdCollider = CreateDefaultSubobject <UBoxComponent>("Threshold Collider");
+	BodyPartRoot->SetupAttachment(RootComponent);
+	SkeletalMesh     ->SetupAttachment(BodyPartRoot);
+	ThresholdCollider->SetupAttachment(BodyPartRoot);
 
 	Velocity = 0.0f;
 
